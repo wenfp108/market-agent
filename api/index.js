@@ -4,20 +4,19 @@ export default async function handler(req, res) {
   try {
     const { GITHUB_TOKEN, REPO_OWNER, REPO_NAME, CRON_SECRET } = process.env;
 
-    // 🔒 1. 安全门神 (保持不变)
+    // 🔒 1. 安全门神
     if (req.query.key !== CRON_SECRET) {
       return res.status(401).json({ error: '⛔ Unauthorized' });
     }
 
     const headers = { 
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36',
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
       'Referer': 'https://polymarket.com/'
     };
 
-    // === 📅 2. 智能时间逻辑 (保持不变，下划线逻辑不动) ===
+    // === 📅 2. 你的智能时间逻辑 (保留原样) ===
     const now = new Date();
     const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-    
     const currDay = now.getDate();
     const currMonthIdx = now.getMonth();
     const currYear = now.getFullYear();
@@ -39,6 +38,7 @@ export default async function handler(req, res) {
     const t2 = new Date(now.getTime() + 86400000 * 2);
     const targetDates = [getFmtDate(t0), getFmtDate(t1), getFmtDate(t2)];
 
+    // === 🔍 3. 指令生成器 (保留你的下划线格式) ===
     let searchQueries = [];
     targetMonths.forEach(m => {
         searchQueries.push(`What will Gold (GC) settle at in ${m}?`);
@@ -59,9 +59,9 @@ export default async function handler(req, res) {
 
     let scoutedSlugs = new Set();
     let debugLog = [];
+    debugLog.push(`Task Start: Generated ${searchQueries.length} queries`);
 
-    // 🚀 第一阶段：搜索 (Scouting) - 【此处已修改为 Algolia 高精度方案】
-    // 这是官网搜索框的真实接口，专门用来把问题转换成 slug
+    // 🚀 第一阶段：高精度搜索 (Scouting)
     const algoliaUrl = "https://p6o7n0849h-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.20.0)";
     const algoliaHeaders = {
       'x-algolia-api-key': '0699042c3ef3ef3083163683a3f3607f',
@@ -70,35 +70,32 @@ export default async function handler(req, res) {
 
     for (const q of searchQueries) {
       try {
-        const algoliaBody = {
+        const algoliaResp = await axios.post(algoliaUrl, {
           "requests": [{
             "indexName": "polymarket_events_production",
-            "params": `query=${encodeURIComponent(q)}&hitsPerPage=1` // 精准锁定第1个结果
+            "params": `query=${encodeURIComponent(q)}&hitsPerPage=1`
           }]
-        };
+        }, { headers: algoliaHeaders, timeout: 5000 });
 
-        const algoliaResp = await axios.post(algoliaUrl, algoliaBody, { headers: algoliaHeaders });
         const hit = algoliaResp.data.results[0].hits[0];
-
         if (hit && hit.slug) {
           scoutedSlugs.add(hit.slug);
-          debugLog.push(`Query [${q}] -> Found Slug: ${hit.slug}`);
+          debugLog.push(`[MATCH] "${q}" -> ${hit.slug}`);
         } else {
-          debugLog.push(`Query [${q}] -> No match found`);
+          debugLog.push(`[EMPTY] "${q}" - No results`);
         }
       } catch (err) {
-        console.error(`Algolia error for query [${q}]:`, err.message);
+        debugLog.push(`[ERROR] "${q}" - ${err.message}`);
       }
     }
 
-    // 🚀 第二阶段：提取 (Fetching) - (保持不变，现在它能拿到真正的 slug 了)
+    // 🚀 第二阶段：提取数据 (Fetching)
     let processedData = [];
 
     for (const slug of scoutedSlugs) {
       try {
-        const eventResp = await axios.get(`https://gamma-api.polymarket.com/events?slug=${slug}`, { headers });
+        const eventResp = await axios.get(`https://gamma-api.polymarket.com/events?slug=${slug}`, { headers, timeout: 5000 });
         const event = eventResp.data[0];
-        
         if (!event || !event.markets) continue;
 
         event.markets.forEach(m => {
@@ -130,18 +127,20 @@ export default async function handler(req, res) {
             });
         });
       } catch (e) {
-          console.error(`Error fetching slug ${slug}:`, e.message);
+          debugLog.push(`[FETCH ERROR] slug ${slug}: ${e.message}`);
       }
     }
 
     processedData.sort((a, b) => b.volume - a.volume);
 
-    // 🚀 第三阶段：GitHub 存档 (保持不变)
+    // 🚀 第三阶段：GitHub 存档
     const isoString = now.toISOString();
     const datePart = isoString.split('T')[0];
     const timePart = isoString.split('T')[1].split('.')[0].replace(/:/g, '-');
     const fileName = `Finance_LIVE_${datePart}_${timePart}.json`;
     const path = `data/strategy/${datePart}/${fileName}`;
+    
+    // 如果没找到数据，debugLog 会告诉你原因
     const contentPayload = processedData.length > 0 ? processedData : [{ info: "No active markets found", debug: debugLog }];
 
     await axios.put(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`, {
@@ -149,7 +148,7 @@ export default async function handler(req, res) {
       content: Buffer.from(JSON.stringify(contentPayload, null, 2)).toString('base64')
     }, { headers: { Authorization: `Bearer ${GITHUB_TOKEN}` } });
 
-    res.status(200).send(`✅ 运行成功！发现 ${processedData.length} 条有效数据。`);
+    res.status(200).send(`✅ 运行成功！处理了 ${searchQueries.length} 个词，找到 ${processedData.length} 条数据。`);
   } catch (err) {
     console.error(err);
     res.status(500).send(`❌ Error: ${err.message}`);
