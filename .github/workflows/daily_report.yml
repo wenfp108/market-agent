@@ -1,6 +1,5 @@
 name: Daily Heatmap & JSON Report
 
-# 每天北京时间 23:30 (UTC 15:30) 自动运行
 on:
   schedule:
     - cron: '30 15 * * *'
@@ -23,35 +22,40 @@ jobs:
 
       - name: Generate Reports
         run: |
-          # 注意：这里的 EOF 加了单引号，防止 Shell 误读 $ 符号
           cat <<'EOF' > analyzer.py
           import os
           import json
-          from datetime import datetime
-          import pytz
-
-          # 1. 设定输入目录 (读数据的地方)
-          tz = pytz.timezone('Asia/Shanghai')
-          today_str = datetime.now(tz).strftime('%Y-%m-%d')
-          source_dir = f"data/{today_str}"
           
-          # 2. 设定输出目录 (存报表的地方 -> 独立的 reports 文件夹)
+          # === 1. 智能查找最新数据文件夹 ===
+          data_root = "data"
+          if not os.path.exists(data_root):
+              print("错误: data 目录不存在")
+              exit(0)
+          
+          # 获取 data 下所有的日期文件夹，并按名称排序
+          all_dirs = [d for d in os.listdir(data_root) if os.path.isdir(os.path.join(data_root, d)) and d[0].isdigit()]
+          all_dirs.sort()
+          
+          if not all_dirs:
+              print("错误: 没有找到任何日期数据文件夹")
+              exit(0)
+              
+          # 锁定最新的一个文件夹 (不管今天是几号，只拿最新的)
+          latest_date = all_dirs[-1] 
+          source_dir = os.path.join(data_root, latest_date)
+          
+          # === 2. 设定输出目录 ===
           report_dir = "reports"
           if not os.path.exists(report_dir):
-              os.makedirs(report_dir) # 如果没有就新建
+              os.makedirs(report_dir)
 
-          print(f"正在分析目录: {source_dir}")
+          print(f"🎯 锁定最新数据源: {source_dir}")
 
-          if not os.path.exists(source_dir):
-              print("今日无数据。")
-              exit(0)
-
-          # 3. 核心聚合逻辑
+          # === 3. 核心聚合逻辑 ===
           event_map = {}
           file_count = 0
 
           for filename in os.listdir(source_dir):
-              # 只读原始 JSON，不读其他乱七八糟的
               if filename.endswith(".json"):
                   file_count += 1
                   filepath = os.path.join(source_dir, filename)
@@ -117,13 +121,39 @@ jobs:
 
           report_list.sort(key=lambda x: (x['count'], x['volume']), reverse=True)
 
-          # === 输出 1: Markdown 到 reports/ 文件夹 ===
-          md = f"# 📊 全天候热力战报 ({today_str})\n\n"
-          md += f"**文件采样**: {file_count} | **去重事件**: {len(report_list)}\n\n"
+          # === 输出 1: Markdown ===
+          # 注意：文件名使用数据源的日期，保持一致
+          md = f"# 📊 全天候热力战报 ({latest_date})\n\n"
+          md += f"**数据源**: `{latest_date}` | **文件采样**: {file_count} | **去重事件**: {len(report_list)}\n\n"
           md += "| 热度 | 板块 | 事件标题 | 共识 | 资金 |\n"
           md += "| :--- | :--- | :--- | :--- | :--- |\n"
 
           for item in report_list:
               count = item['count']
               if count >= 20: icon = "🔥🔥🔥"
-              elif count >=
+              elif count >= 10: icon = "🔥"
+              elif count >= 5: icon = "⭐️"
+              else: icon = "❄️"
+              vol = f"${item['volume']/1000000:.2f}M" if item['volume'] > 1000000 else f"${item['volume']/1000:.0f}k"
+              md += f"| {icon} {count} | {item['sector']} | [{item['title']}]({item['url']}) | {item['prob_str']} | {vol} |\n"
+
+          with open(f"{report_dir}/DAILY_HEATMAP_{latest_date}.md", "w") as f:
+              f.write(md)
+
+          # === 输出 2: JSON Summary ===
+          json_path = f"{report_dir}/DAILY_SUMMARY_{latest_date}.json"
+          with open(json_path, 'w') as f:
+              json.dump(raw_data_list, f, indent=2)
+
+          print(f"✅ 成功! 报表已生成在 reports/ 目录，基于 {latest_date} 数据")
+          EOF
+
+          python analyzer.py
+
+      - name: Commit results
+        run: |
+          git config --global user.name "Report Bot"
+          git config --global user.email "bot@github.com"
+          git add reports/
+          git commit -m "📊 Generate Reports" || exit 0
+          git push
