@@ -1,9 +1,9 @@
-name: 📡 Radar Hourly Scan (Offset 20m)
+name: 📡 Radar Hourly Scan
 
 on:
   schedule:
     # 核心修改：每小时的第 20 分钟触发 (错峰运行)
-    - cron: '20 * * * *'
+    - cron: '35 * * * *'
   # 保留手动触发按钮
   workflow_dispatch:
 
