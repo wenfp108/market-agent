@@ -1,136 +1,121 @@
-# 🌍 Macro Scouter (宏观信号监测哨兵)
+# 🌍 Macro Scouter (宏观信号监测哨兵) v2.0
 
 > **"Data is the new oil, but signal is the new gold."**
-> 一个基于 Polymarket 预测市场的自动化宏观经济监测系统。**双引擎驱动，七维度过滤，高信噪比。**
-
-## 🚀 核心架构：双引擎系统
-
-本系统采用“狙击+雷达”双机协同模式，确保既不漏掉核心目标，也能捕捉意外的黑天鹅。
-
-* **🎯 一号机 (Sniper - 守正)**:
-* **职责**：精准跟踪。根据你在 **GitHub Issues** 中定义的“宏观 8 问”进行深度爬取。
-* **特性**：支持动态占位符（如 `{month}`），确保黄金、美联储等核心标的永不掉线。
-
-
-* **📡 二号机 (Radar - 出奇)**:
-* **职责**：全网扫描。每小时扫描 Polymarket 全站成交额 Top 100 的市场。
-* **特性**：内置 **7 大核心板块过滤算法**，自动清洗掉体育、娱乐等无效博弈，仅保留具备宏观穿透力的信号。
-
-
+> 一个基于 Polymarket 预测市场的自动化宏观经济监测系统。**大师策略加持，双引擎驱动，高信噪比。**
 
 ---
 
-## 🛠️ 架构图
+## 🚀 核心架构：大师增强型双引擎
+
+本系统在 2.0 版本中引入了**大师策略引擎**，不再仅仅是搬运数据，而是对每一条赔率进行“智力审计”。
+
+### 1. 🎯 一号机 (Sniper - 守正)
+
+* **职责**：定向狙击。根据你在 **GitHub Issues** 中定义的指令（如美联储决议、黄金走势）进行深度扫描。
+* **特性**：支持 `{month}` 动态占位符；内置大师打标，捕捉核心标的的极端定价机会。
+
+### 2. 📡 二号机 (Radar - 出奇)
+
+* **职责**：全网搜索。每小时扫描全站成交额 Top 100 的市场，发现你意料之外的黑天鹅。
+* **特性**：**7 大板块过滤** + **大师逻辑筛选**。自动剔除娱乐噪音，只留硬核信号。
+
+---
+
+## 🧠 大师思维模型 (Strategy Engine)
+
+系统通过 4 位顶级投资大师的逻辑对数据进行实时打标，结果存储于 JSON 的 `strategy_tags` 字段中：
+
+| 大师 (Master) | 核心逻辑 (Logic) | 识别信号 | 宏观价值 |
+| --- | --- | --- | --- |
+| **塔勒布 (Taleb)** | **尾部风险** | 赔率 < 5% 但流动性充足 | 发现被市场忽视的**“黑天鹅”**机会 |
+| 索罗斯 (Soros) | 反身性 | 24h 成交激增且价格剧烈波动 | 捕捉由资金驱动的**趋势反转**或大户操纵 |
+| 芒格 (Munger) | 确定性 | 极窄点差 + 巨额成交量 | 锁定共识高度统一的**“确定性事实”** |
+| **纳瓦尔 (Naval)** | **科技杠杆** | 专注于 TECH 板块的高额投入项目 | 监测具有**高杠杆属性**的技术突围点 |
+
+---
+
+## 🛠️ 系统架构图
 
 ```mermaid
 graph TD
-    subgraph GitHub_Control [GitHub 指挥部]
-        A1[GitHub Issues<br/>定向狙击指令]
-        A2[GitHub Actions<br/>错峰调度扳机]
+    subgraph GitHub_HQ [GitHub 指挥部]
+        A1[GitHub Issues<br/>狙击指令]
+        A2[GitHub Actions<br/>错峰调度器]
+    end
+
+    subgraph Logic_Layer [策略打标层]
+        M1[Taleb: 尾部风险]
+        M2[Soros: 反身性]
+        M3[Munger: 确定性]
+        M4[Naval: 科技杠杆]
     end
 
     subgraph Execution_Layer [Hugging Face 执行层]
-        B1(🎯 Sniper Engine<br/>定向抓取 :00/:15)
-        B2(📡 Radar Engine<br/>全网扫描 :20)
+        B1(🎯 Sniper Engine<br/>定向抓取)
+        B2(📡 Radar Engine<br/>全网扫描)
     end
 
-    subgraph External [数据源]
-        E[Polymarket API/Web]
+    subgraph Data_Vault [私有数据金矿]
+        C1[(data/strategy<br/>定向情报)]
+        C2[(data/trends<br/>宏观趋势)]
     end
 
-    subgraph Private_Vault [私有数据金矿]
-        C1[(data/strategy<br/>精准策略库)]
-        C2[(data/trends<br/>宏观趋势库)]
-        C3[(src/<br/>源码备份归档)]
-    end
-
-    %% 调度逻辑
-    A2 -- "唤醒" --> B1
-    A2 -- "唤醒" --> B2
-    
-    %% Sniper 流程
-    B1 -- "1. 读取指令" --> A1
-    B1 -- "2. 模拟抓取" --> E
-    B1 -- "3. 存入" --> C1
-
-    %% Radar 流程
-    B2 -- "1. 扫描全网" --> E
-    B2 -- "2. 7大板块清洗" --> B2
-    B2 -- "3. 对齐去重" --> A1
-    B2 -- "4. 存入" --> C2
-
-    %% 源码管理
-    B1 & B2 -. "定期备份" .-> C3
+    A2 -- "触发" --> B1 & B2
+    B1 -- "读取指令" --> A1
+    B1 & B2 -- "数据预处理" --> Logic_Layer
+    Logic_Layer -- "打标 Tags" --> C1 & C2
 
 ```
 
 ---
 
-## 🛡️ 七大核心监控板块与筛选准则
+## 🛡️ 板块监测准则 (Filtering Rules)
 
-为了确保数据纯净，二号机内置了严格的“信号 vs 噪音”识别逻辑：
+二号机 (Radar) 内置严格的板块隔离墙，确保你看到的永远是硬核宏观：
 
-| 板块 (Category) | 监控核心 (Signals) | 剔除噪音 (Noise) | 宏观价值 |
-| --- | --- | --- | --- |
-| **Politics** | 美国大选、官员任命、政府停摆 | 社交媒体推文、民调、日常着装 | 掌握全球权力核心的动向 |
-| **Economy** | 美联储 (Fed)、通胀 (CPI)、就业数据 | 非核心国家排名、一般性声明 | 预判利率路径与资产定价 |
-| **Finance** | 金/银交割、S&P 500、原油、万亿市值 | 小盘股并购、常规财报、IPO | 监测大宗商品与流动性风向 |
-| **Crypto** | BTC/ETH 趋势、ETF 流入、市值占比 | 山寨币/土狗、NFT、空投信息 | 风险资产的情绪温度计 |
-| **Tech** | AI 模型基准 (Gemini/GPT)、半导体 | App 下载排名、网红周边、游戏 | 捕捉第四次工业革命的奇点 |
-| **Geopolitics** | 军事冲突、停火协议、政权更迭 | 边缘小国选举、常规外交访问 | 锁定黑天鹅，预警供应链中断 |
-| **Science** | 极端天灾、全球疫情、SpaceX 进展 | 局部城市天气 (降雪/降雨) | 捕捉长尾风险与商业航天估值 |
-
----
-
-## 🧠 智能筛选逻辑 (Filtering Logic)
-
-系统不仅仅是抓取，更是在“思考”数据的价值：
-
-1. **优先级去重 (Priority Sorting)**:
-如果一个事件同时拥有多个标签，系统会根据 `Politics > Economy > ... > World` 的优先级自动归类，确保 JSON 数据分类精准。
-2. **资金门槛 (Volume Gate)**:
-* **24h 成交额 > $10,000**: 只有产生真实博弈的市场才会被雷达捕获。
-* **自动剔除死盘**: 排除无成交量、点差 (Spread) 过大的无效盘口。
-
-
-3. **关键词清洗 (Keyword Cleaning)**:
-内置强大的 `Noise List`。如果标题包含 "Tweet" 或 "Mentions"，该数据将被视为社交噪音自动丢弃。
-4. **一号机黑名单**:
-雷达在扫描时会自动读取 Issues 列表。如果某个标的已经在一号机的“狙击范围”内，二号机会自动跳过，避免数据冗余。
+| 板块 (Category) | 监控核心 (Signals) | 剔除噪音 (Noise) |
+| --- | --- | --- |
+| **Politics** | 美国大选、官员任命、政府停摆 | 民调、社交媒体推文、着装 |
+| **Economy** | Fed、CPI、就业、衰退风险 | 边缘国家数据、一般性声明 |
+| **Finance** | 黄金、原油、S&P 500、大市值公司 | 财报细节、常规并购、IPO |
+| **Tech** | AI 模型基准、Nvidia、半导体、AGI | 游戏、App 下载排名、网红 |
+| **Geopolitics** | 军事冲突、停火协议、边境风险 | 边缘小国选举、常规外交访问 |
+| **Science** | 极端天灾、病毒预警、SpaceX 进展 | 局部城市天气、降雪/降雨量 |
 
 ---
 
-## 🕹️ 如何配置与查看
+## 🕹️ 运行与配置
 
-### 1. 配置监控目标 (Sniper)
+### 1. 添加监控目标
 
-在 [Issues 页面](https://github.com/wenfp108/poly-data/issues) 新建 Issue：
+在 GitHub Issues 中新建 Issue，Sniper 引擎会自动识别：
 
+* `Fed decision in {month}?` (自动替换为当前月与次月)
 * `What will Gold (GC) settle at in {month}?`
-* `Fed decision in {month}?`
 
-### 2. 自动化调度 (Action)
+### 2. 查看数据报告
 
-系统已配置双任务错峰运行：
+数据以结构化 JSON 存储，包含 `strategy_tags` 战略分析：
 
-* **xx:00 / xx:15**: 触发 Sniper (一号机)，专注核心策略。
-* **xx:20**: 触发 Radar (二号机)，扫描全球热点。
+```json
+{
+  "question": "50+ bps decrease",
+  "prices": "Yes: 0.1% | No: 100.0%",
+  "strategy_tags": ["TAIL_RISK", "HIGH_CERTAINTY"],
+  "engine": "sniper",
+  "category": "ECONOMY"
+}
 
-### 3. 数据路径
+```
 
-* **策略数据**: `data/strategy/YYYY-MM-DD/sniper-YYYY-M-D-HH_mm.json`
-* **趋势数据**: `data/trends/YYYY-MM-DD/radar-YYYY-M-D-HH_mm.json`
+### 3. 环境变量 (Secrets)
 
----
-
-## ⚙️ 部署参数 (Secrets)
-
-| 环境变量 | 说明 |
+| 变量名 | 说明 |
 | --- | --- |
-| `GITHUB_TOKEN` | 必须具备 `repo` 权限以读写 Issue 和 Data |
-| `REPO_OWNER` | GitHub 用户名 (e.g., *wenfp108*) |
-| `REPO_NAME` | 数据仓库名 (e.g., *poly-data*) |
+| `GITHUB_TOKEN` | 读写 Issue 和存储 Data 的权限 |
+| `REPO_OWNER` | GitHub 用户名 (如: `wenfp108`) |
+| `REPO_NAME` | 仓库名 (如: `poly-data`) |
 
 ---
 
-*Built with ❤️ by **Woon**. Powered by AI-driven Macro Scouter Engine.*
+*Built with ❤️ by **Woon**. Powered by Master-Logic Augmented Scouter Engine.*
