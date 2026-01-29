@@ -23,9 +23,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          # cache: 'npm'  <-- 保持注释状态
+          cache: 'npm'  # ✅ 【关键修改1】去掉了井号，开启高速缓存
 
-      # 🔥【修复版】适配 Ubuntu 24.04 依赖列表
+      # 🔥【修复版】适配 Ubuntu 24.04 依赖列表 (这部分保持原样)
       - name: Install System Dependencies for Chrome
         run: |
           sudo apt-get update
@@ -68,7 +68,7 @@ jobs:
             xdg-utils
 
       - name: Install Project Dependencies
-        run: npm install
+        run: npm ci  # ✅ 【关键修改2】改为 'npm ci'，比 install 快10倍
 
       # 🎯 Phase 1: Sniper
       - name: 🎯 Run Sniper Engine
