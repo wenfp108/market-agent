@@ -9,7 +9,7 @@ jobs:
   engage_targets:
     runs-on: ubuntu-latest
     
-    # 设置全局环境变量，两个脚本都能用
+    # 设置全局环境变量
     env:
       MY_PAT: ${{ secrets.MY_PAT }}
       REPO_OWNER: ${{ github.repository_owner }}
@@ -25,19 +25,18 @@ jobs:
           node-version: '20'
 
       - name: Install Dependencies
-        # 这里会读取根目录唯一的 package.json
         run: npm install
 
       # 🔥 第一阶段：狙击手出动
-      - name: 🎯 Phase 1: Sniper Engine (Targeted Strike)
+      - name: 🎯 Phase 1: Sniper Engine
         run: node sniper.js
 
-      # ⏳ 战术暂停：防止 GitHub API 并发限制或文件锁冲突
+      # ⏳ 战术暂停
       - name: ⏳ Tactical Pause
         run: |
           echo "Cooling down engines..."
-          sleep 10  # 暂停 10 秒
+          sleep 10
 
       # 🔥 第二阶段：雷达扫描
-      - name: 📡 Phase 2: Radar Engine (Global Scan)
+      - name: 📡 Phase 2: Radar Engine
         run: node radar.js
