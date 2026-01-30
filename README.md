@@ -4,22 +4,7 @@
 
 ---
 
-### 🕒 Frequency
 
-* Polling Interval: 4h / cycle
-
-### 📂 File Structure
-
-* `/tweets/`: Daily storage of raw data strings.
-* `/accounts/`: Local directory for ID index files.
-
-### 📝 Logic & Scripts
-
-* **Baseline Monitoring**: Tracking simple data deltas over 24h periods.
-* **Categorization**: Sorting inputs into generic tags (Politics, Science, Tech) based on basic keyword matching.
-* **I/O Sync**: Local temporary storage for memory optimization.
-
----
 
 ### 🛠️ Environment
 
