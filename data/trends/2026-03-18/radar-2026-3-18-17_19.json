@@ -1,0 +1,717 @@
+[
+  {
+    "slug": "fed-decision-in-march-885",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-march-2026-meeting",
+    "question": "25+ bps increase",
+    "eventTitle": "Fed decision in March?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 171746011,
+    "liquidity": 761871,
+    "endDate": "2026-03-18",
+    "dayChange": "-0.10%",
+    "vol24h": 13402142,
+    "updatedAt": "2026-03-18T17:17:38.43299Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-march-885",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-march-2026-meeting",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed decision in March?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 85308665,
+    "liquidity": 1025966,
+    "endDate": "2026-03-18",
+    "dayChange": "-0.05%",
+    "vol24h": 11095370,
+    "updatedAt": "2026-03-18T17:17:30.474969Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-march-885",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-march-2026-meeting",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed decision in March?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 172592208,
+    "liquidity": 7286058,
+    "endDate": "2026-03-18",
+    "dayChange": "0.00%",
+    "vol24h": 9940843,
+    "updatedAt": "2026-03-18T17:17:44.099765Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-march-885",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-march-2026-meeting",
+    "question": "No change",
+    "eventTitle": "Fed decision in March?",
+    "prices": "Yes: 99.8% | No: 0.3%",
+    "volume": 80117751,
+    "liquidity": 1694581,
+    "endDate": "2026-03-18",
+    "dayChange": "0.60%",
+    "vol24h": 9670436,
+    "updatedAt": "2026-03-18T17:17:50.109954Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "netanyahu-out-before-2027",
+    "ticker": "netanyahu-out-by-march-31-854",
+    "question": "March 31",
+    "eventTitle": "Netanyahu out by...?",
+    "prices": "Yes: 3.0% | No: 97.0%",
+    "volume": 37628126,
+    "liquidity": 2058541,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 4159118,
+    "updatedAt": "2026-03-18T17:17:43.509174Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-lebron-james-win-the-2028-democratic-presidential-nomination",
+    "question": "LeBron James",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 35348761,
+    "liquidity": 1498641,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 3931771,
+    "updatedAt": "2026-03-18T17:17:38.140888Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-stephen-smith-win-the-2028-us-presidential-election",
+    "question": "Stephen Smith",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 26997104,
+    "liquidity": 550149,
+    "endDate": "2028-11-07",
+    "dayChange": "0.10%",
+    "vol24h": 2577873,
+    "updatedAt": "2026-03-18T17:17:52.231306Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-brian-kemp-win-the-2028-republican-presidential-nomination",
+    "question": "Brian Kemp",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 11571849,
+    "liquidity": 673059,
+    "endDate": "2028-11-07",
+    "dayChange": "0.20%",
+    "vol24h": 2562946,
+    "updatedAt": "2026-03-18T17:17:59.276038Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-hillary-clinton-win-the-2028-democratic-presidential-nomination",
+    "question": "Hillary Clinton",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 34632998,
+    "liquidity": 2088728,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 1582261,
+    "updatedAt": "2026-03-18T17:17:47.859794Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-march-31",
+    "ticker": "will-the-iranian-regime-fall-by-march-31",
+    "question": "Will the Iranian regime fall by March 31?",
+    "eventTitle": "Will the Iranian regime fall by March 31?",
+    "prices": "Yes: 4.0% | No: 96.0%",
+    "volume": 38238237,
+    "liquidity": 1300414,
+    "endDate": "2026-03-31",
+    "dayChange": "-0.10%",
+    "vol24h": 1430035,
+    "updatedAt": "2026-03-18T17:17:49.479234Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-michelle-obama-win-the-2028-democratic-presidential-nomination-777",
+    "question": "Michelle Obama",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 1.4% | No: 98.7%",
+    "volume": 20481207,
+    "liquidity": 1477726,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 1010589,
+    "updatedAt": "2026-03-18T17:17:59.574203Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-tom-brady-win-the-2028-republican-presidential-nomination",
+    "question": "Tom Brady",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.9% | No: 99.2%",
+    "volume": 26518030,
+    "liquidity": 1211287,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 1009220,
+    "updatedAt": "2026-03-18T17:17:39.147153Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-tucker-carlson-win-the-2028-us-presidential-election",
+    "question": "Tucker Carlson",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 3.1% | No: 96.9%",
+    "volume": 6882307,
+    "liquidity": 208872,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 890785,
+    "updatedAt": "2026-03-18T17:17:57.189259Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
+    "question": "Oprah Winfrey",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 40575524,
+    "liquidity": 1042309,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 835344,
+    "updatedAt": "2026-03-18T17:17:51.973149Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-elon-musk-win-the-2028-us-presidential-election",
+    "question": "Elon Musk",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 1.3% | No: 98.8%",
+    "volume": 21165729,
+    "liquidity": 1064675,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 834383,
+    "updatedAt": "2026-03-18T17:17:50.791574Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-forces-enter-iran-by",
+    "ticker": "us-forces-enter-iran-by-march-31-222-191-243-517-878-439-519",
+    "question": "March 31",
+    "eventTitle": "US forces enter Iran by..?",
+    "prices": "Yes: 27.5% | No: 72.5%",
+    "volume": 11643682,
+    "liquidity": 336868,
+    "endDate": "2026-03-31",
+    "dayChange": "-0.50%",
+    "vol24h": 761312,
+    "updatedAt": "2026-03-18T17:17:51.055501Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-x-iran-ceasefire-by",
+    "ticker": "us-x-iran-ceasefire-by-march-31",
+    "question": "March 31",
+    "eventTitle": "US x Iran ceasefire by...?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 11499311,
+    "liquidity": 590778,
+    "endDate": "N/A",
+    "dayChange": "0.00%",
+    "vol24h": 716593,
+    "updatedAt": "2026-03-18T17:17:50.739093Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "colombia-chamber-of-representatives-election-winner",
+    "ticker": "will-la-u-win-the-most-seats-in-the-2026-colombian-chamber-of-representatives-election",
+    "question": "Partido de la U (La U)",
+    "eventTitle": "Colombia Chamber of Representatives Election Winner",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 971554,
+    "liquidity": 9858,
+    "endDate": "2026-03-08",
+    "dayChange": "0.00%",
+    "vol24h": 655560,
+    "updatedAt": "2026-03-18T17:17:47.587721Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-will-trump-say-this-week-march-15",
+    "ticker": "will-trump-say-ayatollah-or-khamenei-this-week-march-15",
+    "question": "Ayatollah / Khamenei",
+    "eventTitle": "What will Trump say this week (March 15)?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 968497,
+    "liquidity": 376531,
+    "endDate": "2026-03-15",
+    "dayChange": "0.00%",
+    "vol24h": 629414,
+    "updatedAt": "2026-03-18T17:17:54.795711Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-crude-oil-cl-hit-by-end-of-march",
+    "ticker": "will-crude-oil-cl-hit-high-200-by-end-of-march-926",
+    "question": "↑ $200",
+    "eventTitle": "Will Crude Oil (CL) hit__ by end of March?",
+    "prices": "Yes: 2.5% | No: 97.5%",
+    "volume": 6577479,
+    "liquidity": 285924,
+    "endDate": "2026-03-31",
+    "dayChange": "0.00%",
+    "vol24h": 629085,
+    "updatedAt": "2026-03-18T17:17:41.256602Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "slovenian-parliamentary-election-winner-791",
+    "ticker": "will-the-party-of-generations-sg-win-the-most-seats-in-the-2026-slovenian-parliamentary-election",
+    "question": "Party of Generations (SG)",
+    "eventTitle": "Slovenian Parliamentary Election Winner",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 630677,
+    "liquidity": 39908,
+    "endDate": "2026-03-31",
+    "dayChange": "0.00%",
+    "vol24h": 573702,
+    "updatedAt": "2026-03-18T17:17:58.551018Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-vivek-ramaswamy-win-the-2028-republican-presidential-nomination",
+    "question": "Vivek Ramaswamy",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 1.3% | No: 98.8%",
+    "volume": 11945003,
+    "liquidity": 590101,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.10%",
+    "vol24h": 535076,
+    "updatedAt": "2026-03-18T17:17:52.678244Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-ron-desantis-win-the-2028-us-presidential-election",
+    "question": "Ron DeSantis",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 1.7% | No: 98.4%",
+    "volume": 5456899,
+    "liquidity": 425628,
+    "endDate": "2028-11-07",
+    "dayChange": "0.10%",
+    "vol24h": 533548,
+    "updatedAt": "2026-03-18T17:17:41.39374Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-gina-raimondo-win-the-2028-democratic-presidential-nomination-676",
+    "question": "Gina Raimondo",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 25386470,
+    "liquidity": 839812,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 528912,
+    "updatedAt": "2026-03-18T17:17:57.216289Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "paris-mayoral-election",
+    "ticker": "will-pierre-yves-bournazel-win-the-paris-mayor-election",
+    "question": "Pierre-Yves Bournazel",
+    "eventTitle": "Paris Mayoral Election",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 1091890,
+    "liquidity": 109469,
+    "endDate": "N/A",
+    "dayChange": "0.00%",
+    "vol24h": 514032,
+    "updatedAt": "2026-03-18T17:17:31.044077Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-crude-oil-cl-hit-by-end-of-march",
+    "ticker": "will-crude-oil-cl-hit-high-100-by-end-of-march-658-396-769-971",
+    "question": "↑ $100",
+    "eventTitle": "Will Crude Oil (CL) hit__ by end of March?",
+    "prices": "Yes: 79.8% | No: 20.2%",
+    "volume": 7912958,
+    "liquidity": 64263,
+    "endDate": "2026-03-31",
+    "dayChange": "0.00%",
+    "vol24h": 511783,
+    "updatedAt": "2026-03-18T17:17:39.412654Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-june-30",
+    "ticker": "will-the-iranian-regime-fall-by-june-30",
+    "question": "Will the Iranian regime fall by June 30?",
+    "eventTitle": "Will the Iranian regime fall by June 30?",
+    "prices": "Yes: 27.5% | No: 72.5%",
+    "volume": 18909444,
+    "liquidity": 895768,
+    "endDate": "2026-06-30",
+    "dayChange": "2.00%",
+    "vol24h": 511678,
+    "updatedAt": "2026-03-18T17:17:30.596844Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-bernie-sanders-win-the-2028-democratic-presidential-nomination-879",
+    "question": "Bernie Sanders",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 36226437,
+    "liquidity": 1652208,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 471108,
+    "updatedAt": "2026-03-18T17:17:49.230422Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-vivek-ramaswamy-win-the-2028-us-presidential-election",
+    "question": "Vivek Ramaswamy",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 1.3% | No: 98.8%",
+    "volume": 26910271,
+    "liquidity": 481346,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 442521,
+    "updatedAt": "2026-03-18T17:17:56.214189Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-trump-visit-china-by",
+    "ticker": "will-trump-visit-china-by-march-31",
+    "question": "March 31, 2026",
+    "eventTitle": "Will Trump visit China by...?",
+    "prices": "Yes: 1.7% | No: 98.4%",
+    "volume": 3063262,
+    "liquidity": 88400,
+    "endDate": "2025-10-31",
+    "dayChange": "-5.35%",
+    "vol24h": 417515,
+    "updatedAt": "2026-03-18T17:17:47.0618Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-march-18-2026",
+    "ticker": "bitcoin-up-or-down-on-march-18-2026",
+    "question": "Bitcoin Up or Down on March 18?",
+    "eventTitle": "Bitcoin Up or Down on March 18?",
+    "prices": "Up: 0.1% | Down: 100.0%",
+    "volume": 314630,
+    "liquidity": 560962,
+    "endDate": "2026-03-18",
+    "dayChange": "0.00%",
+    "vol24h": 282356,
+    "updatedAt": "2026-03-18T17:17:43.458566Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-march-18-2026-12pm-et",
+    "ticker": "bitcoin-up-or-down-march-18-2026-12pm-et",
+    "question": "Bitcoin Up or Down - March 18, 12PM ET",
+    "eventTitle": "Bitcoin Up or Down - March 18, 12PM ET",
+    "prices": "Up: 0.1% | Down: 100.0%",
+    "volume": 200882,
+    "liquidity": 794801,
+    "endDate": "2026-03-18",
+    "dayChange": "0.00%",
+    "vol24h": 202382,
+    "updatedAt": "2026-03-18T17:17:43.793388Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-march-18-2026-11am-et",
+    "ticker": "bitcoin-up-or-down-march-18-2026-11am-et",
+    "question": "Bitcoin Up or Down - March 18, 11AM ET",
+    "eventTitle": "Bitcoin Up or Down - March 18, 11AM ET",
+    "prices": "Up: 100.0% | Down: 0.1%",
+    "volume": 199720,
+    "liquidity": 941990,
+    "endDate": "2026-03-18",
+    "dayChange": "0.00%",
+    "vol24h": 199720,
+    "updatedAt": "2026-03-18T17:17:58.19022Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-march-588",
+    "ticker": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-march-31-453",
+    "question": "Amazon",
+    "eventTitle": "Largest Company end of March?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 3375157,
+    "liquidity": 400906,
+    "endDate": "2026-03-31",
+    "dayChange": "0.00%",
+    "vol24h": 164878,
+    "updatedAt": "2026-03-18T17:17:55.706654Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-march-588",
+    "ticker": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-march-31",
+    "question": "Tesla",
+    "eventTitle": "Largest Company end of March?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 2676436,
+    "liquidity": 278293,
+    "endDate": "2026-03-31",
+    "dayChange": "0.00%",
+    "vol24h": 160263,
+    "updatedAt": "2026-03-18T17:17:48.267647Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-march-588",
+    "ticker": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-march-31-889",
+    "question": "Microsoft",
+    "eventTitle": "Largest Company end of March?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1921609,
+    "liquidity": 248658,
+    "endDate": "2026-03-31",
+    "dayChange": "0.00%",
+    "vol24h": 118837,
+    "updatedAt": "2026-03-18T17:17:30.195205Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-march-588",
+    "ticker": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-march-31",
+    "question": "Saudi Aramco",
+    "eventTitle": "Largest Company end of March?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 1109163,
+    "liquidity": 261012,
+    "endDate": "2026-03-31",
+    "dayChange": "-0.10%",
+    "vol24h": 77205,
+    "updatedAt": "2026-03-18T17:17:39.58516Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-openai-have-the-highest-ipo-market-cap-2026-734",
+    "question": "OpenAI",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 5.7% | No: 94.3%",
+    "volume": 288235,
+    "liquidity": 17531,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 57316,
+    "updatedAt": "2026-03-18T17:17:36.967179Z",
+    "category": "TECH | FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-discord-have-the-highest-ipo-market-cap-2026-121",
+    "question": "Discord",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 1.1% | No: 98.9%",
+    "volume": 44840,
+    "liquidity": 19112,
+    "endDate": "2026-12-31",
+    "dayChange": "0.65%",
+    "vol24h": 7295,
+    "updatedAt": "2026-03-18T17:17:50.208033Z",
+    "category": "TECH | FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-bytedance-have-the-highest-ipo-market-cap-2026-727",
+    "question": "ByteDance",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.6% | No: 99.4%",
+    "volume": 81159,
+    "liquidity": 19981,
+    "endDate": "2026-12-31",
+    "dayChange": "0.75%",
+    "vol24h": 6922,
+    "updatedAt": "2026-03-18T17:17:48.334674Z",
+    "category": "TECH | FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
