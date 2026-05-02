@@ -1,0 +1,689 @@
+[
+  {
+    "slug": "us-x-iran-permanent-peace-deal-by",
+    "ticker": "us-x-iran-permanent-peace-deal-by-may-31-2026-333-871",
+    "question": "May 31",
+    "eventTitle": "US x Iran permanent peace deal by...?",
+    "prices": "Yes: 22.5% | No: 77.5%",
+    "volume": 10025850,
+    "liquidity": 542770,
+    "endDate": "2026-05-31",
+    "dayChange": "4.00%",
+    "vol24h": 871581,
+    "updatedAt": "2026-05-02T06:16:11.311107Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-may-15",
+    "question": "Strait of Hormuz traffic returns to normal by May 15?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by May 15?",
+    "prices": "Yes: 5.5% | No: 94.5%",
+    "volume": 4084598,
+    "liquidity": 447599,
+    "endDate": "2026-05-15",
+    "dayChange": "0.00%",
+    "vol24h": 858788,
+    "updatedAt": "2026-05-02T06:16:19.79498Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-may-31",
+    "ticker": "will-the-iranian-regime-fall-by-may-31",
+    "question": "Will the Iranian regime fall by May 31?",
+    "eventTitle": "Will the Iranian regime fall by May 31?",
+    "prices": "Yes: 2.5% | No: 97.5%",
+    "volume": 12419907,
+    "liquidity": 1064810,
+    "endDate": "2026-05-31",
+    "dayChange": "-1.00%",
+    "vol24h": 644675,
+    "updatedAt": "2026-05-02T06:19:00.342457Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+    "question": "Strait of Hormuz traffic returns to normal by end of April?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by end of April?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 35456254,
+    "liquidity": 309916,
+    "endDate": "2026-04-30",
+    "dayChange": "-0.05%",
+    "vol24h": 640212,
+    "updatedAt": "2026-05-02T06:16:16.855188Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "qatarenergy-announcesresumes-lng-production-in-qatar-by-april-30",
+    "ticker": "qatarenergy-announcesresumes-lng-production-in-qatar-by-april-30",
+    "question": "QatarEnergy announces/resumes LNG production in Qatar by April 30?",
+    "eventTitle": "QatarEnergy announces/resumes LNG production in Qatar by April 30?",
+    "prices": "Yes: 99.3% | No: 0.7%",
+    "volume": 771000,
+    "liquidity": 185334,
+    "endDate": "2026-04-30",
+    "dayChange": "83.20%",
+    "vol24h": 636359,
+    "updatedAt": "2026-05-02T06:16:19.058857Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-permanent-peace-deal-by",
+    "ticker": "us-x-iran-permanent-peace-deal-by-may-15-2026",
+    "question": "May 15",
+    "eventTitle": "US x Iran permanent peace deal by...?",
+    "prices": "Yes: 8.5% | No: 91.5%",
+    "volume": 1723658,
+    "liquidity": 333714,
+    "endDate": "2026-05-15",
+    "dayChange": "2.00%",
+    "vol24h": 622251,
+    "updatedAt": "2026-05-02T06:19:05.212146Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-obtains-iranian-enriched-uranium-by",
+    "ticker": "us-obtains-iranian-enriched-uranium-by-may-31-396",
+    "question": "May 31",
+    "eventTitle": "US obtains Iranian enriched uranium by...?",
+    "prices": "Yes: 8.5% | No: 91.5%",
+    "volume": 7762109,
+    "liquidity": 430646,
+    "endDate": "2026-05-31",
+    "dayChange": "-1.00%",
+    "vol24h": 481668,
+    "updatedAt": "2026-05-02T06:19:13.942533Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-anti-cartel-operation-outside-of-the-us-by",
+    "ticker": "will-a-us-anti-cartel-operation-outside-of-the-united-states-occur-by-april-30-2026-822-284-191",
+    "question": "April 30",
+    "eventTitle": "U.S. anti-cartel operation outside of the U.S. by...? ",
+    "prices": "Yes: 99.8% | No: 0.3%",
+    "volume": 532080,
+    "liquidity": 364278,
+    "endDate": "2026-04-30",
+    "dayChange": "68.75%",
+    "vol24h": 468727,
+    "updatedAt": "2026-05-02T06:19:28.713254Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+    "ticker": "kharg-island-no-longer-under-iranian-control-by-may-31-689",
+    "question": "May 31",
+    "eventTitle": "Kharg Island no longer under Iranian control by...?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 4003358,
+    "liquidity": 434898,
+    "endDate": "2026-05-31",
+    "dayChange": "-3.00%",
+    "vol24h": 454258,
+    "updatedAt": "2026-05-02T06:19:04.563587Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-june-825",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-june-2026-meeting",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in June?",
+    "prices": "Yes: 4.0% | No: 96.0%",
+    "volume": 2539296,
+    "liquidity": 221485,
+    "endDate": "2026-06-17",
+    "dayChange": "0.80%",
+    "vol24h": 446101,
+    "updatedAt": "2026-05-02T06:16:17.289813Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 30.5% | No: 69.5%",
+    "volume": 19389225,
+    "liquidity": 662089,
+    "endDate": "2026-12-31",
+    "dayChange": "-3.00%",
+    "vol24h": 418504,
+    "updatedAt": "2026-05-02T06:16:13.633931Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+    "question": "Strait of Hormuz traffic returns to normal by end of May?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by end of May?",
+    "prices": "Yes: 20.5% | No: 79.5%",
+    "volume": 4594307,
+    "liquidity": 523353,
+    "endDate": "2026-05-31",
+    "dayChange": "5.00%",
+    "vol24h": 417981,
+    "updatedAt": "2026-05-02T06:16:12.517009Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-by-may-31-2026",
+    "ticker": "russia-x-ukraine-ceasefire-by-may-31-2026",
+    "question": "Russia x Ukraine ceasefire by May 31, 2026?",
+    "eventTitle": "Russia x Ukraine ceasefire by May 31, 2026?",
+    "prices": "Yes: 6.8% | No: 93.3%",
+    "volume": 1929185,
+    "liquidity": 302352,
+    "endDate": "2026-05-31",
+    "dayChange": "-1.50%",
+    "vol24h": 392460,
+    "updatedAt": "2026-05-02T06:16:20.229856Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-june-30",
+    "ticker": "will-the-iranian-regime-fall-by-june-30",
+    "question": "Will the Iranian regime fall by June 30?",
+    "eventTitle": "Will the Iranian regime fall by June 30?",
+    "prices": "Yes: 6.5% | No: 93.5%",
+    "volume": 35477481,
+    "liquidity": 1487623,
+    "endDate": "2026-06-30",
+    "dayChange": "-2.00%",
+    "vol24h": 360473,
+    "updatedAt": "2026-05-02T06:16:20.103547Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-x-iran-diplomatic-meeting-by-329",
+    "ticker": "us-x-iran-diplomatic-meeting-by-may-5-2026",
+    "question": "May 5",
+    "eventTitle": "US x Iran diplomatic meeting by...?",
+    "prices": "Yes: 5.1% | No: 94.8%",
+    "volume": 1621411,
+    "liquidity": 119338,
+    "endDate": "2026-05-05",
+    "dayChange": "-0.45%",
+    "vol24h": 358071,
+    "updatedAt": "2026-05-02T06:16:08.813086Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-china-invade-taiwan-before-2027",
+    "ticker": "will-china-invade-taiwan-before-2027",
+    "question": "Will China invade Taiwan by end of 2026?",
+    "eventTitle": "Will China invade Taiwan by end of 2026?",
+    "prices": "Yes: 7.4% | No: 92.5%",
+    "volume": 23356221,
+    "liquidity": 979681,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.10%",
+    "vol24h": 335460,
+    "updatedAt": "2026-04-21T14:25:26.587457Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-trump-talk-to-in-april",
+    "ticker": "will-trump-talk-to-ursula-von-der-leyen-in-april",
+    "question": "Ursula von der Leyen",
+    "eventTitle": "Who will Trump talk to in April?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 1205228,
+    "liquidity": 3991765,
+    "endDate": "2026-04-30",
+    "dayChange": "0.00%",
+    "vol24h": 335103,
+    "updatedAt": "2026-05-02T06:19:28.725065Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "jerome-powell-out-as-fed-chair-by",
+    "ticker": "jerome-powell-out-as-fed-chair-by-may-14-2026",
+    "question": "May 14",
+    "eventTitle": "Jerome Powell out as Fed Chair by...?",
+    "prices": "Yes: 2.4% | No: 97.7%",
+    "volume": 1928137,
+    "liquidity": 232112,
+    "endDate": "2026-05-14",
+    "dayChange": "0.30%",
+    "vol24h": 321421,
+    "updatedAt": "2026-05-02T06:19:16.819183Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-june-825",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-june-2026-meeting",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in June?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 3783798,
+    "liquidity": 502951,
+    "endDate": "2026-06-17",
+    "dayChange": "-0.10%",
+    "vol24h": 320919,
+    "updatedAt": "2026-05-02T06:16:20.822787Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-permanent-peace-deal-by",
+    "ticker": "us-x-iran-permanent-peace-deal-by-june-30-2026-837",
+    "question": "June 30",
+    "eventTitle": "US x Iran permanent peace deal by...?",
+    "prices": "Yes: 38.5% | No: 61.5%",
+    "volume": 3396064,
+    "liquidity": 368518,
+    "endDate": "2026-05-31",
+    "dayChange": "7.00%",
+    "vol24h": 309743,
+    "updatedAt": "2026-05-02T06:19:19.848608Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "new-mai-model-released-by",
+    "ticker": "will-a-new-mai-model-be-released-by-april-30-2026",
+    "question": "April 30",
+    "eventTitle": "New MAI model released by...?",
+    "prices": "Yes: 99.9% | No: 0.1%",
+    "volume": 316365,
+    "liquidity": 204575,
+    "endDate": "2026-06-30",
+    "dayChange": "91.60%",
+    "vol24h": 301190,
+    "updatedAt": "2026-05-02T06:19:21.617577Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-may-2026",
+    "ticker": "will-wti-crude-oil-wti-hit-high-200-in-may",
+    "question": "↑ $200",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in May 2026?",
+    "prices": "Yes: 1.5% | No: 98.6%",
+    "volume": 283145,
+    "liquidity": 112223,
+    "endDate": "2026-06-01",
+    "dayChange": "-0.30%",
+    "vol24h": 278490,
+    "updatedAt": "2026-05-02T06:19:07.075055Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "trump-announces-us-blockade-of-hormuz-lifted-by",
+    "ticker": "will-donald-trump-announce-that-the-united-states-blockade-of-the-strait-of-hormuz-has-been-lifted-by-may-15-2026-154",
+    "question": "May 15",
+    "eventTitle": "Trump announces US blockade of Hormuz lifted by...?",
+    "prices": "Yes: 14.5% | No: 85.5%",
+    "volume": 561468,
+    "liquidity": 37137,
+    "endDate": "2026-05-15",
+    "dayChange": "-5.00%",
+    "vol24h": 250686,
+    "updatedAt": "2026-05-02T06:16:11.474748Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-may-2026",
+    "ticker": "will-wti-reach-150-in-may-2026-196-364",
+    "question": "↑ $150",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in May 2026?",
+    "prices": "Yes: 5.5% | No: 94.5%",
+    "volume": 542696,
+    "liquidity": 280255,
+    "endDate": "2026-06-01",
+    "dayChange": "-3.00%",
+    "vol24h": 248705,
+    "updatedAt": "2026-05-02T06:19:06.792864Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-hungary",
+    "ticker": "will-the-next-prime-minister-of-hungary-be-pter-magyar",
+    "question": "Péter Magyar",
+    "eventTitle": "Next Prime Minister of Hungary",
+    "prices": "Yes: 99.6% | No: 0.4%",
+    "volume": 23484520,
+    "liquidity": 403782,
+    "endDate": "2026-04-12",
+    "dayChange": "-0.10%",
+    "vol24h": 245101,
+    "updatedAt": "2026-05-02T06:19:22.731475Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-tarcisio-de-frietas-win-the-2026-brazilian-presidential-election",
+    "question": "Tarcisio de Freitas",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 8893553,
+    "liquidity": 360286,
+    "endDate": "2026-10-04",
+    "dayChange": "-0.10%",
+    "vol24h": 244285,
+    "updatedAt": "2026-05-02T06:16:24.426164Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "question": "Strait of Hormuz traffic returns to normal by end of June?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by end of June?",
+    "prices": "Yes: 45.5% | No: 54.5%",
+    "volume": 1528809,
+    "liquidity": 199559,
+    "endDate": "2026-06-30",
+    "dayChange": "-2.50%",
+    "vol24h": 237968,
+    "updatedAt": "2026-05-02T06:19:02.243721Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-june-825",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-june-2026-meeting",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in June?",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 2784789,
+    "liquidity": 345767,
+    "endDate": "2026-06-17",
+    "dayChange": "-0.30%",
+    "vol24h": 233356,
+    "updatedAt": "2026-05-02T06:19:07.83038Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-confirmed-as-fed-chair",
+    "ticker": "will-kevin-warsh-be-confirmed-as-fed-chair",
+    "question": "Kevin Warsh",
+    "eventTitle": "Who will be confirmed as Fed Chair?",
+    "prices": "Yes: 99.7% | No: 0.4%",
+    "volume": 12303197,
+    "liquidity": 311567,
+    "endDate": "2026-10-31",
+    "dayChange": "0.30%",
+    "vol24h": 223998,
+    "updatedAt": "2026-05-02T06:16:27.35189Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-before-2027-789-924-249",
+    "question": "December 31",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 17.5% | No: 82.5%",
+    "volume": 26187308,
+    "liquidity": 932720,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 221544,
+    "updatedAt": "2026-05-02T06:16:27.521865Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-may-167",
+    "ticker": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-may-31-971",
+    "question": "NVIDIA",
+    "eventTitle": "Largest Company end of May?",
+    "prices": "Yes: 74.5% | No: 25.6%",
+    "volume": 261764,
+    "liquidity": 16260,
+    "endDate": "2026-05-31",
+    "dayChange": "-5.40%",
+    "vol24h": 134860,
+    "updatedAt": "2026-05-02T06:19:00.535111Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-april-27-may-3",
+    "ticker": "will-bitcoin-dip-to-74k-april-27-may-3",
+    "question": "↓ 74,000",
+    "eventTitle": "What price will Bitcoin hit April 27-May 3?",
+    "prices": "Yes: 4.3% | No: 95.8%",
+    "volume": 176516,
+    "liquidity": 44487,
+    "endDate": "2026-05-04",
+    "dayChange": "-8.25%",
+    "vol24h": 83876,
+    "updatedAt": "2026-05-02T06:18:55.68549Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "will-bitcoin-hit-60k-or-80k-first-965",
+    "ticker": "will-bitcoin-hit-60k-or-80k-first-965",
+    "question": "Will Bitcoin hit $60k or $80k first?",
+    "eventTitle": "Will Bitcoin hit $60k or $80k first?",
+    "prices": "$60k: 14.5% | $80k: 85.5%",
+    "volume": 1865297,
+    "liquidity": 50240,
+    "endDate": "2027-01-01",
+    "dayChange": "-11.00%",
+    "vol24h": 80686,
+    "updatedAt": "2026-05-02T06:19:08.002859Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "ticker": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+    "question": "Tesla",
+    "eventTitle": "Largest Company end of June?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 1534997,
+    "liquidity": 180720,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 79807,
+    "updatedAt": "2026-05-02T06:16:20.798136Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "ticker": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+    "question": "Saudi Aramco",
+    "eventTitle": "Largest Company end of June?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 1413046,
+    "liquidity": 221785,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 76588,
+    "updatedAt": "2026-05-02T06:16:24.601414Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "ticker": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-june-30-123",
+    "question": "Amazon",
+    "eventTitle": "Largest Company end of June?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 1467364,
+    "liquidity": 233159,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 69289,
+    "updatedAt": "2026-05-02T06:16:29.320072Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-may-2-2026",
+    "ticker": "bitcoin-up-or-down-on-may-2-2026",
+    "question": "Bitcoin Up or Down on May 2?",
+    "eventTitle": "Bitcoin Up or Down on May 2?",
+    "prices": "Up: 22.5% | Down: 77.5%",
+    "volume": 65158,
+    "liquidity": 25051,
+    "endDate": "2026-05-02",
+    "dayChange": "-27.00%",
+    "vol24h": 64888,
+    "updatedAt": "2026-05-02T06:19:10.847452Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "what-will-spacexs-public-ticker-be",
+    "ticker": "will-spacexs-public-ticker-be-mars-627",
+    "question": "$MARS",
+    "eventTitle": "What will SpaceX's public ticker be?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 319730,
+    "liquidity": 15208,
+    "endDate": "2027-12-31",
+    "dayChange": "0.20%",
+    "vol24h": 9448,
+    "updatedAt": "2026-05-02T06:16:12.970764Z",
+    "category": "TECH | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-will-spacexs-public-ticker-be",
+    "ticker": "will-spacexs-public-ticker-be-star-796",
+    "question": "$STAR",
+    "eventTitle": "What will SpaceX's public ticker be?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 849658,
+    "liquidity": 22563,
+    "endDate": "2027-12-31",
+    "dayChange": "-0.40%",
+    "vol24h": 6437,
+    "updatedAt": "2026-05-02T06:16:27.023129Z",
+    "category": "TECH | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
