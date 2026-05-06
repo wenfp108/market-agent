@@ -2,7 +2,7 @@ name: ⚔️ PolyData Dual-Engine System
 
 on:
   schedule:
-    - cron: '15 * * * *'  # 每小时 15 分自动触发
+    - cron: '33 * * * *'  # 每小时 33 分自动触发
   workflow_dispatch:      # 允许手动触发
 
 jobs:
