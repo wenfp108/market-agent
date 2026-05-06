@@ -1,30 +1,8 @@
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
-
-// ==========================================
-// 0. 策略引擎
-// ==========================================
-const MASTERS = {
-    TALEB: (m, prices) => {
-        const isTail = prices.some(p => Number(p) < 0.05 || Number(p) > 0.95);
-        return (isTail && Number(m.liquidity) > 5000) ? 'TAIL_RISK' : null;
-    },
-    SOROS: (m) => {
-        const change = Math.abs(Number(m.oneDayPriceChange || 0));
-        const vol24 = Number(m.volume24hr || 0);
-        return (vol24 > 10000 && change > 0.05) ? 'REFLEXIVITY_TREND' : null;
-    },
-    MUNGER: (m) => {
-        const spread = Number(m.spread || 1);
-        const vol = Number(m.volume || 0);
-        return (vol > 50000 && spread < 0.01) ? 'HIGH_CERTAINTY' : null;
-    },
-    NAVAL: (m, category) => {
-        const vol = Number(m.volume || 0);
-        return (category.includes('TECH') && vol > 20000) ? 'TECH_LEVERAGE' : null;
-    }
-};
+const { applyMasterTags } = require('./shared/masters');
+const { withRetry } = require('./shared/retry');
 
 // ==========================================
 // 1. 板块配置
@@ -65,10 +43,16 @@ async function getSniperActiveSlugs(TOKEN, REPO_OWNER, REPO_NAME) {
     // 第二优先：API 查云端 (手动运行 Radar 或本地无底稿时有用)
     const url = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/data/strategy/${today}`;
     try {
-        const resp = await axios.get(url, { headers: { Authorization: `Bearer ${TOKEN}` } });
+        const resp = await withRetry(
+            () => axios.get(url, { headers: { Authorization: `Bearer ${TOKEN}` } }),
+            { label: 'GitHub Contents API' }
+        );
         const latestFile = resp.data.filter(f => f.name.startsWith('sniper-')).sort().pop();
         if (!latestFile) return new Set();
-        const fileData = await axios.get(latestFile.download_url);
+        const fileData = await withRetry(
+            () => axios.get(latestFile.download_url),
+            { label: 'Download sniper file' }
+        );
         return new Set(fileData.data.map(item => item.slug));
     } catch (e) { return new Set(); }
 }
@@ -77,7 +61,10 @@ async function generateSniperTargets() {
     const token = process.env.MY_PAT || process.env.GITHUB_TOKEN;
     const issuesUrl = `https://api.github.com/repos/wenfp108/Central-Bank/issues?state=open&per_page=100`;
     try {
-        const resp = await axios.get(issuesUrl, { headers: { Authorization: `Bearer ${token}` } });
+        const resp = await withRetry(
+            () => axios.get(issuesUrl, { headers: { Authorization: `Bearer ${token}` } }),
+            { label: 'GitHub Issues API (Radar)' }
+        );
         return resp.data.filter(i => i.title.toLowerCase().includes('[poly]')).map(i => normalizeText(i.title.replace(/\[poly\]/gi, '')));
     } catch (e) { return []; }
 }
@@ -99,7 +86,10 @@ async function runRadarTask() {
     const url = `https://gamma-api.polymarket.com/events?limit=1000&active=true&closed=false&order=volume24hr&ascending=false`;
 
     try {
-        const resp = await axios.get(url);
+        const resp = await withRetry(
+            () => axios.get(url),
+            { label: 'Polymarket Radar API' }
+        );
         let allCandidates = [];
 
         resp.data.forEach(event => {
@@ -126,12 +116,7 @@ async function runRadarTask() {
                 try { prices = JSON.parse(m.outcomePrices); outcomes = JSON.parse(m.outcomes); } catch (e) { return; }
                 let priceStr = outcomes.map((o, i) => `${o}: ${(Number(prices[i]) * 100).toFixed(1)}%`).join(" | ");
 
-                const masterTags = [];
-                for (const [name, logic] of Object.entries(MASTERS)) {
-                    const tag = logic(m, prices, displayCategory);
-                    if (tag) masterTags.push(tag);
-                }
-                if (masterTags.length === 0) masterTags.push("RAW_MARKET");
+                const masterTags = applyMasterTags(m, prices, displayCategory);
 
                 allCandidates.push({
                     slug: event.slug,
@@ -186,13 +171,16 @@ async function runRadarTask() {
             const day = now.getDate();
             const timePart = `${now.getHours().toString().padStart(2, '0')}_${now.getMinutes().toString().padStart(2, '0')}`;
             const path = `data/trends/${now.toISOString().split('T')[0]}/radar-${year}-${month}-${day}-${timePart}.json`;
-            await axios.put(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`, {
-                message: `Radar Update (Instant Bridge Mode)`,
-                content: Buffer.from(JSON.stringify(finalList, null, 2)).toString('base64')
-            }, { headers: { Authorization: `Bearer ${TOKEN}` } });
+            await withRetry(
+                () => axios.put(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`, {
+                    message: `Radar Update (Instant Bridge Mode)`,
+                    content: Buffer.from(JSON.stringify(finalList, null, 2)).toString('base64')
+                }, { headers: { Authorization: `Bearer ${TOKEN}` } }),
+                { label: 'GitHub Upload (Radar)' }
+            );
             console.log(`✅ Radar Success: Subtracted ${sniperSlugs.size} items using Local Bridge.`);
         }
-    } catch (e) { console.error("❌ Radar Error:", e.message); }
+    } catch (e) { console.error(`❌ Radar Error: ${e.message}`); }
 }
 
 (async () => {

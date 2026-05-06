@@ -1,31 +1,9 @@
 const puppeteer = require('puppeteer');
 const axios = require('axios');
 const fs = require('fs');
-const pathLocal = require('path'); // 重命名避免冲突
-
-// ==========================================
-// 0. 策略引擎 (保持原样)
-// ==========================================
-const MASTERS = {
-    TALEB: (m, prices) => {
-        const isTail = prices.some(p => Number(p) < 0.05 || Number(p) > 0.95);
-        return (isTail && Number(m.liquidity) > 5000) ? 'TAIL_RISK' : null;
-    },
-    SOROS: (m) => {
-        const change = Math.abs(Number(m.oneDayPriceChange || 0));
-        const vol24 = Number(m.volume24hr || 0);
-        return (vol24 > 10000 && change > 0.05) ? 'REFLEXIVITY_TREND' : null;
-    },
-    MUNGER: (m) => {
-        const spread = Number(m.spread || 1);
-        const vol = Number(m.volume || 0);
-        return (vol > 50000 && spread < 0.01) ? 'HIGH_CERTAINTY' : null;
-    },
-    NAVAL: (m, category) => {
-        const vol = Number(m.volume || 0);
-        return (category === 'TECH' && vol > 20000) ? 'TECH_LEVERAGE' : null;
-    }
-};
+const pathLocal = require('path');
+const { applyMasterTags } = require('./shared/masters');
+const { withRetry } = require('./shared/retry');
 
 // ==========================================
 // 1. 目录分类
@@ -52,19 +30,22 @@ async function fetchQuestionsFromIssues() {
     
     try {
         console.log("📡 Connecting to Central-Bank command center...");
-        const resp = await axios.get(issuesUrl, {
-            headers: { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github.v3+json' }
-        });
+        const resp = await withRetry(
+            () => axios.get(issuesUrl, {
+                headers: { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github.v3+json' }
+            }),
+            { label: 'GitHub Issues API' }
+        );
 
         const questions = resp.data
             .filter(issue => issue.title.toLowerCase().includes('[poly]'))
             .map(issue => issue.title.replace(/\[poly\]/gi, '').trim());
-            
+
         const uniqueQuestions = [...new Set(questions)];
         console.log(`✅ Tactical link active. ${uniqueQuestions.length} unique [poly] targets acquired.`);
         return uniqueQuestions;
     } catch (e) {
-        console.error("❌ Link failed: Check MY_PAT permissions.");
+        console.error(`❌ Link failed: ${e.message}`);
         return [];
     }
 }
@@ -188,7 +169,7 @@ async function getSlugs() {
             } else {
                 console.log(`[FAIL] ❌ No intel found.`);
             }
-        } catch (e) { console.log(`[SKIP] Search timeout.`); }
+        } catch (e) { console.log(`[SKIP] ${obj.query} - ${e.message}`); }
     }
     await browser.close();
     return results;
@@ -213,7 +194,10 @@ async function syncData() {
     
     for (const task of taskResults) {
         try {
-            const resp = await axios.get(`https://gamma-api.polymarket.com/events?slug=${task.slug}`);
+            const resp = await withRetry(
+                () => axios.get(`https://gamma-api.polymarket.com/events?slug=${task.slug}`),
+                { label: `Polymarket API (${task.slug})` }
+            );
             const event = resp.data[0];
             if (!event || !event.markets) continue;
             
@@ -233,12 +217,7 @@ async function syncData() {
                 let priceStr = outcomes.map((o, i) => `${o}: ${(Number(prices[i]) * 100).toFixed(1)}%`).join(" | ");
                 
                 const category = getCategory(task.originalTitle);
-                const masterTags = [];
-                for (const [name, logic] of Object.entries(MASTERS)) {
-                    const tag = logic(m, prices, category);
-                    if (tag) masterTags.push(tag);
-                }
-                if (masterTags.length === 0) masterTags.push("RAW_MARKET");
+                const masterTags = applyMasterTags(m, prices, category);
 
                 processedData.push({
                     slug: task.slug,
@@ -261,7 +240,7 @@ async function syncData() {
                     strategy_tags: masterTags 
                 });
             });
-        } catch (e) { console.error(`Fetch Err: ${task.slug}`); }
+        } catch (e) { console.error(`Fetch Err: ${task.slug} - ${e.message}`); }
     }
     
     if (processedData.length === 0) return console.log("No valid data extracted.");
@@ -278,10 +257,13 @@ async function syncData() {
     const path = `data/strategy/${datePart}/${fileName}`;
     
     // 1. 上传云端 (供中央银行收割)
-    await axios.put(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`, {
-        message: `Structured Sync: ${fileName}`,
-        content: Buffer.from(JSON.stringify(processedData, null, 2)).toString('base64')
-    }, { headers: { Authorization: `Bearer ${TOKEN}` } });
+    await withRetry(
+        () => axios.put(`https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`, {
+            message: `Structured Sync: ${fileName}`,
+            content: Buffer.from(JSON.stringify(processedData, null, 2)).toString('base64')
+        }, { headers: { Authorization: `Bearer ${TOKEN}` } }),
+        { label: 'GitHub Upload' }
+    );
     
     console.log(`✅ Success: Archived ${processedData.length} structured items to ${path}`);
 

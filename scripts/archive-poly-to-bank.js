@@ -14,7 +14,10 @@ async function archivePolyData() {
         { local: 'trends',   bank: 'polymarket/trends' }
     ];
 
-    // 1. 搬运资产到中央银行
+    // 1. 搬运资产到中央银行，并验证完整性
+    let totalCopied = 0;
+    let totalFailed = 0;
+
     targets.forEach(t => {
         const sourcePath = path.join(LOCAL_DATA, t.local, today);
         const targetPath = path.join(BANK_ROOT, t.bank, today);
@@ -26,27 +29,49 @@ async function archivePolyData() {
                 files.forEach(file => {
                     const srcFile = path.join(sourcePath, file);
                     const destFile = path.join(targetPath, file);
-                    fs.copyFileSync(srcFile, destFile);
-                    console.log(`✅ [${t.local}] 已搬运: ${file}`);
+                    try {
+                        fs.copyFileSync(srcFile, destFile);
+                        // 验证：目标文件大小必须和源文件一致
+                        const srcSize = fs.statSync(srcFile).size;
+                        const destSize = fs.statSync(destFile).size;
+                        if (srcSize !== destSize) {
+                            console.error(`❌ [${t.local}] 校验失败: ${file} (src=${srcSize}, dest=${destSize})`);
+                            totalFailed++;
+                        } else {
+                            console.log(`✅ [${t.local}] 已搬运: ${file} (${srcSize} bytes)`);
+                            totalCopied++;
+                        }
+                    } catch (err) {
+                        console.error(`❌ [${t.local}] 搬运失败: ${file} - ${err.message}`);
+                        totalFailed++;
+                    }
                 });
             }
         }
     });
 
-    // 2. 强制焚毁本地层级（只保留 data/ 根目录下的 .git* 占位文件）
-    console.log("🔥 正在执行本地层级清理...");
+    // 2. 只有全部搬运成功才清理本地
+    if (totalFailed > 0) {
+        console.error(`🛑 检测到 ${totalFailed} 个文件搬运失败，跳过清理以保护数据！`);
+        return;
+    }
+
+    if (totalCopied === 0) {
+        console.log("💤 今日无数据需要搬运，跳过清理。");
+        return;
+    }
+
+    console.log(`🔥 全部 ${totalCopied} 个文件搬运验证通过，执行本地清理...`);
     if (fs.existsSync(LOCAL_DATA)) {
         const items = fs.readdirSync(LOCAL_DATA);
         items.forEach(item => {
-            // 保护 .gitkeep 等占位文件
-            if (item.startsWith('.git')) return; 
-
+            if (item.startsWith('.git')) return;
             const itemPath = path.join(LOCAL_DATA, item);
             try {
                 fs.rmSync(itemPath, { recursive: true, force: true });
-                console.log(`🗑️ 已彻底删除层级: ${item}`);
+                console.log(`🗑️ 已清理: ${item}`);
             } catch (err) {
-                console.error(`❌ 清理失败 ${item}:`, err);
+                console.error(`❌ 清理失败 ${item}: ${err.message}`);
             }
         });
     }
