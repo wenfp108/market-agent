@@ -52,6 +52,7 @@ jobs:
           git config --global user.email 'bot@architect.alpha'
           git add .
           git commit -m "Vault Update: archive polymarket data $(date +%F)" || exit 0
+          git pull --rebase
           git push
 
       - name: 🧹 Sync Deletions to Scraper Repo
@@ -60,4 +61,5 @@ jobs:
           git config --global user.email 'bot@architect.alpha'
           git add data/
           git commit -m "Cleanup: Data flushed to Central Bank $(date +%F)" || exit 0
+          git pull --rebase
           git push
