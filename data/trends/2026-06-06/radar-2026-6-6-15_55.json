@@ -1,0 +1,626 @@
+[
+  {
+    "slug": "israel-announces-lebanon-ceasefire-extension-by",
+    "ticker": "israel-announces-lebanon-ceasefire-extension-by-june-7",
+    "question": "June 7",
+    "eventTitle": "Israel announces Lebanon ceasefire extension by...?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 8659720,
+    "liquidity": 4478318,
+    "endDate": "2026-06-07",
+    "dayChange": "0.10%",
+    "vol24h": 4064299,
+    "updatedAt": "2026-06-06T15:49:23.878012Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "peru-presidential-election-winner",
+    "ticker": "will-carlos-lvarez-win-the-2026-peruvian-presidential-election",
+    "question": "Carlos Álvarez",
+    "eventTitle": "Peru Presidential Election Winner",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 8205081,
+    "liquidity": 172761,
+    "endDate": "2026-04-12",
+    "dayChange": "0.00%",
+    "vol24h": 1352665,
+    "updatedAt": "2026-06-06T15:47:45.099061Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-china-invade-taiwan-before-2027",
+    "ticker": "will-china-invade-taiwan-before-2027",
+    "question": "Will China invade Taiwan by end of 2026?",
+    "eventTitle": "Will China invade Taiwan by end of 2026?",
+    "prices": "Yes: 6.6% | No: 93.5%",
+    "volume": 33341131,
+    "liquidity": 774957,
+    "endDate": "2026-12-31",
+    "dayChange": "0.30%",
+    "vol24h": 1270420,
+    "updatedAt": "2026-06-06T15:49:37.754192Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-permanent-peace-deal-by",
+    "ticker": "us-x-iran-permanent-peace-deal-by-june-15-2026-734-856-129",
+    "question": "June 15",
+    "eventTitle": "US x Iran permanent peace deal by...?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 12944075,
+    "liquidity": 667271,
+    "endDate": "2026-06-15",
+    "dayChange": "-4.00%",
+    "vol24h": 1089909,
+    "updatedAt": "2026-06-06T15:48:13.6337Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-x-iran-permanent-peace-deal-by",
+    "ticker": "us-x-iran-permanent-peace-deal-by-june-7-2026",
+    "question": "June 7",
+    "eventTitle": "US x Iran permanent peace deal by...?",
+    "prices": "Yes: 1.1% | No: 98.9%",
+    "volume": 15794062,
+    "liquidity": 319482,
+    "endDate": "2026-06-07",
+    "dayChange": "-1.40%",
+    "vol24h": 1005631,
+    "updatedAt": "2026-06-06T15:55:20.210686Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "los-angeles-mayoral-election-117",
+    "ticker": "will-lindsey-horvath-win-the-2026-los-angeles-mayoral-election-565",
+    "question": "Lindsey Horvath",
+    "eventTitle": "Los Angeles Mayoral Election",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 1298795,
+    "liquidity": 54245,
+    "endDate": "2026-06-02",
+    "dayChange": "0.00%",
+    "vol24h": 745308,
+    "updatedAt": "2026-06-06T15:48:13.489557Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-person-a-win-the-2028-democratic-presidential-nomination",
+    "question": "Hunter Biden",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 1.4% | No: 98.7%",
+    "volume": 39904070,
+    "liquidity": 398040,
+    "endDate": "2028-11-07",
+    "dayChange": "-1.70%",
+    "vol24h": 680357,
+    "updatedAt": "2026-06-06T15:49:10.2917Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-june-6-2026",
+    "ticker": "bitcoin-up-or-down-on-june-6-2026",
+    "question": "Bitcoin Up or Down on June 6?",
+    "eventTitle": "Bitcoin Up or Down on June 6?",
+    "prices": "Up: 100.0% | Down: 0.1%",
+    "volume": 638013,
+    "liquidity": 16189,
+    "endDate": "2026-06-06",
+    "dayChange": "46.95%",
+    "vol24h": 634564,
+    "updatedAt": "2026-06-06T15:53:45.458366Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "ticker": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-june-30-612",
+    "question": "Microsoft",
+    "eventTitle": "Largest Company end of June?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 3822430,
+    "liquidity": 247428,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 546853,
+    "updatedAt": "2026-06-06T15:54:40.075736Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-permanent-peace-deal-by",
+    "ticker": "us-x-iran-permanent-peace-deal-by-june-30-2026-837-641-896-877-363-892-537-597",
+    "question": "June 30",
+    "eventTitle": "US x Iran permanent peace deal by...?",
+    "prices": "Yes: 20.5% | No: 79.5%",
+    "volume": 18756147,
+    "liquidity": 317577,
+    "endDate": "2026-05-31",
+    "dayChange": "-5.00%",
+    "vol24h": 542284,
+    "updatedAt": "2026-06-06T15:49:29.853719Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-x-iran-permanent-peace-deal-by",
+    "ticker": "us-x-iran-permanent-peace-deal-by-july-31-2026-831-252",
+    "question": "July 31",
+    "eventTitle": "US x Iran permanent peace deal by...?",
+    "prices": "Yes: 33.5% | No: 66.5%",
+    "volume": 4909455,
+    "liquidity": 257058,
+    "endDate": "2026-07-31",
+    "dayChange": "-7.00%",
+    "vol24h": 412750,
+    "updatedAt": "2026-06-06T15:49:13.974646Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+    "ticker": "kharg-island-no-longer-under-iranian-control-by-june-30-561-854",
+    "question": "June 30",
+    "eventTitle": "Kharg Island no longer under Iranian control by...?",
+    "prices": "Yes: 3.0% | No: 97.0%",
+    "volume": 5732118,
+    "liquidity": 181614,
+    "endDate": "2026-06-30",
+    "dayChange": "0.60%",
+    "vol24h": 372239,
+    "updatedAt": "2026-06-06T15:48:03.347803Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "peru-presidential-election-winner",
+    "ticker": "will-roberto-snchez-palomino-win-the-2026-peruvian-presidential-election",
+    "question": "Roberto Sánchez Palomino",
+    "eventTitle": "Peru Presidential Election Winner",
+    "prices": "Yes: 38.4% | No: 61.7%",
+    "volume": 15210534,
+    "liquidity": 197028,
+    "endDate": "2026-06-07",
+    "dayChange": "1.40%",
+    "vol24h": 367038,
+    "updatedAt": "2026-06-06T15:47:29.383068Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-6-2026",
+    "ticker": "bitcoin-above-66k-on-june-6-2026-133-165-898-474",
+    "question": "66,000",
+    "eventTitle": "Bitcoin above ___ on June 6?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 432466,
+    "liquidity": 299078,
+    "endDate": "2026-06-06",
+    "dayChange": "-0.25%",
+    "vol24h": 361608,
+    "updatedAt": "2026-06-06T15:54:50.293561Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-6-2026",
+    "ticker": "bitcoin-above-64k-on-june-6-2026-957-953-472-848",
+    "question": "64,000",
+    "eventTitle": "Bitcoin above ___ on June 6?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 502153,
+    "liquidity": 221388,
+    "endDate": "2026-06-06",
+    "dayChange": "-3.80%",
+    "vol24h": 358911,
+    "updatedAt": "2026-06-06T15:47:26.541861Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-june-30",
+    "ticker": "will-the-iranian-regime-fall-by-june-30",
+    "question": "Will the Iranian regime fall by June 30?",
+    "eventTitle": "Will the Iranian regime fall by June 30?",
+    "prices": "Yes: 1.9% | No: 98.0%",
+    "volume": 48944837,
+    "liquidity": 685690,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.10%",
+    "vol24h": 358048,
+    "updatedAt": "2026-06-06T15:48:00.316994Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-june-15",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-june-15",
+    "question": "Strait of Hormuz traffic returns to normal by June 15?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by June 15?",
+    "prices": "Yes: 1.5% | No: 98.6%",
+    "volume": 3894440,
+    "liquidity": 349926,
+    "endDate": "2026-06-15",
+    "dayChange": "-1.30%",
+    "vol24h": 348095,
+    "updatedAt": "2026-06-06T15:49:35.437498Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-6-2026",
+    "ticker": "bitcoin-above-60k-on-june-6-2026-252",
+    "question": "60,000",
+    "eventTitle": "Bitcoin above ___ on June 6?",
+    "prices": "Yes: 99.4% | No: 0.6%",
+    "volume": 337417,
+    "liquidity": 8009,
+    "endDate": "2026-06-06",
+    "dayChange": "40.75%",
+    "vol24h": 307074,
+    "updatedAt": "2026-06-06T15:48:05.958047Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-6-2026",
+    "ticker": "bitcoin-above-62k-on-june-6-2026-188",
+    "question": "62,000",
+    "eventTitle": "Bitcoin above ___ on June 6?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 351731,
+    "liquidity": 200431,
+    "endDate": "2026-06-06",
+    "dayChange": "-24.45%",
+    "vol24h": 304467,
+    "updatedAt": "2026-06-06T15:54:52.166729Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-closes-its-airspace-by",
+    "ticker": "iran-closes-its-airspace-by-june-30-432-786-462-866-468",
+    "question": "June 30",
+    "eventTitle": "Iran closes its airspace by...?",
+    "prices": "Yes: 18.9% | No: 81.0%",
+    "volume": 3943740,
+    "liquidity": 74599,
+    "endDate": "2026-06-30",
+    "dayChange": "0.05%",
+    "vol24h": 297832,
+    "updatedAt": "2026-06-06T15:54:30.574952Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-before-2027-789-924-249",
+    "question": "December 31",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 13.5% | No: 86.5%",
+    "volume": 31534580,
+    "liquidity": 1226670,
+    "endDate": "2026-12-31",
+    "dayChange": "-1.00%",
+    "vol24h": 288590,
+    "updatedAt": "2026-06-06T15:55:03.445623Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-6-2026",
+    "ticker": "bitcoin-above-68k-on-june-6-2026-331-336-128",
+    "question": "68,000",
+    "eventTitle": "Bitcoin above ___ on June 6?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 369151,
+    "liquidity": 156605,
+    "endDate": "2026-06-06",
+    "dayChange": "-0.30%",
+    "vol24h": 274530,
+    "updatedAt": "2026-06-06T15:49:23.199444Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "question": "Strait of Hormuz traffic returns to normal by end of June?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by end of June?",
+    "prices": "Yes: 15.5% | No: 84.5%",
+    "volume": 14145583,
+    "liquidity": 458911,
+    "endDate": "2026-06-30",
+    "dayChange": "-3.00%",
+    "vol24h": 274220,
+    "updatedAt": "2026-06-06T15:48:24.981683Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-6-2026",
+    "ticker": "bitcoin-above-58k-on-june-6-2026",
+    "question": "58,000",
+    "eventTitle": "Bitcoin above ___ on June 6?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 326378,
+    "liquidity": 215767,
+    "endDate": "2026-06-06",
+    "dayChange": "13.30%",
+    "vol24h": 271594,
+    "updatedAt": "2026-06-06T15:55:18.326495Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by",
+    "ticker": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+    "question": "December 31",
+    "eventTitle": "Russia x Ukraine ceasefire agreement by...?",
+    "prices": "Yes: 49.5% | No: 50.5%",
+    "volume": 1506851,
+    "liquidity": 108944,
+    "endDate": "2026-12-31",
+    "dayChange": "-2.00%",
+    "vol24h": 270741,
+    "updatedAt": "2026-06-06T15:54:02.920928Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "los-angeles-mayoral-election-117",
+    "ticker": "will-spencer-pratt-win-the-2026-los-angeles-mayoral-election-983",
+    "question": "Spencer Pratt",
+    "eventTitle": "Los Angeles Mayoral Election",
+    "prices": "Yes: 2.9% | No: 97.0%",
+    "volume": 4737280,
+    "liquidity": 523211,
+    "endDate": "2026-06-02",
+    "dayChange": "-1.45%",
+    "vol24h": 270665,
+    "updatedAt": "2026-06-06T15:47:55.464736Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-china-invade-taiwan-by-june-30-2026",
+    "ticker": "will-china-invade-taiwan-by-june-30-2026",
+    "question": "Will China invade Taiwan by June 30, 2026?",
+    "eventTitle": "Will China invade Taiwan by June 30, 2026?",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 9900890,
+    "liquidity": 133379,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.20%",
+    "vol24h": 233884,
+    "updatedAt": "2026-06-06T15:54:15.079235Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-alberta-join-the-us",
+    "ticker": "will-alberta-join-the-us",
+    "question": "Will Alberta join the US? ",
+    "eventTitle": "Will Alberta join the US? ",
+    "prices": "Yes: 4.8% | No: 95.3%",
+    "volume": 1860531,
+    "liquidity": 56972,
+    "endDate": "2026-12-31",
+    "dayChange": "0.05%",
+    "vol24h": 220287,
+    "updatedAt": "2026-06-06T15:47:39.125688Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "ukraine-agrees-not-to-join-nato-by-june-30",
+    "ticker": "ukraine-agrees-not-to-join-nato-by-june-30",
+    "question": "Ukraine agrees not to join NATO by June 30? ",
+    "eventTitle": "Ukraine agrees not to join NATO by June 30? ",
+    "prices": "Yes: 3.4% | No: 96.7%",
+    "volume": 1722356,
+    "liquidity": 27246,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.70%",
+    "vol24h": 215690,
+    "updatedAt": "2026-06-06T15:54:02.106844Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "trump-out-as-president-by-june-30",
+    "ticker": "trump-out-as-president-by-june-30",
+    "question": "Trump out as President by June 30?",
+    "eventTitle": "Trump out as President by June 30?",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 6408490,
+    "liquidity": 504756,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 212424,
+    "updatedAt": "2026-06-06T15:47:19.880266Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "spacex-ipo-closing-market-cap-above",
+    "ticker": "spacex-ipo-closing-market-cap-above-3t-337-436",
+    "question": ">$3T",
+    "eventTitle": "SpaceX IPO closing market cap above ___ ?",
+    "prices": "Yes: 5.5% | No: 94.5%",
+    "volume": 1552338,
+    "liquidity": 144851,
+    "endDate": "2027-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 97970,
+    "updatedAt": "2026-06-06T15:54:57.556743Z",
+    "category": "TECH | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "spacex-ipo-closing-market-cap-above",
+    "ticker": "spacex-ipo-closing-market-cap-above-4t",
+    "question": ">$4T",
+    "eventTitle": "SpaceX IPO closing market cap above ___ ?",
+    "prices": "Yes: 1.0% | No: 99.0%",
+    "volume": 188585,
+    "liquidity": 83618,
+    "endDate": "2027-12-31",
+    "dayChange": "-0.30%",
+    "vol24h": 73828,
+    "updatedAt": "2026-06-06T15:48:45.989442Z",
+    "category": "TECH | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "ticker": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+    "question": "Saudi Aramco",
+    "eventTitle": "Largest Company end of June?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 3399627,
+    "liquidity": 370488,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.10%",
+    "vol24h": 57437,
+    "updatedAt": "2026-06-06T15:46:43.391729Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "ticker": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+    "question": "Tesla",
+    "eventTitle": "Largest Company end of June?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 3936878,
+    "liquidity": 364254,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 43213,
+    "updatedAt": "2026-06-06T15:53:43.102104Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "spacex-ipo-closing-market-cap-above",
+    "ticker": "spacex-ipo-closing-market-cap-above-3pt6t",
+    "question": ">$3.6T",
+    "eventTitle": "SpaceX IPO closing market cap above ___ ?",
+    "prices": "Yes: 1.5% | No: 98.6%",
+    "volume": 63695,
+    "liquidity": 123952,
+    "endDate": "2027-12-31",
+    "dayChange": "-1.55%",
+    "vol24h": 9829,
+    "updatedAt": "2026-06-06T15:46:54.840101Z",
+    "category": "TECH | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
