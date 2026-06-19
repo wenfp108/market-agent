@@ -1,0 +1,675 @@
+[
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+    "question": "Belete Molla",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 1.0% | No: 99.0%",
+    "volume": 4787233,
+    "liquidity": 10550,
+    "endDate": "2026-06-01",
+    "dayChange": "0.60%",
+    "vol24h": 2838637,
+    "updatedAt": "2026-06-19T02:16:43.216775Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-berhanu-nega-be-the-next-prime-minister-of-ethiopia",
+    "question": "Berhanu Nega",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 12448777,
+    "liquidity": 6674,
+    "endDate": "2026-06-01",
+    "dayChange": "0.00%",
+    "vol24h": 2653069,
+    "updatedAt": "2026-06-19T02:17:00.706683Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-graham-platner-win-the-2028-democratic-presidential-nomination",
+    "question": "Graham Platner",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 2.1% | No: 98.0%",
+    "volume": 4344518,
+    "liquidity": 694127,
+    "endDate": "2028-11-07",
+    "dayChange": "1.40%",
+    "vol24h": 1973076,
+    "updatedAt": "2026-06-19T02:17:07.809973Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-agrees-to-end-enrichment-of-uranium-by-june-30",
+    "ticker": "iran-agrees-to-end-enrichment-of-uranium-by-june-30",
+    "question": " Iran agrees to end enrichment of uranium by June 30?",
+    "eventTitle": " Iran agrees to end enrichment of uranium by June 30?",
+    "prices": "Yes: 68.5% | No: 31.5%",
+    "volume": 6478432,
+    "liquidity": 208103,
+    "endDate": "2026-06-30",
+    "dayChange": "13.00%",
+    "vol24h": 1623476,
+    "updatedAt": "2026-06-19T02:16:41.773007Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "what-iranian-demands-will-trump-agree-to-by-june-30",
+    "ticker": "will-trump-agree-to-withdraw-troops-from-the-iranian-region-by-june-30",
+    "question": "Troop Withdrawal",
+    "eventTitle": "What Iranian demands will Trump agree to by June 30?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 2553260,
+    "liquidity": 3163644,
+    "endDate": "2026-06-30",
+    "dayChange": "20.45%",
+    "vol24h": 1535841,
+    "updatedAt": "2026-06-19T02:17:08.581951Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "question": "Strait of Hormuz traffic returns to normal by end of June?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by end of June?",
+    "prices": "Yes: 14.5% | No: 85.5%",
+    "volume": 26720746,
+    "liquidity": 736879,
+    "endDate": "2026-06-30",
+    "dayChange": "-8.50%",
+    "vol24h": 1146830,
+    "updatedAt": "2026-06-19T02:17:02.281629Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "makerfield-by-election-winner",
+    "ticker": "will-rebecca-shepherd-win-the-2026-makerfield-by-election",
+    "question": "Rebecca Shepherd",
+    "eventTitle": "Makerfield by-election Winner",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 5832452,
+    "liquidity": 535958,
+    "endDate": "N/A",
+    "dayChange": "-0.45%",
+    "vol24h": 1141647,
+    "updatedAt": "2026-06-19T02:17:07.99795Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-diplomatic-meeting-by-329",
+    "ticker": "us-x-iran-diplomatic-meeting-by-june-19-2026-475",
+    "question": "June 19",
+    "eventTitle": "US x Iran diplomatic meeting by...?",
+    "prices": "Yes: 14.9% | No: 85.0%",
+    "volume": 1782636,
+    "liquidity": 36725,
+    "endDate": "2026-06-19",
+    "dayChange": "-43.00%",
+    "vol24h": 1013454,
+    "updatedAt": "2026-06-19T02:16:57.956161Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "israel-x-hezbollah-permanent-peace-deal-by",
+    "ticker": "israel-x-hezbollah-permanent-peace-deal-by-june-15-2026",
+    "question": "June 15",
+    "eventTitle": "Israel x Hezbollah permanent peace deal by...?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 2963470,
+    "liquidity": 1941649,
+    "endDate": "2026-06-15",
+    "dayChange": "-1.35%",
+    "vol24h": 658212,
+    "updatedAt": "2026-06-19T02:16:41.510298Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-deal-text-released-byptptpt-20260615224044572",
+    "ticker": "will-the-text-of-the-us-iran-agreement-be-released-by-june-16-20260615224555000",
+    "question": "June 16",
+    "eventTitle": "US-Iran deal text released by...?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 1823262,
+    "liquidity": 1706857,
+    "endDate": "2026-06-18",
+    "dayChange": "-1.45%",
+    "vol24h": 653756,
+    "updatedAt": "2026-06-19T02:17:06.83737Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-jon-stewart-win-the-2028-democratic-presidential-nomination-518",
+    "question": "Jon Stewart",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 2.6% | No: 97.4%",
+    "volume": 23970777,
+    "liquidity": 595596,
+    "endDate": "2028-11-07",
+    "dayChange": "1.00%",
+    "vol24h": 637551,
+    "updatedAt": "2026-06-19T02:16:53.512847Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-china-invade-taiwan-before-2027",
+    "ticker": "will-china-invade-taiwan-before-2027",
+    "question": "Will China invade Taiwan by end of 2026?",
+    "eventTitle": "Will China invade Taiwan by end of 2026?",
+    "prices": "Yes: 6.3% | No: 93.8%",
+    "volume": 35705153,
+    "liquidity": 617064,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.20%",
+    "vol24h": 533563,
+    "updatedAt": "2026-06-19T02:17:11.380489Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-ted-cruz-win-the-2028-republican-presidential-nomination",
+    "question": "Ted Cruz",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.9% | No: 99.2%",
+    "volume": 18270463,
+    "liquidity": 862037,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.10%",
+    "vol24h": 420256,
+    "updatedAt": "2026-06-19T02:17:09.7549Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-diplomatic-meeting-by-329",
+    "ticker": "us-x-iran-diplomatic-meeting-by-june-30-2026-983-259-948-431-294-182-296-883-134-598-264",
+    "question": "June 30",
+    "eventTitle": "US x Iran diplomatic meeting by...?",
+    "prices": "Yes: 71.9% | No: 28.1%",
+    "volume": 5666010,
+    "liquidity": 45421,
+    "endDate": "2026-05-15",
+    "dayChange": "-13.30%",
+    "vol24h": 372107,
+    "updatedAt": "2026-06-19T02:16:54.624953Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-june-30",
+    "ticker": "will-the-iranian-regime-fall-by-june-30",
+    "question": "Will the Iranian regime fall by June 30?",
+    "eventTitle": "Will the Iranian regime fall by June 30?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 61182400,
+    "liquidity": 1152512,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 368852,
+    "updatedAt": "2026-06-19T02:17:06.122732Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-permanent-peace-deal-by",
+    "ticker": "israel-x-iran-permanent-peace-deal-by-june-30-2026-262",
+    "question": "June 30",
+    "eventTitle": "Israel x Iran permanent peace deal by...?",
+    "prices": "Yes: 7.6% | No: 92.4%",
+    "volume": 7506787,
+    "liquidity": 273706,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.55%",
+    "vol24h": 358570,
+    "updatedAt": "2026-06-19T02:16:44.159936Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-june-15",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-june-15",
+    "question": "Strait of Hormuz traffic returns to normal by June 15?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by June 15?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 11963269,
+    "liquidity": 843105,
+    "endDate": "2026-06-15",
+    "dayChange": "-0.10%",
+    "vol24h": 354753,
+    "updatedAt": "2026-06-19T02:16:39.718425Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-diplomatic-meeting-by-329",
+    "ticker": "us-x-iran-diplomatic-meeting-by-june-21-2026-631-919-131-645-654-454-281-531-319-585-646",
+    "question": "June 21",
+    "eventTitle": "US x Iran diplomatic meeting by...?",
+    "prices": "Yes: 45.4% | No: 54.6%",
+    "volume": 1270166,
+    "liquidity": 28832,
+    "endDate": "2026-06-21",
+    "dayChange": "-21.05%",
+    "vol24h": 312401,
+    "updatedAt": "2026-06-19T02:16:59.722412Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-iranian-demands-will-trump-agree-to-by-june-30",
+    "ticker": "will-trump-agree-to-iranian-transit-fees-in-the-strait-of-hormuz-by-june-30",
+    "question": "Transit Fees in the Strait of Hormuz",
+    "eventTitle": "What Iranian demands will Trump agree to by June 30?",
+    "prices": "Yes: 11.1% | No: 88.9%",
+    "volume": 1366021,
+    "liquidity": 44588,
+    "endDate": "2026-06-30",
+    "dayChange": "4.70%",
+    "vol24h": 300735,
+    "updatedAt": "2026-06-19T02:17:06.067913Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "question": "Strait of Hormuz traffic returns to normal by July 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 31?",
+    "prices": "Yes: 51.5% | No: 48.5%",
+    "volume": 6428890,
+    "liquidity": 188373,
+    "endDate": "2026-07-31",
+    "dayChange": "-3.00%",
+    "vol24h": 285211,
+    "updatedAt": "2026-06-19T02:17:06.163477Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-jalen-brunson-win-the-2028-us-presidential-election",
+    "question": "Jalen Brunson",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 783926,
+    "liquidity": 1726301,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.10%",
+    "vol24h": 273703,
+    "updatedAt": "2026-06-19T02:16:48.888431Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-continent-will-win-the-world-cup",
+    "ticker": "will-oceania-win-the-2026-fifa-world-cup",
+    "question": "Oceania (OCF)",
+    "eventTitle": "Which continent will win the World Cup?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 1811871,
+    "liquidity": 111960,
+    "endDate": "N/A",
+    "dayChange": "0.10%",
+    "vol24h": 268860,
+    "updatedAt": "2026-06-19T02:16:58.836762Z",
+    "category": "WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-withdraws-from-lebanon-by",
+    "ticker": "israel-withdraws-from-lebanon-by-june-30-2026",
+    "question": "June 30",
+    "eventTitle": "Israel withdraws from Lebanon by...?",
+    "prices": "Yes: 3.6% | No: 96.4%",
+    "volume": 1812642,
+    "liquidity": 156962,
+    "endDate": "2026-06-30",
+    "dayChange": "0.50%",
+    "vol24h": 263720,
+    "updatedAt": "2026-06-19T02:16:52.870993Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-deal-text-released-byptptpt-20260615224044572",
+    "ticker": "will-the-text-of-the-us-iran-agreement-be-released-by-june-17-20260615191216216",
+    "question": "June 17",
+    "eventTitle": "US-Iran deal text released by...?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 1126893,
+    "liquidity": 1954441,
+    "endDate": "2026-06-18",
+    "dayChange": "0.10%",
+    "vol24h": 245296,
+    "updatedAt": "2026-06-19T02:17:08.451389Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+    "ticker": "iran-agrees-to-surrender-enriched-uranium-stockpile-by-june-30-2026",
+    "question": "June 30",
+    "eventTitle": "Iran agrees to surrender enriched uranium stockpile by...?",
+    "prices": "Yes: 1.9% | No: 98.1%",
+    "volume": 4938707,
+    "liquidity": 122433,
+    "endDate": "2026-06-30",
+    "dayChange": "-1.75%",
+    "vol24h": 228390,
+    "updatedAt": "2026-06-19T02:16:58.865591Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-closes-its-airspace-by",
+    "ticker": "israel-closes-its-airspace-by-june-30-324-253-464-332-827-713-671-846",
+    "question": "June 30",
+    "eventTitle": "Israel closes its airspace by...?",
+    "prices": "Yes: 5.2% | No: 94.8%",
+    "volume": 3278874,
+    "liquidity": 133261,
+    "endDate": "2026-06-30",
+    "dayChange": "0.05%",
+    "vol24h": 225679,
+    "updatedAt": "2026-06-19T02:17:06.320255Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "makerfield-by-election-winner",
+    "ticker": "will-andy-burnham-win-the-2026-makerfield-by-election",
+    "question": "Andy Burnham",
+    "eventTitle": "Makerfield by-election Winner",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 1362878,
+    "liquidity": 45009,
+    "endDate": "N/A",
+    "dayChange": "12.45%",
+    "vol24h": 223876,
+    "updatedAt": "2026-06-19T02:17:04.638562Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-russia-capture-all-of-stepnohirsk-by",
+    "ticker": "will-russia-capture-all-of-stepnohirsk-by-september-30-2026",
+    "question": "September 30",
+    "eventTitle": "Will Russia capture all of Stepnohirsk by...?",
+    "prices": "Yes: 10.8% | No: 89.2%",
+    "volume": 333864,
+    "liquidity": 10714,
+    "endDate": "2026-09-30",
+    "dayChange": "0.70%",
+    "vol24h": 222227,
+    "updatedAt": "2026-06-19T02:16:57.972594Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-19-2026",
+    "ticker": "bitcoin-above-68k-on-june-19-2026",
+    "question": "68,000",
+    "eventTitle": "Bitcoin above ___ on June 19?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 257354,
+    "liquidity": 35630,
+    "endDate": "2026-06-19",
+    "dayChange": "-2.70%",
+    "vol24h": 215809,
+    "updatedAt": "2026-06-19T02:17:10.042901Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-jd-vance-win-the-2028-republican-presidential-nomination",
+    "question": "J.D. Vance",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 37.1% | No: 62.8%",
+    "volume": 13650930,
+    "liquidity": 308494,
+    "endDate": "2028-11-07",
+    "dayChange": "4.00%",
+    "vol24h": 214316,
+    "updatedAt": "2026-06-19T02:16:53.002262Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "si-hit-jun-2026",
+    "ticker": "will-silver-si-hit-high-230-by-end-of-june",
+    "question": "↑ $230",
+    "eventTitle": "Will Silver (SI) hit__ by end of June?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 317793,
+    "liquidity": 115561,
+    "endDate": "2026-06-30",
+    "dayChange": "0.30%",
+    "vol24h": 180693,
+    "updatedAt": "2026-06-19T02:17:08.383138Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-19-2026",
+    "ticker": "bitcoin-above-58k-on-june-19-2026",
+    "question": "58,000",
+    "eventTitle": "Bitcoin above ___ on June 19?",
+    "prices": "Yes: 99.6% | No: 0.4%",
+    "volume": 262254,
+    "liquidity": 42964,
+    "endDate": "2026-06-19",
+    "dayChange": "-0.25%",
+    "vol24h": 169040,
+    "updatedAt": "2026-06-19T02:16:51.33076Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-19-2026",
+    "ticker": "bitcoin-above-66k-on-june-19-2026",
+    "question": "66,000",
+    "eventTitle": "Bitcoin above ___ on June 19?",
+    "prices": "Yes: 0.7% | No: 99.4%",
+    "volume": 169842,
+    "liquidity": 30756,
+    "endDate": "2026-06-19",
+    "dayChange": "-15.85%",
+    "vol24h": 147777,
+    "updatedAt": "2026-06-19T02:17:11.162029Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "claude-fable-5-restored-for-us-customers-by-20260613193753196",
+    "ticker": "will-claude-fable-5-be-restored-for-us-customers-by-july-1-20260613193829179-129-881-748-432-345",
+    "question": "July 1",
+    "eventTitle": "Claude Fable 5 restored for US customers by…?",
+    "prices": "Yes: 71.5% | No: 28.5%",
+    "volume": 319255,
+    "liquidity": 22425,
+    "endDate": "2026-07-01",
+    "dayChange": "27.00%",
+    "vol24h": 91936,
+    "updatedAt": "2026-06-19T02:16:55.040983Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "claude-fable-5-restored-for-us-customers-by-20260613193753196",
+    "ticker": "will-claude-fable-5-be-restored-for-us-customers-by-june-22-20260613193829178-738-167-332-255",
+    "question": "June 22",
+    "eventTitle": "Claude Fable 5 restored for US customers by…?",
+    "prices": "Yes: 30.0% | No: 70.0%",
+    "volume": 239855,
+    "liquidity": 12317,
+    "endDate": "2026-06-22",
+    "dayChange": "17.00%",
+    "vol24h": 63276,
+    "updatedAt": "2026-06-19T02:16:49.608228Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "will-spacexs-valuation-hit-by-june-30",
+    "ticker": "will-spacexs-valuation-hit-high-3pt0t-by-june-30",
+    "question": "↑$3.0T",
+    "eventTitle": "Will SpaceX's valuation hit __ by June 30?",
+    "prices": "Yes: 11.6% | No: 88.4%",
+    "volume": 355758,
+    "liquidity": 27847,
+    "endDate": "2026-07-01",
+    "dayChange": "-19.25%",
+    "vol24h": 56036,
+    "updatedAt": "2026-06-19T02:17:07.874145Z",
+    "category": "TECH | FINANCE",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-spacexs-valuation-hit-by-june-30",
+    "ticker": "will-spacexs-valuation-hit-high-4pt0t-by-june-30",
+    "question": "↑$4.0T",
+    "eventTitle": "Will SpaceX's valuation hit __ by June 30?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 257511,
+    "liquidity": 62984,
+    "endDate": "2026-07-01",
+    "dayChange": "-4.75%",
+    "vol24h": 48044,
+    "updatedAt": "2026-06-19T02:16:48.508354Z",
+    "category": "TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "spacex-closing-market-cap-end-of-ipo-month-20260606222757973",
+    "ticker": "will-spacexs-market-cap-be-at-least-3pt5t-at-market-close-on-last-trading-day-of-ipo-month-20260606222847124",
+    "question": "$3.5T+",
+    "eventTitle": "SpaceX Closing Market Cap End of IPO Month",
+    "prices": "Yes: 1.2% | No: 98.8%",
+    "volume": 71580,
+    "liquidity": 80414,
+    "endDate": "2026-07-01",
+    "dayChange": "-3.15%",
+    "vol24h": 13682,
+    "updatedAt": "2026-06-19T02:16:44.219898Z",
+    "category": "TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
