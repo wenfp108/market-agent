@@ -1,0 +1,607 @@
+[
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia",
+    "question": "Adanech Abiebie",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 14245882,
+    "liquidity": 13045,
+    "endDate": "2026-06-01",
+    "dayChange": "0.00%",
+    "vol24h": 4663584,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-alesa-mengesha-be-the-next-prime-minister-of-ethiopia",
+    "question": "Alesa Mengesha",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 3150637,
+    "liquidity": 13271,
+    "endDate": "2026-06-01",
+    "dayChange": "0.10%",
+    "vol24h": 3139406,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia",
+    "question": "Gedion Timothewos",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 11450869,
+    "liquidity": 8768,
+    "endDate": "2026-06-01",
+    "dayChange": "0.00%",
+    "vol24h": 880419,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "question": "Strait of Hormuz traffic returns to normal by end of June?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by end of June?",
+    "prices": "Yes: 6.5% | No: 93.5%",
+    "volume": 31765515,
+    "liquidity": 928308,
+    "endDate": "2026-06-30",
+    "dayChange": "1.00%",
+    "vol24h": 646552,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-wes-moore-win-the-2028-us-presidential-election",
+    "question": "Wes Moore",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 10915143,
+    "liquidity": 544600,
+    "endDate": "2028-11-07",
+    "dayChange": "0.10%",
+    "vol24h": 603546,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "question": "Strait of Hormuz traffic returns to normal by July 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 31?",
+    "prices": "Yes: 48.5% | No: 51.5%",
+    "volume": 7884567,
+    "liquidity": 1044604,
+    "endDate": "2026-07-31",
+    "dayChange": "8.00%",
+    "vol24h": 564292,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "colombia-presidential-election",
+    "ticker": "will-ivan-cepeda-castro-win-the-2026-colombian-presidential-election",
+    "question": "Iván Cepeda Castro",
+    "eventTitle": "Colombia Presidential Election",
+    "prices": "Yes: 0.9% | No: 99.2%",
+    "volume": 6950275,
+    "liquidity": 240954,
+    "endDate": "2026-06-21",
+    "dayChange": "0.25%",
+    "vol24h": 498209,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-leader-out-of-power-before-2027-no-orban",
+    "ticker": "will-keir-starmer-be-the-next-leader-out-before-2027-565",
+    "question": "Starmer - UK PM",
+    "eventTitle": "Next leader out of power before 2027? (No Orban)",
+    "prices": "Yes: 79.0% | No: 21.0%",
+    "volume": 704687,
+    "liquidity": 43763,
+    "endDate": "2026-12-31",
+    "dayChange": "51.00%",
+    "vol24h": 429045,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "colombia-presidential-election",
+    "ticker": "will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election",
+    "question": "Abelardo de la Espriella",
+    "eventTitle": "Colombia Presidential Election",
+    "prices": "Yes: 99.2% | No: 0.8%",
+    "volume": 6391684,
+    "liquidity": 162303,
+    "endDate": "2026-06-21",
+    "dayChange": "-0.20%",
+    "vol24h": 361210,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+    "question": "Strait of Hormuz traffic returns to normal by July 15?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 15?",
+    "prices": "Yes: 29.5% | No: 70.5%",
+    "volume": 2279488,
+    "liquidity": 225866,
+    "endDate": "2026-07-15",
+    "dayChange": "2.50%",
+    "vol24h": 296862,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-23-2026",
+    "ticker": "bitcoin-above-58k-on-june-23-2026",
+    "question": "58,000",
+    "eventTitle": "Bitcoin above ___ on June 23?",
+    "prices": "Yes: 99.9% | No: 0.1%",
+    "volume": 326698,
+    "liquidity": 100107,
+    "endDate": "2026-06-23",
+    "dayChange": "0.50%",
+    "vol24h": 288820,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "peru-presidential-election-winner",
+    "ticker": "will-roberto-snchez-palomino-win-the-2026-peruvian-presidential-election",
+    "question": "Roberto Sánchez Palomino",
+    "eventTitle": "Peru Presidential Election Winner",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 35450077,
+    "liquidity": 246084,
+    "endDate": "2026-06-07",
+    "dayChange": "-0.25%",
+    "vol24h": 252073,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-agrees-to-end-enrichment-of-uranium-by-june-30",
+    "ticker": "iran-agrees-to-end-enrichment-of-uranium-by-june-30",
+    "question": " Iran agrees to end enrichment of uranium by June 30?",
+    "eventTitle": " Iran agrees to end enrichment of uranium by June 30?",
+    "prices": "Yes: 3.9% | No: 96.2%",
+    "volume": 11519208,
+    "liquidity": 368278,
+    "endDate": "2026-06-30",
+    "dayChange": "0.50%",
+    "vol24h": 250164,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-leader-out-of-power-before-2027-no-orban",
+    "ticker": "will-gustavo-petro-be-the-next-leader-out-before-2027-576",
+    "question": "Petro - Colombia President",
+    "eventTitle": "Next leader out of power before 2027? (No Orban)",
+    "prices": "Yes: 16.5% | No: 83.5%",
+    "volume": 563052,
+    "liquidity": 40360,
+    "endDate": "2026-12-31",
+    "dayChange": "-49.00%",
+    "vol24h": 246872,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-23-2026",
+    "ticker": "bitcoin-above-56k-on-june-23-2026",
+    "question": "56,000",
+    "eventTitle": "Bitcoin above ___ on June 23?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 305078,
+    "liquidity": 61340,
+    "endDate": "2026-06-23",
+    "dayChange": "0.00%",
+    "vol24h": 227159,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-shein-have-the-highest-ipo-market-cap-2026-348",
+    "question": "SHEIN",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 318767,
+    "liquidity": 54048,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 219630,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "TECH | FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-by-june-30-333",
+    "question": "June 30",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 7409393,
+    "liquidity": 443847,
+    "endDate": "2026-06-30",
+    "dayChange": "0.10%",
+    "vol24h": 216391,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-benny-gantz-be-the-next-prime-minister-of-israel",
+    "question": "Benny Gantz",
+    "eventTitle": "Who will be the next Prime Minister of Israel after the next election?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 971966,
+    "liquidity": 104459,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 210474,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-uk-prime-minister-in-2026-122",
+    "ticker": "will-david-lammy-be-the-next-prime-minister-of-the-united-kingdom-in-2026-654",
+    "question": "David Lammy",
+    "eventTitle": "Next UK Prime Minister in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 789519,
+    "liquidity": 49333,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.10%",
+    "vol24h": 208979,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-june-30",
+    "ticker": "will-the-iranian-regime-fall-by-june-30",
+    "question": "Will the Iranian regime fall by June 30?",
+    "eventTitle": "Will the Iranian regime fall by June 30?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 63096435,
+    "liquidity": 1279133,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.10%",
+    "vol24h": 207280,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-databricks-have-the-highest-ipo-market-cap-2026-418",
+    "question": "Databricks",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 340466,
+    "liquidity": 38514,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 198000,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "TECH | FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-uk-prime-minister-in-2026-122",
+    "ticker": "will-wes-streeting-be-the-next-prime-minister-of-the-united-kingdom-in-2026-137",
+    "question": "Wes Streeting",
+    "eventTitle": "Next UK Prime Minister in 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 660773,
+    "liquidity": 79384,
+    "endDate": "2026-12-31",
+    "dayChange": "-1.20%",
+    "vol24h": 197568,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-23-2026",
+    "ticker": "bitcoin-above-60k-on-june-23-2026",
+    "question": "60,000",
+    "eventTitle": "Bitcoin above ___ on June 23?",
+    "prices": "Yes: 99.6% | No: 0.4%",
+    "volume": 251820,
+    "liquidity": 60905,
+    "endDate": "2026-06-23",
+    "dayChange": "2.20%",
+    "vol24h": 197136,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-yair-golan-be-the-next-prime-minister-of-israel",
+    "question": "Yair Golan",
+    "eventTitle": "Who will be the next Prime Minister of Israel after the next election?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 1301750,
+    "liquidity": 55217,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 190212,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-withdraws-from-lebanon-by",
+    "ticker": "israel-withdraws-from-lebanon-by-june-30-2026",
+    "question": "June 30",
+    "eventTitle": "Israel withdraws from Lebanon by...?",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 2596524,
+    "liquidity": 168961,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.40%",
+    "vol24h": 182387,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-uk-prime-minister-in-2026-122",
+    "ticker": "will-shabana-mahmood-be-the-next-prime-minister-of-the-united-kingdom-in-2026-129",
+    "question": "Shabana Mahmood",
+    "eventTitle": "Next UK Prime Minister in 2026?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 692843,
+    "liquidity": 37925,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 180211,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-uk-prime-minister-in-2026-122",
+    "ticker": "will-andy-burnham-be-the-next-prime-minister-of-the-united-kingdom-in-2026-882",
+    "question": "Andy Burnham",
+    "eventTitle": "Next UK Prime Minister in 2026?",
+    "prices": "Yes: 97.3% | No: 2.8%",
+    "volume": 1174800,
+    "liquidity": 116933,
+    "endDate": "2026-12-31",
+    "dayChange": "3.95%",
+    "vol24h": 159936,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-yoaz-hendel-be-the-next-prime-minister-of-israel",
+    "question": "Yoaz Hendel",
+    "eventTitle": "Who will be the next Prime Minister of Israel after the next election?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1354103,
+    "liquidity": 48081,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.10%",
+    "vol24h": 158859,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-june-30",
+    "ticker": "will-40-ships-transit-the-strait-of-hormuz-on-any-day-by-june-30-2026",
+    "question": "40+",
+    "eventTitle": "Will __ ships transit the Strait of Hormuz on any day by June 30?",
+    "prices": "Yes: 51.0% | No: 49.0%",
+    "volume": 331788,
+    "liquidity": 37031,
+    "endDate": "2026-06-30",
+    "dayChange": "4.50%",
+    "vol24h": 158680,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-23-2026",
+    "ticker": "bitcoin-above-62k-on-june-23-2026",
+    "question": "62,000",
+    "eventTitle": "Bitcoin above ___ on June 23?",
+    "prices": "Yes: 93.7% | No: 6.3%",
+    "volume": 203135,
+    "liquidity": 24387,
+    "endDate": "2026-06-23",
+    "dayChange": "6.20%",
+    "vol24h": 155249,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "ticker": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+    "question": "Tesla",
+    "eventTitle": "Largest Company end of June?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 4115491,
+    "liquidity": 204895,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 92670,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "ticker": "will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-june-30-123",
+    "question": "Amazon",
+    "eventTitle": "Largest Company end of June?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 3606716,
+    "liquidity": 327580,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 30830,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-june-712",
+    "ticker": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-june-30",
+    "question": "Saudi Aramco",
+    "eventTitle": "Largest Company end of June?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 3449851,
+    "liquidity": 318955,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 10116,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-spacex-have-the-highest-ipo-market-cap-2026-516",
+    "question": "SpaceX",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 85.5% | No: 14.5%",
+    "volume": 370473,
+    "liquidity": 34726,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 8385,
+    "updatedAt": "2026-06-23T04:44:04.273074Z",
+    "category": "TECH | FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  }
+]
