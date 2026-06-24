@@ -1,0 +1,568 @@
+[
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-adanech-abiebie-be-the-next-prime-minister-of-ethiopia",
+    "question": "Adanech Abiebie",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 19040030,
+    "liquidity": 14214,
+    "endDate": "2026-06-01",
+    "dayChange": "0.05%",
+    "vol24h": 3494318,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "who-will-enter-iran-by-june-30",
+    "ticker": "will-benjamin-netanyahu-enter-iran-by-june-30",
+    "question": "Benjamin Netanyahu",
+    "eventTitle": "Who will enter Iran by June 30?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 2421267,
+    "liquidity": 38699,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 2365533,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "question": "Strait of Hormuz traffic returns to normal by end of June?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by end of June?",
+    "prices": "Yes: 4.0% | No: 96.0%",
+    "volume": 34145084,
+    "liquidity": 260653,
+    "endDate": "2026-06-30",
+    "dayChange": "0.70%",
+    "vol24h": 1596883,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+    "question": "Belete Molla",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 11375366,
+    "liquidity": 16689,
+    "endDate": "2026-06-01",
+    "dayChange": "0.85%",
+    "vol24h": 1336529,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "who-will-enter-iran-by-june-30",
+    "ticker": "will-jd-vance-enter-iran-by-june-30",
+    "question": "JD Vance",
+    "eventTitle": "Who will enter Iran by June 30?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 1270818,
+    "liquidity": 28764,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.20%",
+    "vol24h": 1232156,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-by-june-30-333",
+    "question": "June 30",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 8365890,
+    "liquidity": 212434,
+    "endDate": "2026-06-30",
+    "dayChange": "0.40%",
+    "vol24h": 840088,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-person-a-win-the-2028-democratic-presidential-nomination",
+    "question": "Hunter Biden",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 42242551,
+    "liquidity": 786748,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.45%",
+    "vol24h": 746261,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+    "question": "Strait of Hormuz traffic returns to normal by July 15?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 15?",
+    "prices": "Yes: 29.5% | No: 70.5%",
+    "volume": 3067918,
+    "liquidity": 176356,
+    "endDate": "2026-07-15",
+    "dayChange": "5.00%",
+    "vol24h": 589030,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-june-30",
+    "ticker": "will-the-iranian-regime-fall-by-june-30",
+    "question": "Will the Iranian regime fall by June 30?",
+    "eventTitle": "Will the Iranian regime fall by June 30?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 63977108,
+    "liquidity": 907063,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 525258,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-june",
+    "ticker": "will-alibaba-have-the-best-ai-model-at-the-end-of-june-2026",
+    "question": "Alibaba",
+    "eventTitle": "Which company has best AI model end of June?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 1504006,
+    "liquidity": 240656,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 503605,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "question": "Strait of Hormuz traffic returns to normal by July 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 31?",
+    "prices": "Yes: 45.5% | No: 54.5%",
+    "volume": 8559122,
+    "liquidity": 740772,
+    "endDate": "2026-07-31",
+    "dayChange": "-1.00%",
+    "vol24h": 428716,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-tulsi-gabbard-win-the-2028-us-presidential-election",
+    "question": "Tulsi Gabbard",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 32787352,
+    "liquidity": 403265,
+    "endDate": "2028-11-07",
+    "dayChange": "0.20%",
+    "vol24h": 382874,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "colombia-presidential-election",
+    "ticker": "will-abelardo-de-la-espriella-win-the-2026-colombian-presidential-election",
+    "question": "Abelardo de la Espriella",
+    "eventTitle": "Colombia Presidential Election",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 6882856,
+    "liquidity": 402883,
+    "endDate": "2026-06-21",
+    "dayChange": "0.60%",
+    "vol24h": 342836,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-china-invade-taiwan-before-2027",
+    "ticker": "will-china-invade-taiwan-before-2027",
+    "question": "Will China invade Taiwan by end of 2026?",
+    "eventTitle": "Will China invade Taiwan by end of 2026?",
+    "prices": "Yes: 5.9% | No: 94.2%",
+    "volume": 36797795,
+    "liquidity": 655776,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.40%",
+    "vol24h": 339978,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "peru-presidential-election-winner",
+    "ticker": "will-roberto-snchez-palomino-win-the-2026-peruvian-presidential-election",
+    "question": "Roberto Sánchez Palomino",
+    "eventTitle": "Peru Presidential Election Winner",
+    "prices": "Yes: 0.3% | No: 99.7%",
+    "volume": 35826352,
+    "liquidity": 303139,
+    "endDate": "2026-06-07",
+    "dayChange": "-0.05%",
+    "vol24h": 323083,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-shein-have-the-highest-ipo-market-cap-2026-348",
+    "question": "SHEIN",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 559879,
+    "liquidity": 55607,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 241112,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "TECH | FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-waymo-have-the-highest-ipo-market-cap-2026-835",
+    "question": "Waymo",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 307125,
+    "liquidity": 53256,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 228840,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "TECH | FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "mojtaba-khamenei-public-appearance-by",
+    "ticker": "mojtaba-khamenei-seen-in-public-by-july-31-827",
+    "question": "July 31",
+    "eventTitle": "Mojtaba Khamenei public appearance by...?",
+    "prices": "Yes: 33.0% | No: 67.0%",
+    "volume": 816506,
+    "liquidity": 35130,
+    "endDate": "2026-07-31",
+    "dayChange": "1.50%",
+    "vol24h": 219474,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "colombia-presidential-election",
+    "ticker": "will-ivan-cepeda-castro-win-the-2026-colombian-presidential-election",
+    "question": "Iván Cepeda Castro",
+    "eventTitle": "Colombia Presidential Election",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 7323618,
+    "liquidity": 708471,
+    "endDate": "2026-06-21",
+    "dayChange": "-0.45%",
+    "vol24h": 218485,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-june-30",
+    "ticker": "will-40-ships-transit-the-strait-of-hormuz-on-any-day-by-june-30-2026",
+    "question": "40+",
+    "eventTitle": "Will __ ships transit the Strait of Hormuz on any day by June 30?",
+    "prices": "Yes: 77.5% | No: 22.5%",
+    "volume": 742974,
+    "liquidity": 21559,
+    "endDate": "2026-06-30",
+    "dayChange": "32.50%",
+    "vol24h": 211545,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-databricks-have-the-highest-ipo-market-cap-2026-418",
+    "question": "Databricks",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 549012,
+    "liquidity": 40831,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 208546,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "TECH | FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-closes-its-airspace-by",
+    "ticker": "israel-closes-its-airspace-by-june-30-324-253-464-332-827-713-671-846",
+    "question": "June 30",
+    "eventTitle": "Israel closes its airspace by...?",
+    "prices": "Yes: 1.8% | No: 98.2%",
+    "volume": 4175425,
+    "liquidity": 124570,
+    "endDate": "2026-06-30",
+    "dayChange": "-1.35%",
+    "vol24h": 192770,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-enter-iran-by-june-30",
+    "ticker": "will-jared-kushner-enter-iran-by-june-30",
+    "question": "Jared Kushner",
+    "eventTitle": "Who will enter Iran by June 30?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 203893,
+    "liquidity": 23976,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.15%",
+    "vol24h": 186532,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-russia-capture-all-of-stepnohirsk-by",
+    "ticker": "will-russia-capture-all-of-stepnohirsk-by-september-30-2026",
+    "question": "September 30",
+    "eventTitle": "Will Russia capture all of Stepnohirsk by...?",
+    "prices": "Yes: 8.7% | No: 91.3%",
+    "volume": 1079620,
+    "liquidity": 15753,
+    "endDate": "2026-09-30",
+    "dayChange": "-1.20%",
+    "vol24h": 180605,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-25-2026",
+    "ticker": "bitcoin-above-56k-on-june-25-2026",
+    "question": "56,000",
+    "eventTitle": "Bitcoin above ___ on June 25?",
+    "prices": "Yes: 97.4% | No: 2.6%",
+    "volume": 192852,
+    "liquidity": 39272,
+    "endDate": "2026-06-25",
+    "dayChange": "-1.60%",
+    "vol24h": 175189,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "question": "Luiz Inácio Lula da Silva",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 57.5% | No: 42.5%",
+    "volume": 6858998,
+    "liquidity": 254747,
+    "endDate": "2026-10-04",
+    "dayChange": "4.00%",
+    "vol24h": 167772,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-by-september-30-396",
+    "question": "September 30",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 6.7% | No: 93.3%",
+    "volume": 1895256,
+    "liquidity": 127672,
+    "endDate": "2026-09-30",
+    "dayChange": "1.95%",
+    "vol24h": 166514,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-hezbollah-permanent-peace-deal-by",
+    "ticker": "israel-x-hezbollah-permanent-peace-deal-by-june-30-2026",
+    "question": "June 30",
+    "eventTitle": "Israel x Hezbollah permanent peace deal by...?",
+    "prices": "Yes: 3.0% | No: 97.0%",
+    "volume": 2929685,
+    "liquidity": 94225,
+    "endDate": "2026-06-30",
+    "dayChange": "-3.25%",
+    "vol24h": 163767,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-june",
+    "ticker": "will-zai-have-the-best-ai-model-at-the-end-of-june-2026",
+    "question": "Z.ai",
+    "eventTitle": "Which company has best AI model end of June?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 1306584,
+    "liquidity": 122768,
+    "endDate": "2026-06-30",
+    "dayChange": "0.00%",
+    "vol24h": 162997,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-continent-will-win-the-world-cup",
+    "ticker": "will-asia-win-the-2026-fifa-world-cup",
+    "question": "Asia (AFC)",
+    "eventTitle": "Which continent will win the World Cup?",
+    "prices": "Yes: 1.4% | No: 98.7%",
+    "volume": 1005460,
+    "liquidity": 205417,
+    "endDate": "N/A",
+    "dayChange": "-0.55%",
+    "vol24h": 158506,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-25-2026",
+    "ticker": "bitcoin-above-58k-on-june-25-2026",
+    "question": "58,000",
+    "eventTitle": "Bitcoin above ___ on June 25?",
+    "prices": "Yes: 83.0% | No: 17.0%",
+    "volume": 177573,
+    "liquidity": 31867,
+    "endDate": "2026-06-25",
+    "dayChange": "-15.25%",
+    "vol24h": 146531,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-june-25-2026",
+    "ticker": "bitcoin-above-60k-on-june-25-2026",
+    "question": "60,000",
+    "eventTitle": "Bitcoin above ___ on June 25?",
+    "prices": "Yes: 44.5% | No: 55.5%",
+    "volume": 171992,
+    "liquidity": 25700,
+    "endDate": "2026-06-25",
+    "dayChange": "-46.60%",
+    "vol24h": 119307,
+    "updatedAt": "2026-06-24T18:20:52.800502Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
