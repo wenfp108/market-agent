@@ -1,0 +1,570 @@
+[
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia",
+    "question": "Gedion Timothewos",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 40916064,
+    "liquidity": 29995,
+    "endDate": "2026-06-01",
+    "dayChange": "0.00%",
+    "vol24h": 2818016,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+    "question": "Strait of Hormuz traffic returns to normal by July 15?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 15?",
+    "prices": "Yes: 1.8% | No: 98.3%",
+    "volume": 7305485,
+    "liquidity": 424377,
+    "endDate": "2026-07-15",
+    "dayChange": "-1.60%",
+    "vol24h": 513207,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+    "question": "Strait of Hormuz traffic returns to normal by end of June?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by end of June?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 43946425,
+    "liquidity": 1108154,
+    "endDate": "2026-06-30",
+    "dayChange": "-0.10%",
+    "vol24h": 442198,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-white-house-call-a-full-lid-by-630-pm-june-29-july-4-20260626160825412",
+    "ticker": "will-the-white-house-call-a-full-lid-by-630pm-on-july-4-20260626160825418",
+    "question": "July 4",
+    "eventTitle": "Will the White House call a full lid by 6:30 PM? (June 29 - July 4)",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 603518,
+    "liquidity": 1140987,
+    "endDate": "2026-07-04",
+    "dayChange": "-47.20%",
+    "vol24h": 396831,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-samuel-alito-announce-his-retirement-by",
+    "ticker": "will-samuel-alito-announce-his-retirement-by-july-15-2026",
+    "question": "July 15",
+    "eventTitle": "Will Samuel Alito announce his retirement by...?",
+    "prices": "Yes: 5.1% | No: 95.0%",
+    "volume": 539375,
+    "liquidity": 100769,
+    "endDate": "2026-12-31",
+    "dayChange": "2.35%",
+    "vol24h": 301443,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-shimelis-abdisa-be-the-next-prime-minister-of-ethiopia",
+    "question": "Shimelis Abdisa",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 36333410,
+    "liquidity": 31518,
+    "endDate": "2026-06-01",
+    "dayChange": "0.00%",
+    "vol24h": 277142,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "question": "Strait of Hormuz traffic returns to normal by December 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by December 31?",
+    "prices": "Yes: 63.5% | No: 36.5%",
+    "volume": 4093516,
+    "liquidity": 227352,
+    "endDate": "2026-12-31",
+    "dayChange": "-9.00%",
+    "vol24h": 211250,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "iran-leader-end-of-2026",
+    "ticker": "will-mohammad-khatami-be-head-of-state-in-iran-end-of-2026",
+    "question": "Mohammad Khatami",
+    "eventTitle": "Iran leader end of 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 932214,
+    "liquidity": 74478,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 203462,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-leader-end-of-2026",
+    "ticker": "will-seyed-hossein-mousavian-be-head-of-state-in-iran-end-of-2026",
+    "question": "Seyed Hossein Mousavian",
+    "eventTitle": "Iran leader end of 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 388436,
+    "liquidity": 59564,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 200334,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-leader-end-of-2026",
+    "ticker": "will-mahmoud-ahmadinejad-be-head-of-state-in-iran-end-of-2026",
+    "question": "Mahmoud Ahmadinejad",
+    "eventTitle": "Iran leader end of 2026?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 746299,
+    "liquidity": 66673,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 199902,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-continent-will-win-the-world-cup",
+    "ticker": "will-north-america-win-the-2026-fifa-world-cup",
+    "question": "North America (CONCACAF)",
+    "eventTitle": "Which continent will win the World Cup?",
+    "prices": "Yes: 3.1% | No: 96.9%",
+    "volume": 1624200,
+    "liquidity": 128045,
+    "endDate": "N/A",
+    "dayChange": "-1.70%",
+    "vol24h": 179195,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "question": "Strait of Hormuz traffic returns to normal by July 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 31?",
+    "prices": "Yes: 11.5% | No: 88.5%",
+    "volume": 12274389,
+    "liquidity": 476248,
+    "endDate": "2026-07-31",
+    "dayChange": "-5.00%",
+    "vol24h": 174749,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-beto-orourke-win-the-2028-democratic-presidential-nomination",
+    "question": "Beto O’Rourke",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.7% | No: 99.4%",
+    "volume": 41821822,
+    "liquidity": 2659338,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 144884,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-7-20260625174256255",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-7-20260625174256255",
+    "question": "Strait of Hormuz traffic returns to normal by July 7?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 7?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 1475816,
+    "liquidity": 377761,
+    "endDate": "2026-07-07",
+    "dayChange": "-0.10%",
+    "vol24h": 141654,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-microstrategy-announce-a-bitcoin-purchase-june-30-july-6",
+    "ticker": "will-microstrategy-announce-a-bitcoin-purchase-june-30-july-6",
+    "question": "Will Microstrategy announce a Bitcoin purchase June 30-July 6?",
+    "eventTitle": "Will Microstrategy announce a Bitcoin purchase June 30-July 6?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 148750,
+    "liquidity": 51383,
+    "endDate": "2026-07-07",
+    "dayChange": "-4.95%",
+    "vol24h": 118130,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "china-x-taiwan-military-clash-before-2027",
+    "ticker": "china-x-taiwan-military-clash-before-2027",
+    "question": "China x Taiwan military clash before 2027?",
+    "eventTitle": "China x Taiwan military clash before 2027?",
+    "prices": "Yes: 5.3% | No: 94.7%",
+    "volume": 2802212,
+    "liquidity": 67667,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.20%",
+    "vol24h": 113150,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-july-7-2026",
+    "ticker": "bitcoin-above-56k-on-july-7-2026",
+    "question": "56,000",
+    "eventTitle": "Bitcoin above ___ on July 7?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 123768,
+    "liquidity": 17957,
+    "endDate": "2026-07-07",
+    "dayChange": "0.25%",
+    "vol24h": 110093,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-july-7-2026",
+    "ticker": "bitcoin-above-66k-on-july-7-2026",
+    "question": "66,000",
+    "eventTitle": "Bitcoin above ___ on July 7?",
+    "prices": "Yes: 3.7% | No: 96.3%",
+    "volume": 123048,
+    "liquidity": 28152,
+    "endDate": "2026-07-07",
+    "dayChange": "0.15%",
+    "vol24h": 105221,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "gpt-5pt6-released-by",
+    "ticker": "gpt-5pt6-released-by-july-6-2026",
+    "question": "July 6",
+    "eventTitle": "GPT-5.6 released by...?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 346530,
+    "liquidity": 31885,
+    "endDate": "2026-07-06",
+    "dayChange": "-0.75%",
+    "vol24h": 96871,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 11.5% | No: 88.5%",
+    "volume": 39343572,
+    "liquidity": 538191,
+    "endDate": "2026-12-31",
+    "dayChange": "-1.00%",
+    "vol24h": 90652,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "spx-up-or-down-on-july-6-2026",
+    "ticker": "spx-up-or-down-on-july-6-2026",
+    "question": "S&P 500 (SPX) Up or Down on July 6?",
+    "eventTitle": "S&P 500 (SPX) Up or Down on July 6?",
+    "prices": "Up: 99.8% | Down: 0.3%",
+    "volume": 90632,
+    "liquidity": 21826,
+    "endDate": "2026-07-06",
+    "dayChange": "31.75%",
+    "vol24h": 89649,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-samuel-alito-announce-his-retirement-by",
+    "ticker": "will-samuel-alito-announce-his-retirement-by-september-30-2026-20260630151901966",
+    "question": "September 30",
+    "eventTitle": "Will Samuel Alito announce his retirement by...?",
+    "prices": "Yes: 20.5% | No: 79.5%",
+    "volume": 374872,
+    "liquidity": 62653,
+    "endDate": "2026-12-31",
+    "dayChange": "8.00%",
+    "vol24h": 88719,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-ayelet-shaked-be-the-next-prime-minister-of-israel",
+    "question": "Ayelet Shaked",
+    "eventTitle": "Who will be the next Prime Minister of Israel after the next election?",
+    "prices": "Yes: 1.1% | No: 98.9%",
+    "volume": 1381469,
+    "liquidity": 66723,
+    "endDate": "2026-12-31",
+    "dayChange": "1.00%",
+    "vol24h": 85574,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-july-7-2026",
+    "ticker": "bitcoin-above-68k-on-july-7-2026",
+    "question": "68,000",
+    "eventTitle": "Bitcoin above ___ on July 7?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 111687,
+    "liquidity": 36436,
+    "endDate": "2026-07-07",
+    "dayChange": "-0.60%",
+    "vol24h": 84179,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-on-july-6",
+    "ticker": "will-bitcoin-reach-64k-on-july-6",
+    "question": "↑ 64,000",
+    "eventTitle": "What price will Bitcoin hit on July 6?",
+    "prices": "Yes: 63.5% | No: 36.5%",
+    "volume": 83917,
+    "liquidity": 8590,
+    "endDate": "2026-07-07",
+    "dayChange": "0.00%",
+    "vol24h": 83917,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-july-7-2026",
+    "ticker": "bitcoin-above-58k-on-july-7-2026",
+    "question": "58,000",
+    "eventTitle": "Bitcoin above ___ on July 7?",
+    "prices": "Yes: 99.9% | No: 0.1%",
+    "volume": 126113,
+    "liquidity": 31960,
+    "endDate": "2026-07-07",
+    "dayChange": "1.00%",
+    "vol24h": 77863,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-july-7-2026",
+    "ticker": "bitcoin-above-60k-on-july-7-2026",
+    "question": "60,000",
+    "eventTitle": "Bitcoin above ___ on July 7?",
+    "prices": "Yes: 99.5% | No: 0.5%",
+    "volume": 130765,
+    "liquidity": 28408,
+    "endDate": "2026-07-07",
+    "dayChange": "5.95%",
+    "vol24h": 76108,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "mojtaba-khamenei-public-appearance-by",
+    "ticker": "mojtaba-khamenei-seen-in-public-by-july-15-155",
+    "question": "July 15",
+    "eventTitle": "Mojtaba Khamenei public appearance by...?",
+    "prices": "Yes: 9.5% | No: 90.5%",
+    "volume": 475740,
+    "liquidity": 40752,
+    "endDate": "2026-07-15",
+    "dayChange": "-0.50%",
+    "vol24h": 74656,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-sgolne-royal-win-the-2027-french-presidential-election",
+    "question": "Ségolène Royal",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 5162907,
+    "liquidity": 240888,
+    "endDate": "2027-04-30",
+    "dayChange": "0.10%",
+    "vol24h": 70416,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-continent-will-win-the-world-cup",
+    "ticker": "will-africa-win-the-2026-fifa-world-cup",
+    "question": "Africa (CAF)",
+    "eventTitle": "Which continent will win the World Cup?",
+    "prices": "Yes: 5.1% | No: 94.9%",
+    "volume": 2053413,
+    "liquidity": 80911,
+    "endDate": "N/A",
+    "dayChange": "2.35%",
+    "vol24h": 69573,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "gpt-5pt6-released-by",
+    "ticker": "gpt-5pt6-released-by-july-7-2026",
+    "question": "July 7",
+    "eventTitle": "GPT-5.6 released by...?",
+    "prices": "Yes: 10.5% | No: 89.5%",
+    "volume": 133381,
+    "liquidity": 13250,
+    "endDate": "2026-07-07",
+    "dayChange": "1.00%",
+    "vol24h": 57613,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-july-299",
+    "ticker": "will-anthropic-have-the-best-ai-model-at-the-end-of-july-2026",
+    "question": "Anthropic",
+    "eventTitle": "Which company has best AI model end of July?",
+    "prices": "Yes: 85.0% | No: 15.0%",
+    "volume": 455940,
+    "liquidity": 48492,
+    "endDate": "2026-07-31",
+    "dayChange": "-1.50%",
+    "vol24h": 39342,
+    "updatedAt": "2026-07-06T19:15:37.853044Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  }
+]
