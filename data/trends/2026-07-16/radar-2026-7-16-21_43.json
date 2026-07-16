@@ -1,0 +1,676 @@
+[
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-gedion-timothewos-be-the-next-prime-minister-of-ethiopia",
+    "question": "Gedion Timothewos",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.9% | No: 99.2%",
+    "volume": 55904228,
+    "liquidity": 24567,
+    "endDate": "2026-06-01",
+    "dayChange": "0.30%",
+    "vol24h": 6243500,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-belete-molla-be-the-next-prime-minister-of-ethiopia",
+    "question": "Belete Molla",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 14247798,
+    "liquidity": 21517,
+    "endDate": "2026-06-01",
+    "dayChange": "0.00%",
+    "vol24h": 2859856,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-leader-end-of-2026",
+    "ticker": "will-mohammad-khatami-be-head-of-state-in-iran-end-of-2026",
+    "question": "Mohammad Khatami",
+    "eventTitle": "Iran leader end of 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 4997470,
+    "liquidity": 53739,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 1423508,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-john-fetterman-win-the-2028-democratic-presidential-nomination-941",
+    "question": "John Fetterman",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 23977649,
+    "liquidity": 2104114,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.10%",
+    "vol24h": 851858,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 23.5% | No: 76.5%",
+    "volume": 43522303,
+    "liquidity": 519671,
+    "endDate": "2026-12-31",
+    "dayChange": "2.50%",
+    "vol24h": 783826,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-kim-kardashian-win-the-2028-us-presidential-election",
+    "question": "Kim Kardashian",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 39383682,
+    "liquidity": 1699362,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.10%",
+    "vol24h": 514281,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-mike-pence-win-the-2028-republican-presidential-nomination",
+    "question": "Mike Pence",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 43085757,
+    "liquidity": 1846465,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.20%",
+    "vol24h": 445121,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-lebron-james-win-the-2028-us-presidential-election",
+    "question": "LeBron James",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 54319967,
+    "liquidity": 2220225,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.10%",
+    "vol24h": 408562,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-george-clooney-win-the-2028-democratic-presidential-nomination",
+    "question": "George Clooney",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 42642992,
+    "liquidity": 2740336,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.10%",
+    "vol24h": 387551,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-kristi-noem-win-the-2028-republican-presidential-nomination",
+    "question": "Kristi Noem",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 35985306,
+    "liquidity": 1996549,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.20%",
+    "vol24h": 339409,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-leader-out-of-power-before-2027-no-orban",
+    "ticker": "will-mahmoud-abbas-be-the-next-leader-out-before-2027-981",
+    "question": "Abbas - President of Palestine",
+    "eventTitle": "Next leader out of power before 2027? (No Orban)",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 9269674,
+    "liquidity": 71435,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 337378,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-mrbeast-win-the-2028-democratic-presidential-nomination",
+    "question": "MrBeast",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 40010766,
+    "liquidity": 2610977,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.15%",
+    "vol24h": 334699,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "question": "Strait of Hormuz traffic returns to normal by July 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 31?",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 17238842,
+    "liquidity": 839614,
+    "endDate": "2026-07-31",
+    "dayChange": "-0.30%",
+    "vol24h": 319074,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-mathilde-panot-win-the-2027-french-presidential-election",
+    "question": "Mathilde Panot",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 6144951,
+    "liquidity": 518718,
+    "endDate": "2027-04-30",
+    "dayChange": "-0.10%",
+    "vol24h": 288648,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-vivek-ramaswamy-win-the-2028-us-presidential-election",
+    "question": "Vivek Ramaswamy",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 36705087,
+    "liquidity": 1473897,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.10%",
+    "vol24h": 285969,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+    "ticker": "kharg-island-no-longer-under-iranian-control-by-july-31",
+    "question": "July 31",
+    "eventTitle": "Kharg Island no longer under Iranian control by...?",
+    "prices": "Yes: 2.4% | No: 97.6%",
+    "volume": 2871337,
+    "liquidity": 189209,
+    "endDate": "2026-06-30",
+    "dayChange": "-1.25%",
+    "vol24h": 227530,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-carole-delga-win-the-2027-french-presidential-election",
+    "question": "Carole Delga",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 4498372,
+    "liquidity": 520603,
+    "endDate": "2027-04-30",
+    "dayChange": "-0.10%",
+    "vol24h": 196149,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "spx-up-or-down-on-july-16-2026",
+    "ticker": "spx-up-or-down-on-july-16-2026",
+    "question": "S&P 500 (SPX) Up or Down on July 16?",
+    "eventTitle": "S&P 500 (SPX) Up or Down on July 16?",
+    "prices": "Up: 0.1% | Down: 100.0%",
+    "volume": 190209,
+    "liquidity": 72293,
+    "endDate": "2026-07-16",
+    "dayChange": "-54.45%",
+    "vol24h": 189430,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-michelle-obama-win-the-2028-us-presidential-election",
+    "question": "Michelle Obama",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.7% | No: 99.4%",
+    "volume": 18423227,
+    "liquidity": 1476796,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 186156,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-lisabeth-borne-win-the-2027-french-presidential-election",
+    "question": "Élisabeth Borne",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 5211486,
+    "liquidity": 509786,
+    "endDate": "2027-04-30",
+    "dayChange": "0.00%",
+    "vol24h": 180990,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-announces-withdrawal-from-mou-negotiations-byptptpt-20260622191732319",
+    "ticker": "will-iran-announce-withdrawal-from-mou-negotiations-by-july-17",
+    "question": "July 17",
+    "eventTitle": "Iran announces withdrawal from MOU negotiations by...?",
+    "prices": "Yes: 2.6% | No: 97.4%",
+    "volume": 1246514,
+    "liquidity": 145249,
+    "endDate": "2026-07-17",
+    "dayChange": "-4.30%",
+    "vol24h": 178481,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-leader-end-of-2026",
+    "ticker": "will-mojtaba-khamenei-be-head-of-state-in-iran-end-of-2026",
+    "question": "Mojtaba Khamenei",
+    "eventTitle": "Iran leader end of 2026?",
+    "prices": "Yes: 78.5% | No: 21.4%",
+    "volume": 3304869,
+    "liquidity": 71854,
+    "endDate": "2026-12-31",
+    "dayChange": "0.35%",
+    "vol24h": 177824,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-july-299",
+    "ticker": "will-moonshot-have-the-best-ai-model-at-the-end-of-july-2026",
+    "question": "Moonshot",
+    "eventTitle": "Which company has best AI model end of July?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 515292,
+    "liquidity": 116539,
+    "endDate": "2026-07-31",
+    "dayChange": "0.10%",
+    "vol24h": 175442,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+    "question": "Strait of Hormuz traffic returns to normal by July 15?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 15?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 11091081,
+    "liquidity": 781013,
+    "endDate": "2026-07-15",
+    "dayChange": "0.00%",
+    "vol24h": 162683,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-leader-out-of-power-before-2027-no-orban",
+    "ticker": "will-miguel-daz-canel-be-the-next-leader-out-before-2027-767",
+    "question": "Díaz-Canel - Cuba President",
+    "eventTitle": "Next leader out of power before 2027? (No Orban)",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1738377,
+    "liquidity": 71117,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.10%",
+    "vol24h": 160180,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-xavier-bertrand-win-the-2027-french-presidential-election",
+    "question": "Xavier Bertrand",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 5045549,
+    "liquidity": 506398,
+    "endDate": "2027-04-30",
+    "dayChange": "-0.10%",
+    "vol24h": 158532,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-fabien-roussel-win-the-2027-french-presidential-election",
+    "question": "Fabien Roussel",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 3836693,
+    "liquidity": 487802,
+    "endDate": "2027-04-30",
+    "dayChange": "-0.05%",
+    "vol24h": 152795,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "total-commitments-for-the-credible-public-sale-on-metadao-20260708134325640",
+    "ticker": "over-30m-committed-to-the-credible-public-sale-20260708134325652",
+    "question": ">30M",
+    "eventTitle": "Total commitments for the Credible public sale on MetaDAO",
+    "prices": "Yes: 90.5% | No: 9.5%",
+    "volume": 317239,
+    "liquidity": 41055,
+    "endDate": "2026-08-31",
+    "dayChange": "2.00%",
+    "vol24h": 141266,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+    "ticker": "kharg-island-no-longer-under-iranian-control-by-august-31",
+    "question": "August 31",
+    "eventTitle": "Kharg Island no longer under Iranian control by...?",
+    "prices": "Yes: 6.7% | No: 93.3%",
+    "volume": 1646527,
+    "liquidity": 181571,
+    "endDate": "2026-06-30",
+    "dayChange": "-3.75%",
+    "vol24h": 136144,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042",
+    "ticker": "us-x-iran-effective-ceasfire-by-july-18-20260715194822043",
+    "question": "July 18",
+    "eventTitle": "US x Iran Effective Ceasefire by...? (2 week pause)",
+    "prices": "Yes: 4.5% | No: 95.5%",
+    "volume": 117335,
+    "liquidity": 81327,
+    "endDate": "2026-07-18",
+    "dayChange": "0.00%",
+    "vol24h": 115832,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 32.5% | No: 67.5%",
+    "volume": 829811,
+    "liquidity": 128269,
+    "endDate": "2026-09-16",
+    "dayChange": "2.00%",
+    "vol24h": 97812,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decisions-jun-sep",
+    "ticker": "will-the-fed-pausepausepause-in-the-next-three-decisions-junjulsep",
+    "question": "Pause–Pause–Pause",
+    "eventTitle": "Fed decisions (Jun-Sep)",
+    "prices": "Yes: 63.5% | No: 36.5%",
+    "volume": 187351,
+    "liquidity": 57453,
+    "endDate": "2026-09-16",
+    "dayChange": "2.00%",
+    "vol24h": 93220,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-july-17-2026",
+    "ticker": "bitcoin-above-62k-on-july-17-2026",
+    "question": "62,000",
+    "eventTitle": "Bitcoin above ___ on July 17?",
+    "prices": "Yes: 97.0% | No: 3.0%",
+    "volume": 123665,
+    "liquidity": 30376,
+    "endDate": "2026-07-17",
+    "dayChange": "0.45%",
+    "vol24h": 84364,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-before-2027",
+    "ticker": "will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+    "question": "↓ 1,500",
+    "eventTitle": "What price will Ethereum hit in 2026?",
+    "prices": "Yes: 46.5% | No: 53.5%",
+    "volume": 1459775,
+    "liquidity": 105136,
+    "endDate": "2027-01-01",
+    "dayChange": "0.85%",
+    "vol24h": 60395,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "next-uk-chancellor-of-the-exchequer-in-2026-20260621005319178",
+    "ticker": "will-ed-miliband-be-the-next-chancellor-of-the-exchequer-of-the-uk-in-2026-20260621005429782",
+    "question": "Ed Miliband",
+    "eventTitle": "Next UK Chancellor of the Exchequer in 2026?",
+    "prices": "Yes: 5.1% | No: 94.8%",
+    "volume": 304363,
+    "liquidity": 33003,
+    "endDate": "2026-12-31",
+    "dayChange": "1.85%",
+    "vol24h": 28988,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-july-299",
+    "ticker": "will-openai-have-the-best-ai-model-at-the-end-of-july-2026",
+    "question": "OpenAI",
+    "eventTitle": "Which company has best AI model end of July?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 804194,
+    "liquidity": 157988,
+    "endDate": "2026-07-31",
+    "dayChange": "-0.05%",
+    "vol24h": 27370,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-july-299",
+    "ticker": "will-google-have-the-best-ai-model-at-the-end-of-july-2026",
+    "question": "Google",
+    "eventTitle": "Which company has best AI model end of July?",
+    "prices": "Yes: 2.1% | No: 97.9%",
+    "volume": 572869,
+    "liquidity": 39892,
+    "endDate": "2026-07-31",
+    "dayChange": "-1.05%",
+    "vol24h": 18752,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-uk-chancellor-of-the-exchequer-in-2026-20260621005319178",
+    "ticker": "will-john-healey-be-the-next-chancellor-of-the-exchequer-of-the-uk-in-2026",
+    "question": "John Healey",
+    "eventTitle": "Next UK Chancellor of the Exchequer in 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 46495,
+    "liquidity": 24255,
+    "endDate": "2026-12-31",
+    "dayChange": "0.10%",
+    "vol24h": 11248,
+    "updatedAt": "2026-07-16T21:38:52.876039Z",
+    "category": "POLITICS | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  }
+]
