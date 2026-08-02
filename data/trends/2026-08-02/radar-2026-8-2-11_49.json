@@ -1,0 +1,605 @@
+[
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 19.5% | No: 80.5%",
+    "volume": 54313632,
+    "liquidity": 1343036,
+    "endDate": "2026-12-31",
+    "dayChange": "-5.00%",
+    "vol24h": 2764570,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-august-2-20260727170555149",
+    "question": "August 2",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 98.6% | No: 1.5%",
+    "volume": 2390258,
+    "liquidity": 198733,
+    "endDate": "2026-08-02",
+    "dayChange": "15.05%",
+    "vol24h": 1545116,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042",
+    "ticker": "us-x-iran-effective-ceasfire-by-july-31-20260715194822045",
+    "question": "July 31",
+    "eventTitle": "US x Iran Effective Ceasefire by...? (2 week pause)",
+    "prices": "Yes: 51.5% | No: 48.5%",
+    "volume": 4201223,
+    "liquidity": 80740,
+    "endDate": "2026-07-31",
+    "dayChange": "45.00%",
+    "vol24h": 1070250,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-august-1",
+    "question": "August 1",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 99.9% | No: 0.1%",
+    "volume": 1264593,
+    "liquidity": 312000,
+    "endDate": "2026-08-01",
+    "dayChange": "3.10%",
+    "vol24h": 962186,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+    "question": "August 31",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by...?",
+    "prices": "Yes: 10.5% | No: 89.5%",
+    "volume": 5223729,
+    "liquidity": 610208,
+    "endDate": "2026-08-31",
+    "dayChange": "4.00%",
+    "vol24h": 753226,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "who-will-trump-publicly-insult-by-july-31-20260626210612709",
+    "ticker": "will-donald-trump-publicly-insult-emmanuel-macron-by-july-31-2026-20260626210612731",
+    "question": "Emmanuel Macron",
+    "eventTitle": "Who will Trump publicly insult by July 31?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 720326,
+    "liquidity": 126087,
+    "endDate": "2026-07-31",
+    "dayChange": "-22.65%",
+    "vol24h": 625793,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-august-3",
+    "question": "August 3",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 96.8% | No: 3.3%",
+    "volume": 659335,
+    "liquidity": 235162,
+    "endDate": "2026-08-03",
+    "dayChange": "23.75%",
+    "vol24h": 601467,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-trump-publicly-insult-by-july-31-20260626210612709",
+    "ticker": "will-donald-trump-publicly-insult-tucker-carlson-by-july-31-2026-20260626210612710",
+    "question": "Tucker Carlson",
+    "eventTitle": "Who will Trump publicly insult by July 31?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 563230,
+    "liquidity": 4336857,
+    "endDate": "2026-07-31",
+    "dayChange": "86.95%",
+    "vol24h": 520086,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-august-15-20260727171036148",
+    "question": "August 15",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by...?",
+    "prices": "Yes: 2.6% | No: 97.4%",
+    "volume": 715586,
+    "liquidity": 193429,
+    "endDate": "2026-08-15",
+    "dayChange": "1.85%",
+    "vol24h": 414138,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "kharg-island-no-longer-under-iranian-control-by-march-31",
+    "ticker": "kharg-island-no-longer-under-iranian-control-by-august-31",
+    "question": "August 31",
+    "eventTitle": "Kharg Island no longer under Iranian control by...?",
+    "prices": "Yes: 2.6% | No: 97.4%",
+    "volume": 3647088,
+    "liquidity": 162781,
+    "endDate": "2026-06-30",
+    "dayChange": "-1.70%",
+    "vol24h": 358590,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+    "question": "Strait of Hormuz traffic returns to normal by September 30?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by September 30?",
+    "prices": "Yes: 21.5% | No: 78.5%",
+    "volume": 1464160,
+    "liquidity": 206421,
+    "endDate": "2026-09-30",
+    "dayChange": "6.00%",
+    "vol24h": 323527,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "us-anti-cartel-operation-outside-of-the-us-by-20260616214856017",
+    "ticker": "uptspt-anti-cartel-operation-outside-of-the-uptspt-by-july-31-20260616215440524",
+    "question": "July 31",
+    "eventTitle": "U.S. anti-cartel operation outside of the U.S. by...?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 2339459,
+    "liquidity": 239244,
+    "endDate": "2026-07-31",
+    "dayChange": "-0.20%",
+    "vol24h": 302416,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-july-2026",
+    "ticker": "will-wti-reach-90-in-july-2026-from-july-27",
+    "question": "↑ $90",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in July 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 1323752,
+    "liquidity": 849962,
+    "endDate": "2026-08-01",
+    "dayChange": "0.00%",
+    "vol24h": 266332,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "question": "Strait of Hormuz traffic returns to normal by December 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by December 31?",
+    "prices": "Yes: 57.5% | No: 42.5%",
+    "volume": 6687231,
+    "liquidity": 303273,
+    "endDate": "2026-12-31",
+    "dayChange": "10.00%",
+    "vol24h": 263147,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-july-27-august-2-2026",
+    "ticker": "will-bitcoin-dip-to-56k-july-27-august-2-2026",
+    "question": "↓ 56,000",
+    "eventTitle": "What price will Bitcoin hit July 27-August 2?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 264633,
+    "liquidity": 26789,
+    "endDate": "2026-08-03",
+    "dayChange": "-0.20%",
+    "vol24h": 242319,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-leadership-change-by",
+    "ticker": "iran-leadership-change-by-august-31-669",
+    "question": "August 31",
+    "eventTitle": "Iran leadership change by...?",
+    "prices": "Yes: 2.2% | No: 97.8%",
+    "volume": 584053,
+    "liquidity": 124497,
+    "endDate": "2026-08-31",
+    "dayChange": "-1.65%",
+    "vol24h": 224108,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-closes-its-airspace-by",
+    "ticker": "israel-closes-its-airspace-by-august-15",
+    "question": "August 15",
+    "eventTitle": "Israel closes its airspace by...?",
+    "prices": "Yes: 13.0% | No: 87.0%",
+    "volume": 509718,
+    "liquidity": 46497,
+    "endDate": "2026-08-15",
+    "dayChange": "-10.00%",
+    "vol24h": 207118,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-august-4",
+    "question": "August 4",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 95.4% | No: 4.6%",
+    "volume": 234247,
+    "liquidity": 104762,
+    "endDate": "2026-08-04",
+    "dayChange": "27.90%",
+    "vol24h": 202411,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+    "question": "Strait of Hormuz traffic returns to normal by July 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by July 31?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 23827638,
+    "liquidity": 1116707,
+    "endDate": "2026-07-31",
+    "dayChange": "0.00%",
+    "vol24h": 202233,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-august-31-20260716224448970-754-896-823",
+    "question": "August 31",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 67.5% | No: 32.5%",
+    "volume": 882314,
+    "liquidity": 82813,
+    "endDate": "2026-08-31",
+    "dayChange": "22.00%",
+    "vol24h": 186138,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
+    "ticker": "will-the-iranian-regime-fall-by-the-end-of-2026",
+    "question": "Will the Iranian regime fall before 2027?",
+    "eventTitle": "Will the Iranian regime fall before 2027?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 23614984,
+    "liquidity": 746948,
+    "endDate": "2026-12-31",
+    "dayChange": "-1.00%",
+    "vol24h": 176122,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-july-31-20260716224448968-384-155-519-798-243",
+    "question": "July 31",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 3088556,
+    "liquidity": 139615,
+    "endDate": "2026-07-31",
+    "dayChange": "0.40%",
+    "vol24h": 168626,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-final-nuclear-deal-by-20260621201254412",
+    "ticker": "us-iran-final-nuclear-deal-by-august-31-2026-20260621201255154",
+    "question": "August 31",
+    "eventTitle": "US-Iran Final Nuclear Deal by…?",
+    "prices": "Yes: 3.8% | No: 96.3%",
+    "volume": 3331606,
+    "liquidity": 344334,
+    "endDate": "2026-08-31",
+    "dayChange": "0.10%",
+    "vol24h": 157696,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-august-15-20260716224448969-246-815-987-693",
+    "question": "August 15",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 79.5% | No: 20.5%",
+    "volume": 756831,
+    "liquidity": 40155,
+    "endDate": "2026-08-15",
+    "dayChange": "22.00%",
+    "vol24h": 156738,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-august-9-20260727170733638",
+    "question": "August 9",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 87.5% | No: 12.5%",
+    "volume": 309888,
+    "liquidity": 47792,
+    "endDate": "2026-08-09",
+    "dayChange": "25.50%",
+    "vol24h": 150032,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-renan-santos-win-the-2026-brazilian-presidential-election",
+    "question": "Renan Santos",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 7.4% | No: 92.5%",
+    "volume": 8810681,
+    "liquidity": 308398,
+    "endDate": "2026-10-04",
+    "dayChange": "-0.60%",
+    "vol24h": 144829,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-trump-publicly-insult-by-july-31-20260626210612709",
+    "ticker": "will-donald-trump-publicly-insult-vladimir-putin-by-july-31-2026-20260626210612715",
+    "question": "Vladimir Putin",
+    "eventTitle": "Who will Trump publicly insult by July 31?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 1234576,
+    "liquidity": 175258,
+    "endDate": "2026-07-31",
+    "dayChange": "-0.10%",
+    "vol24h": 137915,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-closes-its-airspace-by",
+    "ticker": "israel-closes-its-airspace-by-august-31-389",
+    "question": "August 31",
+    "eventTitle": "Israel closes its airspace by...?",
+    "prices": "Yes: 22.0% | No: 78.0%",
+    "volume": 712972,
+    "liquidity": 38312,
+    "endDate": "2026-07-15",
+    "dayChange": "-6.50%",
+    "vol24h": 132985,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-july-27-august-2-2026",
+    "ticker": "will-bitcoin-reach-70k-july-27-august-2-2026",
+    "question": "↑ 70,000",
+    "eventTitle": "What price will Bitcoin hit July 27-August 2?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 196537,
+    "liquidity": 28564,
+    "endDate": "2026-08-03",
+    "dayChange": "-0.10%",
+    "vol24h": 128758,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-2-2026",
+    "ticker": "bitcoin-up-or-down-on-august-2-2026",
+    "question": "Bitcoin Up or Down on August 2?",
+    "eventTitle": "Bitcoin Up or Down on August 2?",
+    "prices": "Up: 66.5% | Down: 33.5%",
+    "volume": 129137,
+    "liquidity": 23761,
+    "endDate": "2026-08-02",
+    "dayChange": "13.50%",
+    "vol24h": 128211,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "elon-musk-net-worth-on-july-31-20260629141452413",
+    "ticker": "will-elon-musks-net-worth-be-less-than-0pt70t-on-july-31-20260629141452414",
+    "question": "<$0.70T",
+    "eventTitle": "Elon Musk Net Worth on July 31?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 100206,
+    "liquidity": 50609,
+    "endDate": "2026-07-31",
+    "dayChange": "0.30%",
+    "vol24h": 33948,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "ECONOMY | TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-august-20260715202138598",
+    "ticker": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+    "question": "NVIDIA",
+    "eventTitle": "Largest Company end of August?",
+    "prices": "Yes: 74.5% | No: 25.5%",
+    "volume": 176733,
+    "liquidity": 117944,
+    "endDate": "2026-08-31",
+    "dayChange": "0.00%",
+    "vol24h": 23243,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-august-20260715202138598",
+    "ticker": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138603",
+    "question": "Tesla",
+    "eventTitle": "Largest Company end of August?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 83626,
+    "liquidity": 74203,
+    "endDate": "2026-08-31",
+    "dayChange": "0.00%",
+    "vol24h": 19582,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-august-20260715202138598",
+    "ticker": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138600",
+    "question": "Microsoft",
+    "eventTitle": "Largest Company end of August?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 109969,
+    "liquidity": 98912,
+    "endDate": "2026-08-31",
+    "dayChange": "0.05%",
+    "vol24h": 17097,
+    "updatedAt": "2026-08-02T11:44:51.931833Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
