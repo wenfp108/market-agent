@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "bitcoin-all-time-high-by",
+    "ticker": "bitcoin-all-time-high-by-december-31-2026",
+    "question": "December 31, 2026",
+    "eventTitle": "Bitcoin all time high by ___?",
+    "prices": "Yes: 4.5% | No: 95.5%",
+    "volume": 1544476,
+    "liquidity": 198197,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 868,
+    "spread": "0.20%",
+    "sortOrder": 3,
+    "updatedAt": "2026-08-07T20:25:36.268719Z",
+    "engine": "sniper",
+    "core_topic": "Bitcoin all time high by ___?",
+    "category": "CRYPTO",
+    "url": "https://polymarket.com/event/bitcoin-all-time-high-by",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-all-time-high-by",
+    "ticker": "bitcoin-all-time-high-by-september-30-2026",
+    "question": "September 30, 2026",
+    "eventTitle": "Bitcoin all time high by ___?",
+    "prices": "Yes: 1.1% | No: 98.9%",
+    "volume": 1003126,
+    "liquidity": 123187,
+    "endDate": "2026-10-01",
+    "dayChange": "-0.15%",
+    "vol24h": 2687,
+    "spread": "0.10%",
+    "sortOrder": 2,
+    "updatedAt": "2026-08-07T20:25:36.268719Z",
+    "engine": "sniper",
+    "core_topic": "Bitcoin all time high by ___?",
+    "category": "CRYPTO",
+    "url": "https://polymarket.com/event/bitcoin-all-time-high-by",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "negative-gdp-growth-in-2026",
+    "ticker": "negative-gdp-growth-in-2026",
+    "question": "Negative GDP growth in 2026?",
+    "eventTitle": "Negative GDP growth in 2026?",
+    "prices": "Yes: 4.0% | No: 96.0%",
+    "volume": 31927,
+    "liquidity": 869,
+    "endDate": "2027-01-29",
+    "dayChange": "-2.05%",
+    "vol24h": 143,
+    "spread": "0.10%",
+    "sortOrder": 0,
+    "updatedAt": "2026-08-07T20:21:37.942938Z",
+    "engine": "sniper",
+    "core_topic": "GDP growth in {year}?",
+    "category": "WORLD",
+    "url": "https://polymarket.com/event/negative-gdp-growth-in-2026",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  }
+]
