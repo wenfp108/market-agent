@@ -1,0 +1,115 @@
+[
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 1.9% | No: 98.1%",
+    "volume": 5787300,
+    "liquidity": 796311,
+    "endDate": "2026-09-16",
+    "dayChange": "0.15%",
+    "vol24h": 231406,
+    "spread": "0.20%",
+    "sortOrder": 1,
+    "updatedAt": "2026-08-10T00:07:37.877187Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+    "question": "No change",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 62.5% | No: 37.5%",
+    "volume": 5210902,
+    "liquidity": 484430,
+    "endDate": "2026-09-16",
+    "dayChange": "0.00%",
+    "vol24h": 230295,
+    "spread": "1.00%",
+    "sortOrder": 2,
+    "updatedAt": "2026-08-10T00:07:37.877187Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 35.5% | No: 64.5%",
+    "volume": 4386981,
+    "liquidity": 577582,
+    "endDate": "2026-09-16",
+    "dayChange": "0.00%",
+    "vol24h": 140499,
+    "spread": "1.00%",
+    "sortOrder": 3,
+    "updatedAt": "2026-08-10T00:07:37.877187Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 2961611,
+    "liquidity": 509996,
+    "endDate": "2026-09-16",
+    "dayChange": "0.00%",
+    "vol24h": 113341,
+    "spread": "0.10%",
+    "sortOrder": 4,
+    "updatedAt": "2026-08-10T00:07:37.877187Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 2550709,
+    "liquidity": 394058,
+    "endDate": "2026-09-16",
+    "dayChange": "0.00%",
+    "vol24h": 82747,
+    "spread": "0.10%",
+    "sortOrder": 0,
+    "updatedAt": "2026-08-10T00:07:37.877187Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
