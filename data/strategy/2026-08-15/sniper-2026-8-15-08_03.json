@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "bitcoin-all-time-high-by",
+    "ticker": "bitcoin-all-time-high-by-december-31-2026",
+    "question": "December 31, 2026",
+    "eventTitle": "Bitcoin all time high by ___?",
+    "prices": "Yes: 4.5% | No: 95.5%",
+    "volume": 1596008,
+    "liquidity": 173205,
+    "endDate": "2027-01-01",
+    "dayChange": "-0.05%",
+    "vol24h": 18055,
+    "spread": "0.10%",
+    "sortOrder": 3,
+    "updatedAt": "2026-08-15T07:58:05.204101Z",
+    "engine": "sniper",
+    "core_topic": "Bitcoin all time high by ___?",
+    "category": "CRYPTO",
+    "url": "https://polymarket.com/event/bitcoin-all-time-high-by",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-all-time-high-by",
+    "ticker": "bitcoin-all-time-high-by-september-30-2026",
+    "question": "September 30, 2026",
+    "eventTitle": "Bitcoin all time high by ___?",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 1053162,
+    "liquidity": 161993,
+    "endDate": "2026-10-01",
+    "dayChange": "0.10%",
+    "vol24h": 1092,
+    "spread": "0.10%",
+    "sortOrder": 2,
+    "updatedAt": "2026-08-15T07:56:06.082837Z",
+    "engine": "sniper",
+    "core_topic": "Bitcoin all time high by ___?",
+    "category": "CRYPTO",
+    "url": "https://polymarket.com/event/bitcoin-all-time-high-by",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
