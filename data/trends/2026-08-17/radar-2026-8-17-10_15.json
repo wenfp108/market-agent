@@ -1,0 +1,640 @@
+[
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-pablo-marcal-win-the-2026-brazilian-presidential-election",
+    "question": "Pablo Marçal",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 786235,
+    "liquidity": 328225,
+    "endDate": "2026-10-04",
+    "dayChange": "0.00%",
+    "vol24h": 786235,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-demeke-mekonnen-be-the-next-prime-minister-of-ethiopia",
+    "question": "Demeke Mekonnen",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 27397713,
+    "liquidity": 26881,
+    "endDate": "2026-06-01",
+    "dayChange": "0.00%",
+    "vol24h": 655965,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "putin-out-before-2027",
+    "ticker": "putin-out-before-2027-346",
+    "question": "December 31, 2026",
+    "eventTitle": "Putin out as President of Russia by...?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 19304197,
+    "liquidity": 489747,
+    "endDate": "2026-12-31",
+    "dayChange": "1.00%",
+    "vol24h": 341009,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+    "question": "↓ 45,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 22.0% | No: 78.0%",
+    "volume": 4343224,
+    "liquidity": 82315,
+    "endDate": "2027-01-01",
+    "dayChange": "-2.50%",
+    "vol24h": 239731,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-august-17-2026",
+    "ticker": "bitcoin-up-or-down-on-august-17-2026",
+    "question": "Bitcoin Up or Down on August 17?",
+    "eventTitle": "Bitcoin Up or Down on August 17?",
+    "prices": "Up: 66.5% | Down: 33.5%",
+    "volume": 226820,
+    "liquidity": 27848,
+    "endDate": "2026-08-17",
+    "dayChange": "0.00%",
+    "vol24h": 226820,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "republican-nominee-for-florida-governor",
+    "ticker": "will-james-fishback-be-the-republican-nominee-for-florida-governor",
+    "question": "James Fishback",
+    "eventTitle": "Florida Governor Republican Primary Winner",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 2364096,
+    "liquidity": 340946,
+    "endDate": "2026-08-18",
+    "dayChange": "-0.55%",
+    "vol24h": 208916,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-august-31-2026-20260713152715084-642-513-584-641-939-632-729",
+    "question": "August 31",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 13.5% | No: 86.5%",
+    "volume": 1940642,
+    "liquidity": 234502,
+    "endDate": "2026-08-31",
+    "dayChange": "-4.00%",
+    "vol24h": 199636,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 5149010,
+    "liquidity": 479341,
+    "endDate": "2026-09-16",
+    "dayChange": "-0.10%",
+    "vol24h": 198117,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+    "question": "August 31",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by...?",
+    "prices": "Yes: 1.1% | No: 98.9%",
+    "volume": 14212133,
+    "liquidity": 866298,
+    "endDate": "2026-08-31",
+    "dayChange": "-0.30%",
+    "vol24h": 197133,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+    "question": "Strait of Hormuz traffic returns to normal by September 30?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by September 30?",
+    "prices": "Yes: 10.5% | No: 89.5%",
+    "volume": 3676648,
+    "liquidity": 635557,
+    "endDate": "2026-09-30",
+    "dayChange": "-2.00%",
+    "vol24h": 183295,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 1.3% | No: 98.8%",
+    "volume": 8890736,
+    "liquidity": 881676,
+    "endDate": "2026-09-16",
+    "dayChange": "0.00%",
+    "vol24h": 167368,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-august-17-2026",
+    "ticker": "bitcoin-above-62k-on-august-17-2026",
+    "question": "62,000",
+    "eventTitle": "Bitcoin above ___ on August 17?",
+    "prices": "Yes: 98.2% | No: 1.8%",
+    "volume": 169362,
+    "liquidity": 35526,
+    "endDate": "2026-08-17",
+    "dayChange": "6.70%",
+    "vol24h": 150890,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-ethiopia",
+    "ticker": "will-shimelis-abdisa-be-the-next-prime-minister-of-ethiopia",
+    "question": "Shimelis Abdisa",
+    "eventTitle": "Next Prime Minister of Ethiopia?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 41420133,
+    "liquidity": 31683,
+    "endDate": "2026-06-01",
+    "dayChange": "0.00%",
+    "vol24h": 142306,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-romeu-zema-win-the-2026-brazilian-presidential-election",
+    "question": "Romeu Zema",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 5562833,
+    "liquidity": 413999,
+    "endDate": "2026-10-04",
+    "dayChange": "0.00%",
+    "vol24h": 141451,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+    "ticker": "will-the-next-diplomatic-us-iran-meeting-be-in-kazakhstan-by-september-30-2026-20260622185050776",
+    "question": "Kazakhstan",
+    "eventTitle": "Where will the next next round of US-Iran peace talks be...?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 183276,
+    "liquidity": 25459,
+    "endDate": "2026-09-30",
+    "dayChange": "0.00%",
+    "vol24h": 140896,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+    "ticker": "will-the-next-diplomatic-us-iran-meeting-be-in-russia-by-september-30-2026-20260622185050778",
+    "question": "Russia",
+    "eventTitle": "Where will the next next round of US-Iran peace talks be...?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 187651,
+    "liquidity": 36501,
+    "endDate": "2026-09-30",
+    "dayChange": "0.00%",
+    "vol24h": 140000,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-august-17-2026",
+    "ticker": "bitcoin-above-60k-on-august-17-2026",
+    "question": "60,000",
+    "eventTitle": "Bitcoin above ___ on August 17?",
+    "prices": "Yes: 99.9% | No: 0.1%",
+    "volume": 165536,
+    "liquidity": 46521,
+    "endDate": "2026-08-17",
+    "dayChange": "0.70%",
+    "vol24h": 137437,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+    "ticker": "will-the-next-diplomatic-us-iran-meeting-be-in-iran-by-september-30-2026-20260622185050771",
+    "question": "Iran",
+    "eventTitle": "Where will the next next round of US-Iran peace talks be...?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 192426,
+    "liquidity": 50622,
+    "endDate": "2026-09-30",
+    "dayChange": "0.25%",
+    "vol24h": 136992,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-60-day-negotiation-period-extended-20260624044855448",
+    "ticker": "us-iran-60-day-negotiation-period-extended-20260624044855448",
+    "question": "US-Iran 60 day negotiation period extended?",
+    "eventTitle": "US-Iran 60 day negotiation period extended?",
+    "prices": "Yes: 4.0% | No: 96.0%",
+    "volume": 1976338,
+    "liquidity": 99184,
+    "endDate": "2026-08-20",
+    "dayChange": "-8.55%",
+    "vol24h": 135518,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-nominee-for-florida-governor",
+    "ticker": "will-byron-donalds-be-the-republican-nominee-for-florida-governor",
+    "question": "Byron Donalds",
+    "eventTitle": "Florida Governor Republican Primary Winner",
+    "prices": "Yes: 99.3% | No: 0.8%",
+    "volume": 623588,
+    "liquidity": 275675,
+    "endDate": "2026-08-18",
+    "dayChange": "0.50%",
+    "vol24h": 129086,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "question": "Flávio Bolsonaro",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 29.8% | No: 70.2%",
+    "volume": 8396949,
+    "liquidity": 262688,
+    "endDate": "2026-10-04",
+    "dayChange": "1.10%",
+    "vol24h": 118391,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "iran-announces-withdrawal-from-mou-negotiations-byptptpt-20260622191732319",
+    "ticker": "will-iran-announce-withdrawal-from-mou-negotiations-by-august-15-881-867",
+    "question": "August 15",
+    "eventTitle": "Iran announces withdrawal from MOU negotiations by...?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1243989,
+    "liquidity": 221362,
+    "endDate": "2026-08-15",
+    "dayChange": "-1.30%",
+    "vol24h": 115944,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-ronaldo-caiado-win-the-2026-brazilian-presidential-election",
+    "question": "Ronaldo Caiado",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 6021158,
+    "liquidity": 401965,
+    "endDate": "2026-10-04",
+    "dayChange": "-0.30%",
+    "vol24h": 114526,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-august-2026",
+    "ticker": "will-bitcoin-reach-100k-in-august-2026",
+    "question": "↑ 100,000",
+    "eventTitle": "What price will Bitcoin hit in August?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 779143,
+    "liquidity": 122787,
+    "endDate": "2026-09-01",
+    "dayChange": "0.00%",
+    "vol24h": 113009,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-august-17-2026",
+    "ticker": "bitcoin-above-66k-on-august-17-2026",
+    "question": "66,000",
+    "eventTitle": "Bitcoin above ___ on August 17?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 146636,
+    "liquidity": 57394,
+    "endDate": "2026-08-17",
+    "dayChange": "-0.55%",
+    "vol24h": 111270,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 17.5% | No: 82.5%",
+    "volume": 58716681,
+    "liquidity": 906795,
+    "endDate": "2026-12-31",
+    "dayChange": "1.00%",
+    "vol24h": 111131,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 5413604,
+    "liquidity": 1007120,
+    "endDate": "2026-09-16",
+    "dayChange": "-0.10%",
+    "vol24h": 109624,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-renan-santos-win-the-2026-brazilian-presidential-election",
+    "question": "Renan Santos",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 4.5% | No: 95.5%",
+    "volume": 9848791,
+    "liquidity": 322552,
+    "endDate": "2026-10-04",
+    "dayChange": "-0.30%",
+    "vol24h": 108821,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-august-17-2026",
+    "ticker": "bitcoin-above-64k-on-august-17-2026",
+    "question": "64,000",
+    "eventTitle": "Bitcoin above ___ on August 17?",
+    "prices": "Yes: 4.5% | No: 95.5%",
+    "volume": 120710,
+    "liquidity": 30889,
+    "endDate": "2026-08-17",
+    "dayChange": "-4.50%",
+    "vol24h": 108697,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "ticker": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "Yabloko",
+    "eventTitle": "Which party will gain most seats in Russian Parliamentary Election?",
+    "prices": "Yes: 0.3% | No: 99.7%",
+    "volume": 1113750,
+    "liquidity": 202927,
+    "endDate": "2026-09-30",
+    "dayChange": "-0.15%",
+    "vol24h": 102583,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "ticker": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+    "question": "NVIDIA",
+    "eventTitle": "Largest Company end of December 2026?",
+    "prices": "Yes: 78.0% | No: 22.0%",
+    "volume": 1055167,
+    "liquidity": 83724,
+    "endDate": "2026-12-31",
+    "dayChange": "5.00%",
+    "vol24h": 18908,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "how-many-fed-rate-cuts-in-2026",
+    "ticker": "will-no-fed-rate-cuts-happen-in-2026",
+    "question": "0 (0 bps)",
+    "eventTitle": "How many Fed rate cuts in 2026?",
+    "prices": "Yes: 85.2% | No: 14.8%",
+    "volume": 7285869,
+    "liquidity": 228135,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.10%",
+    "vol24h": 15246,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "ECONOMY | FINANCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230550",
+    "ticker": "will-byd-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230559",
+    "question": "BYD",
+    "eventTitle": "Who will be removed from Chinese Military Companies list by June 30, 2027?",
+    "prices": "Yes: 50.0% | No: 50.0%",
+    "volume": 11525,
+    "liquidity": 350,
+    "endDate": "2027-06-30",
+    "dayChange": "11.50%",
+    "vol24h": 10723,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "TECH | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "how-many-fed-rate-cuts-in-2026",
+    "ticker": "will-1-fed-rate-cut-happen-in-2026",
+    "question": "1 (25 bps)",
+    "eventTitle": "How many Fed rate cuts in 2026?",
+    "prices": "Yes: 10.5% | No: 89.5%",
+    "volume": 2541018,
+    "liquidity": 190886,
+    "endDate": "2026-12-31",
+    "dayChange": "1.00%",
+    "vol24h": 10307,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "ECONOMY | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "ticker": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-291",
+    "question": "Apple",
+    "eventTitle": "Largest Company end of December 2026?",
+    "prices": "Yes: 10.9% | No: 89.0%",
+    "volume": 816064,
+    "liquidity": 163093,
+    "endDate": "2026-12-31",
+    "dayChange": "-3.10%",
+    "vol24h": 10124,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-august-2026",
+    "ticker": "will-wti-dip-to-60-in-august-2026",
+    "question": "↓ $60",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in August 2026?",
+    "prices": "Yes: 1.4% | No: 98.7%",
+    "volume": 525363,
+    "liquidity": 238401,
+    "endDate": "2026-09-01",
+    "dayChange": "0.20%",
+    "vol24h": 3261,
+    "updatedAt": "2026-08-17T10:10:05.360398Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
