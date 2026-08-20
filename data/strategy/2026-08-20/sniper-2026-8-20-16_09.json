@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "uk-annual-gdp-growth-2026",
+    "ticker": "will-uk-annual-gdp-growth-in-2026-be-between-1-and-2",
+    "question": "1-2%",
+    "eventTitle": "UK Annual GDP Growth 2026",
+    "prices": "Yes: 76.0% | No: 24.0%",
+    "volume": 27704,
+    "liquidity": 805,
+    "endDate": "2027-02-12",
+    "dayChange": "13.95%",
+    "vol24h": 3817,
+    "spread": "11.80%",
+    "sortOrder": 2,
+    "updatedAt": "2026-08-20T16:05:22.255242Z",
+    "engine": "sniper",
+    "core_topic": "GDP growth in {year}?",
+    "category": "WORLD",
+    "url": "https://polymarket.com/event/uk-annual-gdp-growth-2026",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "uk-annual-gdp-growth-2026",
+    "ticker": "will-uk-annual-gdp-growth-in-2026-be-between-0-and-1",
+    "question": "0-1%",
+    "eventTitle": "UK Annual GDP Growth 2026",
+    "prices": "Yes: 11.5% | No: 88.5%",
+    "volume": 19515,
+    "liquidity": 1874,
+    "endDate": "2027-02-12",
+    "dayChange": "-13.00%",
+    "vol24h": 547,
+    "spread": "1.00%",
+    "sortOrder": 1,
+    "updatedAt": "2026-08-20T16:03:22.60051Z",
+    "engine": "sniper",
+    "core_topic": "GDP growth in {year}?",
+    "category": "WORLD",
+    "url": "https://polymarket.com/event/uk-annual-gdp-growth-2026",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "uk-annual-gdp-growth-2026",
+    "ticker": "will-uk-annual-gdp-growth-in-2026-be-below-0",
+    "question": "<0",
+    "eventTitle": "UK Annual GDP Growth 2026",
+    "prices": "Yes: 8.1% | No: 91.9%",
+    "volume": 11206,
+    "liquidity": 1590,
+    "endDate": "2027-02-12",
+    "dayChange": "0.30%",
+    "vol24h": 125,
+    "spread": "3.40%",
+    "sortOrder": 0,
+    "updatedAt": "2026-08-20T16:03:22.60051Z",
+    "engine": "sniper",
+    "core_topic": "GDP growth in {year}?",
+    "category": "WORLD",
+    "url": "https://polymarket.com/event/uk-annual-gdp-growth-2026",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "uk-annual-gdp-growth-2026",
+    "ticker": "will-uk-annual-gdp-growth-in-2026-be-between-4-and-5",
+    "question": "4-5%",
+    "eventTitle": "UK Annual GDP Growth 2026",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 8443,
+    "liquidity": 2406,
+    "endDate": "2027-02-12",
+    "dayChange": "0.00%",
+    "vol24h": 150,
+    "spread": "0.10%",
+    "sortOrder": 5,
+    "updatedAt": "2026-08-20T16:05:22.255242Z",
+    "engine": "sniper",
+    "core_topic": "GDP growth in {year}?",
+    "category": "WORLD",
+    "url": "https://polymarket.com/event/uk-annual-gdp-growth-2026",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "uk-annual-gdp-growth-2026",
+    "ticker": "will-uk-annual-gdp-growth-in-2026-be-between-2-and-3",
+    "question": "2-3%",
+    "eventTitle": "UK Annual GDP Growth 2026",
+    "prices": "Yes: 1.7% | No: 98.4%",
+    "volume": 4315,
+    "liquidity": 1952,
+    "endDate": "2027-02-12",
+    "dayChange": "-1.75%",
+    "vol24h": 150,
+    "spread": "2.70%",
+    "sortOrder": 3,
+    "updatedAt": "2026-08-20T16:03:22.60051Z",
+    "engine": "sniper",
+    "core_topic": "GDP growth in {year}?",
+    "category": "WORLD",
+    "url": "https://polymarket.com/event/uk-annual-gdp-growth-2026",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "uk-annual-gdp-growth-2026",
+    "ticker": "will-uk-annual-gdp-growth-in-2026-be-5-or-higher",
+    "question": "5%+",
+    "eventTitle": "UK Annual GDP Growth 2026",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 3679,
+    "liquidity": 2201,
+    "endDate": "2027-02-12",
+    "dayChange": "0.00%",
+    "vol24h": 122,
+    "spread": "0.10%",
+    "sortOrder": 6,
+    "updatedAt": "2026-08-20T16:05:22.255242Z",
+    "engine": "sniper",
+    "core_topic": "GDP growth in {year}?",
+    "category": "WORLD",
+    "url": "https://polymarket.com/event/uk-annual-gdp-growth-2026",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "uk-annual-gdp-growth-2026",
+    "ticker": "will-uk-annual-gdp-growth-in-2026-be-between-3-and-4",
+    "question": "3-4%",
+    "eventTitle": "UK Annual GDP Growth 2026",
+    "prices": "Yes: 1.8% | No: 98.3%",
+    "volume": 3263,
+    "liquidity": 2021,
+    "endDate": "2027-02-12",
+    "dayChange": "-0.70%",
+    "vol24h": 112,
+    "spread": "0.90%",
+    "sortOrder": 4,
+    "updatedAt": "2026-08-20T16:05:22.255242Z",
+    "engine": "sniper",
+    "core_topic": "GDP growth in {year}?",
+    "category": "WORLD",
+    "url": "https://polymarket.com/event/uk-annual-gdp-growth-2026",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  }
+]
