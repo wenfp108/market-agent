@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 18919366,
+    "liquidity": 546625,
+    "endDate": "2026-09-16",
+    "dayChange": "0.10%",
+    "vol24h": 1346030,
+    "spread": "0.10%",
+    "sortOrder": 1,
+    "updatedAt": "2026-08-29T14:44:53.093765Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+    "question": "No change",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 55.5% | No: 44.5%",
+    "volume": 14833838,
+    "liquidity": 355844,
+    "endDate": "2026-09-16",
+    "dayChange": "1.00%",
+    "vol24h": 2109032,
+    "spread": "1.00%",
+    "sortOrder": 2,
+    "updatedAt": "2026-08-29T14:44:53.093765Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 43.5% | No: 56.5%",
+    "volume": 13158566,
+    "liquidity": 354986,
+    "endDate": "2026-09-16",
+    "dayChange": "-1.00%",
+    "vol24h": 1671938,
+    "spread": "1.00%",
+    "sortOrder": 3,
+    "updatedAt": "2026-08-29T14:44:53.093765Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 9959321,
+    "liquidity": 674764,
+    "endDate": "2026-09-16",
+    "dayChange": "0.05%",
+    "vol24h": 1218151,
+    "spread": "0.10%",
+    "sortOrder": 4,
+    "updatedAt": "2026-08-29T14:44:53.093765Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 8165482,
+    "liquidity": 925359,
+    "endDate": "2026-09-16",
+    "dayChange": "0.00%",
+    "vol24h": 227715,
+    "spread": "0.10%",
+    "sortOrder": 0,
+    "updatedAt": "2026-08-29T14:46:53.536075Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-september-762",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-recession-by-end-of-2026",
+    "ticker": "us-recession-by-end-of-2026",
+    "question": "US recession by end of 2026?",
+    "eventTitle": "US recession by end of 2026?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 1718682,
+    "liquidity": 22480,
+    "endDate": "2027-01-31",
+    "dayChange": "0.00%",
+    "vol24h": 1023,
+    "spread": "1.00%",
+    "sortOrder": 0,
+    "updatedAt": "2026-08-29T14:44:53.093765Z",
+    "engine": "sniper",
+    "core_topic": "US recession by end of {year}?",
+    "category": "WORLD",
+    "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  }
+]
