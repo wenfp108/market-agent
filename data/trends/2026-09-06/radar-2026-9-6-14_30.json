@@ -1,0 +1,547 @@
+[
+  {
+    "slug": "putin-out-before-2027",
+    "ticker": "putin-out-as-president-of-russia-by-september-30-2026",
+    "question": "September 30, 2026",
+    "eventTitle": "Putin out as President of Russia by...?",
+    "prices": "Yes: 0.9% | No: 99.2%",
+    "volume": 1093007,
+    "liquidity": 99523,
+    "endDate": "2026-10-01",
+    "dayChange": "0.00%",
+    "vol24h": 252330,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-doug-burgum-win-the-2028-republican-presidential-nomination",
+    "question": "Doug Burgum",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 720044,
+    "liquidity": 1260226,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 230383,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-closes-its-airspace-by",
+    "ticker": "israel-closes-its-airspace-by-september-30",
+    "question": "September 30",
+    "eventTitle": "Israel closes its airspace by...?",
+    "prices": "Yes: 72.5% | No: 27.5%",
+    "volume": 1224053,
+    "liquidity": 107071,
+    "endDate": "2026-10-01",
+    "dayChange": "0.00%",
+    "vol24h": 229732,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-september-6-2026",
+    "ticker": "bitcoin-above-82k-on-september-6-2026",
+    "question": "82,000",
+    "eventTitle": "Bitcoin above ___ on September 6?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 195298,
+    "liquidity": 54228,
+    "endDate": "2026-09-06",
+    "dayChange": "-1.75%",
+    "vol24h": 154051,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-september-6-2026",
+    "ticker": "bitcoin-above-78k-on-september-6-2026",
+    "question": "78,000",
+    "eventTitle": "Bitcoin above ___ on September 6?",
+    "prices": "Yes: 99.8% | No: 0.2%",
+    "volume": 166265,
+    "liquidity": 35323,
+    "endDate": "2026-09-06",
+    "dayChange": "2.50%",
+    "vol24h": 121106,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-september-14-2026",
+    "question": "September 14",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 3.1% | No: 96.9%",
+    "volume": 1060683,
+    "liquidity": 123636,
+    "endDate": "2026-09-15",
+    "dayChange": "-0.05%",
+    "vol24h": 111119,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977",
+    "question": "Josh Shapiro",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 5.0% | No: 95.0%",
+    "volume": 9833689,
+    "liquidity": 323777,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.35%",
+    "vol24h": 106786,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-effective-ceasefire-begins-byptptpt-2-week-pause",
+    "ticker": "us-x-iran-effective-ceasefire-by-september-4",
+    "question": "September 4",
+    "eventTitle": "US x Iran Effective Ceasefire begins by...? (2 week pause)",
+    "prices": "Yes: 36.5% | No: 63.5%",
+    "volume": 379737,
+    "liquidity": 59287,
+    "endDate": "2026-09-04",
+    "dayChange": "5.00%",
+    "vol24h": 102950,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-september-6-2026",
+    "ticker": "bitcoin-up-or-down-on-september-6-2026",
+    "question": "Bitcoin Up or Down on September 6?",
+    "eventTitle": "Bitcoin Up or Down on September 6?",
+    "prices": "Up: 26.5% | Down: 73.5%",
+    "volume": 100893,
+    "liquidity": 17050,
+    "endDate": "2026-09-06",
+    "dayChange": "-24.00%",
+    "vol24h": 100808,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-september-6-2026",
+    "ticker": "bitcoin-above-76k-on-september-6-2026",
+    "question": "76,000",
+    "eventTitle": "Bitcoin above ___ on September 6?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 124912,
+    "liquidity": 85682,
+    "endDate": "2026-09-06",
+    "dayChange": "0.70%",
+    "vol24h": 95160,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-september-2026",
+    "ticker": "will-bitcoin-dip-to-55k-in-september-2026",
+    "question": "↓ 55,000",
+    "eventTitle": "What price will Bitcoin hit in September?",
+    "prices": "Yes: 1.9% | No: 98.0%",
+    "volume": 276833,
+    "liquidity": 80408,
+    "endDate": "2026-10-01",
+    "dayChange": "0.10%",
+    "vol24h": 91368,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-september-6-2026",
+    "ticker": "bitcoin-above-84k-on-september-6-2026",
+    "question": "84,000",
+    "eventTitle": "Bitcoin above ___ on September 6?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 129755,
+    "liquidity": 37754,
+    "endDate": "2026-09-06",
+    "dayChange": "-0.50%",
+    "vol24h": 85458,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by",
+    "ticker": "russia-x-ukraine-ceasefire-agreement-by-october-31-2026",
+    "question": "October 31",
+    "eventTitle": "Russia x Ukraine ceasefire agreement by...?",
+    "prices": "Yes: 13.5% | No: 86.5%",
+    "volume": 1536126,
+    "liquidity": 52705,
+    "endDate": "2026-11-01",
+    "dayChange": "-9.00%",
+    "vol24h": 73646,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-september-20260717143435868",
+    "ticker": "will-anthropic-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137053",
+    "question": "Anthropic",
+    "eventTitle": "Which company has the best AI model end of September?",
+    "prices": "Yes: 84.5% | No: 15.5%",
+    "volume": 507512,
+    "liquidity": 62703,
+    "endDate": "2026-10-01",
+    "dayChange": "-1.50%",
+    "vol24h": 73545,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-september-30",
+    "question": "September 30",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 87.5% | No: 12.5%",
+    "volume": 1217345,
+    "liquidity": 63076,
+    "endDate": "2026-09-30",
+    "dayChange": "3.00%",
+    "vol24h": 72454,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-september-30-2026-20260727171615364-722-649-646-561-213-644-414-831",
+    "question": "September 30",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 16.5% | No: 83.5%",
+    "volume": 2713613,
+    "liquidity": 146596,
+    "endDate": "2026-10-01",
+    "dayChange": "-1.00%",
+    "vol24h": 71865,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-agreement-by",
+    "ticker": "russia-x-ukraine-ceasefire-agreement-by-december-31-2026",
+    "question": "December 31",
+    "eventTitle": "Russia x Ukraine ceasefire agreement by...?",
+    "prices": "Yes: 23.5% | No: 76.5%",
+    "volume": 2553580,
+    "liquidity": 102667,
+    "endDate": "2027-01-01",
+    "dayChange": "-9.00%",
+    "vol24h": 68080,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-september-7-2026",
+    "question": "September 7",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 1616905,
+    "liquidity": 103012,
+    "endDate": "2026-09-08",
+    "dayChange": "-0.10%",
+    "vol24h": 66291,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-september-6-2026",
+    "ticker": "bitcoin-above-80k-on-september-6-2026",
+    "question": "80,000",
+    "eventTitle": "Bitcoin above ___ on September 6?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 93586,
+    "liquidity": 31260,
+    "endDate": "2026-09-06",
+    "dayChange": "-24.50%",
+    "vol24h": 64458,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-moshe-feiglin-be-the-next-prime-minister-of-israel",
+    "question": "Moshe Feiglin",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1876370,
+    "liquidity": 220895,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 63145,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "russia-x-ukraine-ceasefire-by",
+    "ticker": "russia-x-ukraine-ceasefire-by-december-31-2026",
+    "question": "December 31",
+    "eventTitle": "Russia x Ukraine Ceasefire by...?",
+    "prices": "Yes: 12.5% | No: 87.5%",
+    "volume": 800980,
+    "liquidity": 182803,
+    "endDate": "2026-12-31",
+    "dayChange": "-5.00%",
+    "vol24h": 58270,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "question": "Luiz Inácio Lula da Silva",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 55.5% | No: 44.5%",
+    "volume": 9796465,
+    "liquidity": 284361,
+    "endDate": "2026-10-04",
+    "dayChange": "-1.00%",
+    "vol24h": 54616,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-september-6-2026",
+    "ticker": "bitcoin-above-74k-on-september-6-2026",
+    "question": "74,000",
+    "eventTitle": "Bitcoin above ___ on September 6?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 76605,
+    "liquidity": 88664,
+    "endDate": "2026-09-06",
+    "dayChange": "0.20%",
+    "vol24h": 54493,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-september-20260717143435868",
+    "ticker": "will-meta-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137054",
+    "question": "Meta",
+    "eventTitle": "Which company has the best AI model end of September?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 285614,
+    "liquidity": 60884,
+    "endDate": "2026-10-01",
+    "dayChange": "0.05%",
+    "vol24h": 54488,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-september-1785358369147",
+    "ticker": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+    "question": "Tesla",
+    "eventTitle": "Largest Company end of September?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 147126,
+    "liquidity": 131018,
+    "endDate": "2026-09-30",
+    "dayChange": "-0.10%",
+    "vol24h": 54172,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-laurent-wauquiez-win-the-2027-french-presidential-election",
+    "question": "Laurent Wauquiez",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 3681241,
+    "liquidity": 606216,
+    "endDate": "2027-04-30",
+    "dayChange": "0.00%",
+    "vol24h": 54038,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-september-6-2026",
+    "ticker": "bitcoin-above-86k-on-september-6-2026",
+    "question": "86,000",
+    "eventTitle": "Bitcoin above ___ on September 6?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 67957,
+    "liquidity": 91164,
+    "endDate": "2026-09-06",
+    "dayChange": "-0.10%",
+    "vol24h": 52844,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-michel-barnier-win-the-2027-french-presidential-election",
+    "question": "Michel Barnier",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 5253594,
+    "liquidity": 594832,
+    "endDate": "2027-04-30",
+    "dayChange": "-0.10%",
+    "vol24h": 52248,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-clmentine-autain-win-the-2027-french-presidential-election",
+    "question": "Clémentine Autain",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 4988840,
+    "liquidity": 605596,
+    "endDate": "2027-04-30",
+    "dayChange": "-0.05%",
+    "vol24h": 52094,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
+    "question": "↓ 75,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 74.0% | No: 26.0%",
+    "volume": 148677,
+    "liquidity": 30383,
+    "endDate": "2027-01-01",
+    "dayChange": "-4.50%",
+    "vol24h": 50627,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-september-1785358369147",
+    "ticker": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+    "question": "SpaceX",
+    "eventTitle": "Largest Company end of September?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 122049,
+    "liquidity": 143158,
+    "endDate": "2026-09-30",
+    "dayChange": "0.00%",
+    "vol24h": 20809,
+    "updatedAt": "2026-09-06T14:25:06.950788Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
