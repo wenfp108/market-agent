@@ -1,0 +1,599 @@
+[
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 31732706,
+    "liquidity": 2613304,
+    "endDate": "2026-09-16",
+    "dayChange": "0.00%",
+    "vol24h": 775532,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+    "question": "No change",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 47.5% | No: 52.5%",
+    "volume": 24053831,
+    "liquidity": 475189,
+    "endDate": "2026-09-16",
+    "dayChange": "-3.00%",
+    "vol24h": 690517,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 51.5% | No: 48.5%",
+    "volume": 19120004,
+    "liquidity": 434743,
+    "endDate": "2026-09-16",
+    "dayChange": "2.00%",
+    "vol24h": 446754,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israel-closes-its-airspace-by",
+    "ticker": "israel-closes-its-airspace-by-september-30",
+    "question": "September 30",
+    "eventTitle": "Israel closes its airspace by...?",
+    "prices": "Yes: 61.5% | No: 38.5%",
+    "volume": 1566886,
+    "liquidity": 93740,
+    "endDate": "2026-10-01",
+    "dayChange": "-12.00%",
+    "vol24h": 300671,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 13849057,
+    "liquidity": 1102420,
+    "endDate": "2026-09-16",
+    "dayChange": "0.00%",
+    "vol24h": 283382,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-september-762",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in September?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 13768817,
+    "liquidity": 975927,
+    "endDate": "2026-09-16",
+    "dayChange": "0.00%",
+    "vol24h": 263810,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-final-nuclear-deal-by-20260621201254412",
+    "ticker": "us-iran-final-nuclear-deal-by-december-31-2026-191",
+    "question": "December 31",
+    "eventTitle": "US-Iran Final Nuclear Deal by…?",
+    "prices": "Yes: 9.5% | No: 90.5%",
+    "volume": 2566326,
+    "liquidity": 264669,
+    "endDate": "2027-01-01",
+    "dayChange": "-2.00%",
+    "vol24h": 140672,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-erika-kirk-win-the-2028-republican-presidential-nomination",
+    "question": "Erika Kirk",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 18873072,
+    "liquidity": 2103660,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 138269,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-september-30",
+    "question": "September 30",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 86.5% | No: 13.5%",
+    "volume": 1393125,
+    "liquidity": 78611,
+    "endDate": "2026-09-30",
+    "dayChange": "4.00%",
+    "vol24h": 135294,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "putin-out-before-2027",
+    "ticker": "putin-out-before-2027-346",
+    "question": "December 31, 2026",
+    "eventTitle": "Putin out as President of Russia by...?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 20166822,
+    "liquidity": 677934,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 130444,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-15-20260810150912478",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-september-15-20260810150912478",
+    "question": "Strait of Hormuz traffic returns to normal by September 15?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by September 15?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 1626411,
+    "liquidity": 257874,
+    "endDate": "2026-09-15",
+    "dayChange": "-0.15%",
+    "vol24h": 128125,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-september-8-2026",
+    "ticker": "bitcoin-above-72k-on-september-8-2026",
+    "question": "72,000",
+    "eventTitle": "Bitcoin above ___ on September 8?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 128854,
+    "liquidity": 43386,
+    "endDate": "2026-09-08",
+    "dayChange": "0.30%",
+    "vol24h": 122371,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-before-2027",
+    "ticker": "will-ethereum-dip-to-2250-by-december-31-2026",
+    "question": "↓ 2,250",
+    "eventTitle": "What price will Ethereum hit in 2026?",
+    "prices": "Yes: 53.5% | No: 46.5%",
+    "volume": 371978,
+    "liquidity": 72599,
+    "endDate": "2027-01-01",
+    "dayChange": "-3.00%",
+    "vol24h": 122167,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "clarity-act-signed-into-law-in-2026",
+    "ticker": "clarity-act-signed-into-law-in-2026",
+    "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+    "eventTitle": "Clarity Act (H.R.3633) signed into law in 2026?",
+    "prices": "Yes: 16.5% | No: 83.5%",
+    "volume": 14200813,
+    "liquidity": 297493,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 96266,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-augusto-cury-win-the-2026-brazilian-presidential-election",
+    "question": "Augusto Cury",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 1.4% | No: 98.7%",
+    "volume": 4269007,
+    "liquidity": 347669,
+    "endDate": "2026-10-04",
+    "dayChange": "0.20%",
+    "vol24h": 96225,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "question": "Luiz Inácio Lula da Silva",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 58.5% | No: 41.5%",
+    "volume": 9923510,
+    "liquidity": 331521,
+    "endDate": "2026-10-04",
+    "dayChange": "1.00%",
+    "vol24h": 90630,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-person-a-win-the-2028-democratic-presidential-nomination",
+    "question": "Hunter Biden",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 44335516,
+    "liquidity": 1153106,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.05%",
+    "vol24h": 89338,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-september-7-2026",
+    "question": "September 7",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 1720402,
+    "liquidity": 113731,
+    "endDate": "2026-09-08",
+    "dayChange": "-0.20%",
+    "vol24h": 86110,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-donald-trump-win-the-2028-us-presidential-election",
+    "question": "Donald Trump",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 1.9% | No: 98.0%",
+    "volume": 10146322,
+    "liquidity": 583674,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.45%",
+    "vol24h": 83303,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-yariv-levin-be-the-next-prime-minister-of-israel",
+    "question": "Yariv Levin",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1812603,
+    "liquidity": 95835,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 82631,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-effective-ceasefire-begins-byptptpt-2-week-pause",
+    "ticker": "us-x-iran-effective-ceasefire-by-september-4",
+    "question": "September 4",
+    "eventTitle": "US x Iran Effective Ceasefire begins by...? (2 week pause)",
+    "prices": "Yes: 59.5% | No: 40.5%",
+    "volume": 484558,
+    "liquidity": 42736,
+    "endDate": "2026-09-04",
+    "dayChange": "17.00%",
+    "vol24h": 78474,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-december-31-415",
+    "question": "December 31",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 62.5% | No: 37.5%",
+    "volume": 438140,
+    "liquidity": 102519,
+    "endDate": "2026-12-31",
+    "dayChange": "3.00%",
+    "vol24h": 74999,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "question": "Strait of Hormuz traffic returns to normal by December 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by December 31?",
+    "prices": "Yes: 24.5% | No: 75.5%",
+    "volume": 10546226,
+    "liquidity": 476977,
+    "endDate": "2026-12-31",
+    "dayChange": "-1.00%",
+    "vol24h": 73753,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "ticker": "will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-december-31-139",
+    "question": "Tesla",
+    "eventTitle": "Largest Company end of December 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 825319,
+    "liquidity": 299489,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 72189,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-september-2026",
+    "ticker": "will-bitcoin-dip-to-55k-in-september-2026",
+    "question": "↓ 55,000",
+    "eventTitle": "What price will Bitcoin hit in September?",
+    "prices": "Yes: 1.8% | No: 98.3%",
+    "volume": 355567,
+    "liquidity": 101509,
+    "endDate": "2026-10-01",
+    "dayChange": "-0.25%",
+    "vol24h": 67152,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "question": "Flávio Bolsonaro",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 39.9% | No: 60.2%",
+    "volume": 9830083,
+    "liquidity": 238536,
+    "endDate": "2026-10-04",
+    "dayChange": "-1.30%",
+    "vol24h": 67094,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-zohran-mamdani-win-the-2028-democratic-presidential-nomination-445",
+    "question": "Zohran Mamdani",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 38926502,
+    "liquidity": 2551016,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 66760,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "ticker": "will-the-communist-party-of-the-russian-federation-kprf-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "Communist Party of the Russian Federation (KPRF)",
+    "eventTitle": "Which party will gain most seats in Russian Parliamentary Election?",
+    "prices": "Yes: 1.4% | No: 98.6%",
+    "volume": 1776031,
+    "liquidity": 197493,
+    "endDate": "2026-09-30",
+    "dayChange": "0.05%",
+    "vol24h": 66041,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-rand-paul-win-the-2028-republican-presidential-nomination",
+    "question": "Rand Paul",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 19474430,
+    "liquidity": 1484254,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 64825,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+    "question": "Strait of Hormuz traffic returns to normal by September 30?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by September 30?",
+    "prices": "Yes: 2.2% | No: 97.8%",
+    "volume": 7889592,
+    "liquidity": 346730,
+    "endDate": "2026-09-30",
+    "dayChange": "-0.15%",
+    "vol24h": 63095,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-september-1785358369147",
+    "ticker": "will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+    "question": "Saudi Aramco",
+    "eventTitle": "Largest Company end of September?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 135491,
+    "liquidity": 145682,
+    "endDate": "2026-09-30",
+    "dayChange": "-0.10%",
+    "vol24h": 45052,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-september-20260717143435868",
+    "ticker": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
+    "question": "OpenAI",
+    "eventTitle": "Which company has the best AI model end of September?",
+    "prices": "Yes: 11.2% | No: 88.8%",
+    "volume": 470969,
+    "liquidity": 38589,
+    "endDate": "2026-10-01",
+    "dayChange": "-3.30%",
+    "vol24h": 42379,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "how-many-fed-rate-cuts-in-2026",
+    "ticker": "will-6-fed-rate-cuts-happen-in-2026",
+    "question": "6 (150 bps)",
+    "eventTitle": "How many Fed rate cuts in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 4111803,
+    "liquidity": 239918,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.10%",
+    "vol24h": 32846,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "ECONOMY | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "how-many-fed-rate-cuts-in-2026",
+    "ticker": "will-no-fed-rate-cuts-happen-in-2026",
+    "question": "0 (0 bps)",
+    "eventTitle": "How many Fed rate cuts in 2026?",
+    "prices": "Yes: 92.7% | No: 7.3%",
+    "volume": 8152091,
+    "liquidity": 265988,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.10%",
+    "vol24h": 17972,
+    "updatedAt": "2026-09-07T20:49:53.304466Z",
+    "category": "ECONOMY | FINANCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
