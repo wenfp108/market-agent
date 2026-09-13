@@ -1,0 +1,634 @@
+[
+  {
+    "slug": "next-prime-minister-of-sweden",
+    "ticker": "will-magdalena-andersson-be-the-next-prime-minister-of-sweden",
+    "question": "Magdalena Andersson",
+    "eventTitle": "Next Prime Minister of Sweden",
+    "prices": "Yes: 89.5% | No: 10.5%",
+    "volume": 1497430,
+    "liquidity": 46925,
+    "endDate": "2026-09-13",
+    "dayChange": "25.00%",
+    "vol24h": 600227,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "clarity-act-signed-into-law-in-2026",
+    "ticker": "clarity-act-signed-into-law-in-2026",
+    "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+    "eventTitle": "Clarity Act (H.R.3633) signed into law in 2026?",
+    "prices": "Yes: 22.5% | No: 77.5%",
+    "volume": 15767046,
+    "liquidity": 411577,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 562482,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-sweden",
+    "ticker": "will-ulf-kristersson-be-the-next-prime-minister-of-sweden",
+    "question": "Ulf Kristersson",
+    "eventTitle": "Next Prime Minister of Sweden",
+    "prices": "Yes: 10.0% | No: 90.0%",
+    "volume": 1099844,
+    "liquidity": 123821,
+    "endDate": "2026-09-13",
+    "dayChange": "-24.50%",
+    "vol24h": 520745,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "putin-out-before-2027",
+    "ticker": "putin-out-before-2027-346",
+    "question": "December 31, 2026",
+    "eventTitle": "Putin out as President of Russia by...?",
+    "prices": "Yes: 5.5% | No: 94.5%",
+    "volume": 21147498,
+    "liquidity": 795999,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.00%",
+    "vol24h": 380946,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-abigail-spanberger-win-the-2028-us-presidential-election",
+    "question": "Abigail Spanberger",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 630716,
+    "liquidity": 1472092,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 326344,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-september-15-20260810150912478",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-september-15-20260810150912478",
+    "question": "Strait of Hormuz traffic returns to normal by September 15?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by September 15?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 2509237,
+    "liquidity": 955139,
+    "endDate": "2026-09-15",
+    "dayChange": "-0.10%",
+    "vol24h": 268977,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-candace-owens-win-the-2028-republican-presidential-nomination",
+    "question": "Candace Owens",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 861093,
+    "liquidity": 853968,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 200002,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "sweden-parliamentary-election-winner",
+    "ticker": "will-the-swedish-social-democratic-party-s-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
+    "question": "Swedish Social Democratic Party (S)",
+    "eventTitle": "Sweden Parliamentary Election Winner",
+    "prices": "Yes: 99.9% | No: 0.1%",
+    "volume": 468373,
+    "liquidity": 74448,
+    "endDate": "2026-09-13",
+    "dayChange": "0.85%",
+    "vol24h": 188627,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "sweden-parliamentary-election-2nd-place",
+    "ticker": "will-the-sweden-democrats-sd-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election",
+    "question": "Sweden Democrats (SD)",
+    "eventTitle": "Sweden Parliamentary Election: 2nd Place",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 284308,
+    "liquidity": 39246,
+    "endDate": "2026-09-13",
+    "dayChange": "-76.40%",
+    "vol24h": 170839,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "ticker": "will-a-just-russia-for-truth-srzp-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "A Just Russia – For Truth (SRZP)",
+    "eventTitle": "Which party will gain most seats in Russian Parliamentary Election?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 2674890,
+    "liquidity": 420725,
+    "endDate": "2026-09-30",
+    "dayChange": "0.00%",
+    "vol24h": 168937,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-marco-rubio-win-the-2028-us-presidential-election",
+    "question": "Marco Rubio",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 11.2% | No: 88.8%",
+    "volume": 12458959,
+    "liquidity": 280949,
+    "endDate": "2028-11-07",
+    "dayChange": "2.25%",
+    "vol24h": 153339,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "openai-ipo-closing-market-cap",
+    "ticker": "will-openai-not-ipo-by-december-31-2026",
+    "question": "No IPO by December 31, 2026",
+    "eventTitle": "OpenAI IPO Closing Market Cap",
+    "prices": "Yes: 94.7% | No: 5.3%",
+    "volume": 723435,
+    "liquidity": 29627,
+    "endDate": "2027-01-01",
+    "dayChange": "-2.30%",
+    "vol24h": 152657,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-closes-its-airspace-by",
+    "ticker": "israel-closes-its-airspace-by-september-30",
+    "question": "September 30",
+    "eventTitle": "Israel closes its airspace by...?",
+    "prices": "Yes: 96.8% | No: 3.2%",
+    "volume": 2921010,
+    "liquidity": 126249,
+    "endDate": "2026-10-01",
+    "dayChange": "0.35%",
+    "vol24h": 146648,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-china-invade-taiwan-before-2027",
+    "ticker": "will-china-invade-taiwan-before-2027",
+    "question": "Will China invade Taiwan by end of 2026?",
+    "eventTitle": "Will China invade Taiwan by end of 2026?",
+    "prices": "Yes: 4.2% | No: 95.8%",
+    "volume": 41336995,
+    "liquidity": 536660,
+    "endDate": "2026-12-31",
+    "dayChange": "0.35%",
+    "vol24h": 143694,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "question": "Strait of Hormuz traffic returns to normal by December 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by December 31?",
+    "prices": "Yes: 17.5% | No: 82.5%",
+    "volume": 11630655,
+    "liquidity": 485078,
+    "endDate": "2026-12-31",
+    "dayChange": "-3.00%",
+    "vol24h": 141106,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+    "ticker": "iran-oman-hormuz-agreement-by-september-14",
+    "question": "September 14",
+    "eventTitle": "Iran-Oman Hormuz Management Agreement by...?",
+    "prices": "Yes: 1.9% | No: 98.1%",
+    "volume": 374971,
+    "liquidity": 39590,
+    "endDate": "2026-09-14",
+    "dayChange": "-27.60%",
+    "vol24h": 128607,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-in-september-2026",
+    "ticker": "will-ethereum-reach-3200-in-september-2026",
+    "question": "↑ 3,200",
+    "eventTitle": "What price will Ethereum hit in September?",
+    "prices": "Yes: 5.7% | No: 94.3%",
+    "volume": 260951,
+    "liquidity": 58083,
+    "endDate": "2026-10-01",
+    "dayChange": "-0.20%",
+    "vol24h": 127644,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "question": "Luiz Inácio Lula da Silva",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 47.5% | No: 52.5%",
+    "volume": 10957626,
+    "liquidity": 259919,
+    "endDate": "2026-10-04",
+    "dayChange": "-1.00%",
+    "vol24h": 123511,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-in-september-2026",
+    "ticker": "will-ethereum-reach-2600-in-september-2026-from-september-11",
+    "question": "↑ 2,600",
+    "eventTitle": "What price will Ethereum hit in September?",
+    "prices": "Yes: 66.0% | No: 34.0%",
+    "volume": 122704,
+    "liquidity": 50250,
+    "endDate": "2026-10-01",
+    "dayChange": "-11.00%",
+    "vol24h": 120605,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "texas-senate-election-winner",
+    "ticker": "will-the-republicans-win-the-texas-senate-race-in-2026",
+    "question": "Ken Paxton (R)",
+    "eventTitle": "Texas Senate Election Winner",
+    "prices": "Yes: 49.5% | No: 50.5%",
+    "volume": 696175,
+    "liquidity": 119748,
+    "endDate": "N/A",
+    "dayChange": "1.00%",
+    "vol24h": 115930,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-d-senate-r-house-692",
+    "question": "D Senate, R House",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 1.3% | No: 98.8%",
+    "volume": 1782345,
+    "liquidity": 187434,
+    "endDate": "2026-11-03",
+    "dayChange": "-0.30%",
+    "vol24h": 112273,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-sweden",
+    "ticker": "will-jimmie-kesson-be-the-next-prime-minister-of-sweden",
+    "question": "Jimmie Åkesson",
+    "eventTitle": "Next Prime Minister of Sweden",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 1756025,
+    "liquidity": 113426,
+    "endDate": "2026-09-13",
+    "dayChange": "-0.75%",
+    "vol24h": 107244,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "sweden-parliamentary-election-winner",
+    "ticker": "will-the-sweden-democrats-sd-win-the-most-seats-in-the-2026-swedish-parliamentary-election",
+    "question": "Sweden Democrats (SD)",
+    "eventTitle": "Sweden Parliamentary Election Winner",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 723630,
+    "liquidity": 69812,
+    "endDate": "2026-09-13",
+    "dayChange": "-0.80%",
+    "vol24h": 106064,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-x-iran-effective-ceasefire-begins-byptptpt-2-week-pause",
+    "ticker": "us-x-iran-effective-ceasefire-by-september-4",
+    "question": "September 4",
+    "eventTitle": "US x Iran Effective Ceasefire begins by...? (2 week pause)",
+    "prices": "Yes: 84.0% | No: 16.0%",
+    "volume": 1716800,
+    "liquidity": 34251,
+    "endDate": "2026-09-04",
+    "dayChange": "-4.50%",
+    "vol24h": 101247,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-tim-walz-win-the-2028-democratic-presidential-nomination-475",
+    "question": "Tim Walz",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 43451809,
+    "liquidity": 2807929,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 100000,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
+    "ticker": "will-the-iranian-regime-fall-by-the-end-of-2026",
+    "question": "Will the Iranian regime fall before 2027?",
+    "eventTitle": "Will the Iranian regime fall before 2027?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 25873817,
+    "liquidity": 478335,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 99781,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "next-prime-minister-of-sweden",
+    "ticker": "will-ebba-busch-be-the-next-prime-minister-of-sweden",
+    "question": "Ebba Busch",
+    "eventTitle": "Next Prime Minister of Sweden",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 673424,
+    "liquidity": 47954,
+    "endDate": "2026-09-13",
+    "dayChange": "-0.10%",
+    "vol24h": 88358,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-wins-2028-us-presidential-election",
+    "ticker": "will-the-democrats-win-the-2028-us-presidential-election",
+    "question": "Democratic",
+    "eventTitle": "Which party wins 2028 US Presidential Election?",
+    "prices": "Yes: 66.5% | No: 33.5%",
+    "volume": 1096673,
+    "liquidity": 306531,
+    "endDate": "2028-11-07",
+    "dayChange": "6.00%",
+    "vol24h": 87854,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "fed-rate-hike-in-2026",
+    "ticker": "fed-rate-hike-in-2026",
+    "question": "Fed rate hike in 2026?",
+    "eventTitle": "Fed rate hike in 2026?",
+    "prices": "Yes: 86.5% | No: 13.5%",
+    "volume": 9202779,
+    "liquidity": 173987,
+    "endDate": "2026-12-09",
+    "dayChange": "0.00%",
+    "vol24h": 84578,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "sweden-parliamentary-election-2nd-place",
+    "ticker": "will-the-moderate-party-m-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election",
+    "question": "Moderate Party (M)",
+    "eventTitle": "Sweden Parliamentary Election: 2nd Place",
+    "prices": "Yes: 99.6% | No: 0.4%",
+    "volume": 163082,
+    "liquidity": 50589,
+    "endDate": "2026-09-13",
+    "dayChange": "76.10%",
+    "vol24h": 84067,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-september-1785358369147",
+    "ticker": "will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+    "question": "NVIDIA",
+    "eventTitle": "Largest Company end of September?",
+    "prices": "Yes: 90.7% | No: 9.3%",
+    "volume": 419556,
+    "liquidity": 69260,
+    "endDate": "2026-09-30",
+    "dayChange": "-4.20%",
+    "vol24h": 52067,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-rate-hike-by",
+    "ticker": "fed-rate-hike-by-october-2026-meeting",
+    "question": "October Meeting",
+    "eventTitle": "Fed rate hike by...?",
+    "prices": "Yes: 82.5% | No: 17.5%",
+    "volume": 800027,
+    "liquidity": 372902,
+    "endDate": "2026-12-09",
+    "dayChange": "1.00%",
+    "vol24h": 32857,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "ECONOMY | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-september-1785358369147",
+    "ticker": "will-company-c-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+    "question": "Apple",
+    "eventTitle": "Largest Company end of September?",
+    "prices": "Yes: 8.8% | No: 91.3%",
+    "volume": 262027,
+    "liquidity": 101878,
+    "endDate": "2026-09-30",
+    "dayChange": "3.90%",
+    "vol24h": 27587,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-september-1785358369147",
+    "ticker": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+    "question": "Alphabet",
+    "eventTitle": "Largest Company end of September?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 230126,
+    "liquidity": 107695,
+    "endDate": "2026-09-30",
+    "dayChange": "-0.15%",
+    "vol24h": 23965,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-september-2026",
+    "ticker": "will-wti-reach-130-in-september-2026",
+    "question": "↑ $130",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in September 2026?",
+    "prices": "Yes: 5.1% | No: 95.0%",
+    "volume": 233176,
+    "liquidity": 127311,
+    "endDate": "2026-10-01",
+    "dayChange": "0.40%",
+    "vol24h": 16607,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-september-2026",
+    "ticker": "will-wti-reach-140-in-september-2026",
+    "question": "↑ $140",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in September 2026?",
+    "prices": "Yes: 2.4% | No: 97.6%",
+    "volume": 289054,
+    "liquidity": 159052,
+    "endDate": "2026-10-01",
+    "dayChange": "-0.05%",
+    "vol24h": 15841,
+    "updatedAt": "2026-09-13T23:30:47.946618Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
