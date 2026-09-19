@@ -1,0 +1,527 @@
+[
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "ticker": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "United Russia (ER)",
+    "eventTitle": "Which party will gain most seats in Russian Parliamentary Election?",
+    "prices": "Yes: 80.5% | No: 19.5%",
+    "volume": 15888591,
+    "liquidity": 544615,
+    "endDate": "2026-09-30",
+    "dayChange": "-1.00%",
+    "vol24h": 2444071,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-greg-abbott-win-the-2028-republican-presidential-nomination",
+    "question": "Greg Abbott",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 21329323,
+    "liquidity": 1107249,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 611512,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "ticker": "will-the-liberal-democratic-party-of-russia-ldpr-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "Liberal Democratic Party of Russia (LDPR)",
+    "eventTitle": "Which party will gain most seats in Russian Parliamentary Election?",
+    "prices": "Yes: 1.2% | No: 98.8%",
+    "volume": 4827115,
+    "liquidity": 328813,
+    "endDate": "2026-09-20",
+    "dayChange": "0.20%",
+    "vol24h": 599068,
+    "updatedAt": "2026-09-19T23:34:14.775821Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "ticker": "will-new-people-nl-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "New People (NL)",
+    "eventTitle": "Which party will gain most seats in Russian Parliamentary Election?",
+    "prices": "Yes: 18.4% | No: 81.6%",
+    "volume": 4355721,
+    "liquidity": 222197,
+    "endDate": "2026-09-20",
+    "dayChange": "1.65%",
+    "vol24h": 596359,
+    "updatedAt": "2026-09-19T23:34:15.014787Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "ticker": "will-yabloko-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "Yabloko",
+    "eventTitle": "Which party will gain most seats in Russian Parliamentary Election?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 3141958,
+    "liquidity": 351429,
+    "endDate": "2026-09-30",
+    "dayChange": "0.00%",
+    "vol24h": 593532,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "clarity-act-signed-into-law-in-2026",
+    "ticker": "clarity-act-signed-into-law-in-2026",
+    "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+    "eventTitle": "Clarity Act (H.R.3633) signed into law in 2026?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 22480277,
+    "liquidity": 356440,
+    "endDate": "2027-01-01",
+    "dayChange": "-0.75%",
+    "vol24h": 578653,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | CRYPTO",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "ticker": "will-the-communist-party-of-the-russian-federation-kprf-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "Communist Party of the Russian Federation (KPRF)",
+    "eventTitle": "Which party will gain most seats in Russian Parliamentary Election?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 2933409,
+    "liquidity": 306074,
+    "endDate": "2026-09-20",
+    "dayChange": "0.05%",
+    "vol24h": 407133,
+    "updatedAt": "2026-09-19T23:34:13.747086Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "ticker": "will-a-just-russia-for-truth-srzp-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "A Just Russia – For Truth (SRZP)",
+    "eventTitle": "Which party will gain most seats in Russian Parliamentary Election?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 3885724,
+    "liquidity": 465596,
+    "endDate": "2026-09-20",
+    "dayChange": "-0.10%",
+    "vol24h": 342783,
+    "updatedAt": "2026-09-19T23:34:14.489762Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-elissa-slotkin-win-the-2028-democratic-presidential-nomination",
+    "question": "Elissa Slotkin",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1612570,
+    "liquidity": 1124382,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 315047,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-september-30-20260917",
+    "question": "September 30",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 72.0% | No: 28.0%",
+    "volume": 227888,
+    "liquidity": 24136,
+    "endDate": "2026-09-30",
+    "dayChange": "-1.50%",
+    "vol24h": 174727,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-house-in-2026",
+    "ticker": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+    "question": "Democratic Party",
+    "eventTitle": "Which party will win the House in 2026?",
+    "prices": "Yes: 90.5% | No: 9.5%",
+    "volume": 6782074,
+    "liquidity": 936716,
+    "endDate": "2026-11-03",
+    "dayChange": "1.00%",
+    "vol24h": 171640,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "russia-parliamentary-election-winner",
+    "ticker": "will-united-russia-er-win-the-most-seats-in-the-next-russian-parliamentary-election",
+    "question": "United Russia (ER)",
+    "eventTitle": "Russia Parliamentary Election Winner",
+    "prices": "Yes: 99.8% | No: 0.3%",
+    "volume": 1750314,
+    "liquidity": 331037,
+    "endDate": "2026-09-30",
+    "dayChange": "0.00%",
+    "vol24h": 140970,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-october-31-20260917",
+    "question": "October 31",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 43.0% | No: 57.0%",
+    "volume": 190739,
+    "liquidity": 17242,
+    "endDate": "2026-10-31",
+    "dayChange": "-3.50%",
+    "vol24h": 131304,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-tulsi-gabbard-win-the-2028-republican-presidential-nomination",
+    "question": "Tulsi Gabbard",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 14075751,
+    "liquidity": 842804,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 123427,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-september-25-20260917",
+    "question": "September 25",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 76.5% | No: 23.5%",
+    "volume": 179637,
+    "liquidity": 21654,
+    "endDate": "2026-09-25",
+    "dayChange": "-10.00%",
+    "vol24h": 121741,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-september-20-20260917",
+    "question": "September 20",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 89.6% | No: 10.4%",
+    "volume": 167076,
+    "liquidity": 39972,
+    "endDate": "2026-09-20",
+    "dayChange": "-4.90%",
+    "vol24h": 117261,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-ro-khanna-win-the-2028-us-presidential-election",
+    "question": "Ro Khanna",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 10904956,
+    "liquidity": 918554,
+    "endDate": "2028-11-07",
+    "dayChange": "0.20%",
+    "vol24h": 109752,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-september-2026",
+    "ticker": "will-bitcoin-reach-100k-in-september-2026",
+    "question": "↑ 100,000",
+    "eventTitle": "What price will Bitcoin hit in September?",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 954001,
+    "liquidity": 144117,
+    "endDate": "2026-10-01",
+    "dayChange": "-0.85%",
+    "vol24h": 109317,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-jair-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "question": "Jair Bolsonaro",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 7219156,
+    "liquidity": 361007,
+    "endDate": "2026-10-04",
+    "dayChange": "0.00%",
+    "vol24h": 107095,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "trump-x-greenland-deal-signed-by-december-31",
+    "ticker": "trump-x-greenland-deal-signed-by-december-31",
+    "question": "December 31",
+    "eventTitle": "Trump x Greenland deal signed by...?",
+    "prices": "Yes: 96.4% | No: 3.6%",
+    "volume": 275210,
+    "liquidity": 72819,
+    "endDate": "2027-01-01",
+    "dayChange": "4.90%",
+    "vol24h": 101860,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-phil-murphy-win-the-2028-democratic-presidential-nomination-611",
+    "question": "Phil Murphy",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 42529361,
+    "liquidity": 2719943,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 101000,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-adam-schiff-win-the-2028-democratic-presidential-nomination",
+    "question": "Adam Schiff",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 655801,
+    "liquidity": 1688017,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 100165,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-september-2026",
+    "ticker": "will-bitcoin-reach-85k-in-september-2026",
+    "question": "↑ 85,000",
+    "eventTitle": "What price will Bitcoin hit in September?",
+    "prices": "Yes: 47.5% | No: 52.5%",
+    "volume": 779749,
+    "liquidity": 93695,
+    "endDate": "2026-10-01",
+    "dayChange": "4.00%",
+    "vol24h": 97012,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696",
+    "question": "October 31",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 32.5% | No: 67.5%",
+    "volume": 1470441,
+    "liquidity": 115405,
+    "endDate": "2026-11-01",
+    "dayChange": "0.00%",
+    "vol24h": 94847,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bab-el-mandeb-strait-effectively-closed-by",
+    "ticker": "bab-el-mandeb-strait-effectively-closed-by-september-30-999-671-939",
+    "question": "September 30",
+    "eventTitle": "Bab el-Mandeb Strait effectively closed by...?",
+    "prices": "Yes: 3.7% | No: 96.3%",
+    "volume": 3451439,
+    "liquidity": 85341,
+    "endDate": "2026-10-01",
+    "dayChange": "1.50%",
+    "vol24h": 94509,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "russia-parliamentary-election-turnout",
+    "ticker": "will-voter-turnout-be-62-or-higher-in-the-2026-russian-parliamentary-election",
+    "question": "62%+",
+    "eventTitle": "Russia Parliamentary Election: Turnout",
+    "prices": "Yes: 58.1% | No: 41.9%",
+    "volume": 136446,
+    "liquidity": 43369,
+    "endDate": "2026-09-20",
+    "dayChange": "39.15%",
+    "vol24h": 94043,
+    "updatedAt": "2026-09-19T23:34:49.542971Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-franois-baroin-win-the-2027-french-presidential-election",
+    "question": "François Baroin",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1234812,
+    "liquidity": 50025,
+    "endDate": "2027-04-30",
+    "dayChange": "0.10%",
+    "vol24h": 92055,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-xi-jinping-visit-us-before-2027",
+    "ticker": "will-xi-jinping-visit-us-by-september-23",
+    "question": "September 23",
+    "eventTitle": "Will Xi Jinping visit US by...?",
+    "prices": "Yes: 90.0% | No: 10.0%",
+    "volume": 213351,
+    "liquidity": 48967,
+    "endDate": "2026-09-23",
+    "dayChange": "-0.10%",
+    "vol24h": 91537,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "trump-x-greenland-deal-signed-by-december-31",
+    "ticker": "trump-x-greenland-deal-signed-by-september-23",
+    "question": "September 23",
+    "eventTitle": "Trump x Greenland deal signed by...?",
+    "prices": "Yes: 73.5% | No: 26.5%",
+    "volume": 89872,
+    "liquidity": 20474,
+    "endDate": "2026-09-24",
+    "dayChange": "6.00%",
+    "vol24h": 89745,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "nato-x-russia-military-clash-in-2025",
+    "ticker": "nato-x-russia-military-clash-by-october-31-2026",
+    "question": "October 31",
+    "eventTitle": "NATO x Russia military clash by...?",
+    "prices": "Yes: 16.5% | No: 83.5%",
+    "volume": 618655,
+    "liquidity": 132958,
+    "endDate": "2026-11-01",
+    "dayChange": "0.50%",
+    "vol24h": 87482,
+    "updatedAt": "2026-09-19T23:34:02.301901Z",
+    "category": "GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  }
+]
