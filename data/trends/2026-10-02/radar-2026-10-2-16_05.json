@@ -1,0 +1,657 @@
+[
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+    "question": "No change",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 81.5% | No: 18.5%",
+    "volume": 6795073,
+    "liquidity": 627282,
+    "endDate": "2026-10-29",
+    "dayChange": "11.00%",
+    "vol24h": 1131325,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-renan-santos-win-the-2026-brazilian-presidential-election",
+    "question": "Renan Santos",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 15780810,
+    "liquidity": 777131,
+    "endDate": "2026-10-05",
+    "dayChange": "-0.10%",
+    "vol24h": 749383,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "question": "Flávio Bolsonaro",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 55.3% | No: 44.8%",
+    "volume": 13418789,
+    "liquidity": 609383,
+    "endDate": "2026-10-05",
+    "dayChange": "-6.60%",
+    "vol24h": 726180,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "question": "Luiz Inácio Lula da Silva",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 44.5% | No: 55.5%",
+    "volume": 13628649,
+    "liquidity": 774021,
+    "endDate": "2026-10-05",
+    "dayChange": "7.00%",
+    "vol24h": 684919,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 18.5% | No: 81.5%",
+    "volume": 6009403,
+    "liquidity": 323663,
+    "endDate": "2026-10-29",
+    "dayChange": "-9.00%",
+    "vol24h": 643534,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 3816033,
+    "liquidity": 358472,
+    "endDate": "2026-10-29",
+    "dayChange": "0.10%",
+    "vol24h": 550624,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 15.5% | No: 84.5%",
+    "volume": 70908349,
+    "liquidity": 944893,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 452280,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 3378578,
+    "liquidity": 763194,
+    "endDate": "2026-10-29",
+    "dayChange": "-0.10%",
+    "vol24h": 428115,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 3647839,
+    "liquidity": 849438,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 417021,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-october-2-2026",
+    "ticker": "bitcoin-above-74k-on-october-2-2026",
+    "question": "74,000",
+    "eventTitle": "Bitcoin above ___ on October 2?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 326992,
+    "liquidity": 74148,
+    "endDate": "2026-10-02",
+    "dayChange": "0.00%",
+    "vol24h": 316203,
+    "updatedAt": "2026-10-02T16:02:05.960766Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-october-2-2026",
+    "ticker": "bitcoin-above-88k-on-october-2-2026",
+    "question": "88,000",
+    "eventTitle": "Bitcoin above ___ on October 2?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 338247,
+    "liquidity": 42069,
+    "endDate": "2026-10-02",
+    "dayChange": "-2.00%",
+    "vol24h": 275074,
+    "updatedAt": "2026-10-02T16:02:08.821155Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-october-2-2026",
+    "ticker": "bitcoin-above-86k-on-october-2-2026",
+    "question": "86,000",
+    "eventTitle": "Bitcoin above ___ on October 2?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 368182,
+    "liquidity": 39352,
+    "endDate": "2026-10-02",
+    "dayChange": "-12.45%",
+    "vol24h": 274042,
+    "updatedAt": "2026-10-02T16:02:09.642332Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-october-2-2026",
+    "ticker": "bitcoin-up-or-down-on-october-2-2026",
+    "question": "Bitcoin Up or Down on October 2?",
+    "eventTitle": "Bitcoin Up or Down on October 2?",
+    "prices": "Up: 100.0% | Down: 0.1%",
+    "volume": 274225,
+    "liquidity": 41509,
+    "endDate": "2026-10-02",
+    "dayChange": "46.45%",
+    "vol24h": 273886,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-sarah-huckabee-sanders-win-the-2028-republican-presidential-nomination",
+    "question": "Sarah Huckabee Sanders",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 35772150,
+    "liquidity": 879822,
+    "endDate": "2028-11-08",
+    "dayChange": "0.00%",
+    "vol24h": 233000,
+    "updatedAt": "2026-10-02T15:58:58.691209Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-accuses-iranproxies-of-plane-stabbing-incident-by-oct-31",
+    "ticker": "israel-accuses-iranproxies-of-plane-stabbing-incident-by-oct-31",
+    "question": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?",
+    "eventTitle": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?",
+    "prices": "Yes: 19.5% | No: 80.5%",
+    "volume": 258319,
+    "liquidity": 25949,
+    "endDate": "2026-11-01",
+    "dayChange": "7.00%",
+    "vol24h": 228280,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-october-2-2026",
+    "ticker": "bitcoin-above-84k-on-october-2-2026",
+    "question": "84,000",
+    "eventTitle": "Bitcoin above ___ on October 2?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 243319,
+    "liquidity": 43276,
+    "endDate": "2026-10-02",
+    "dayChange": "39.45%",
+    "vol24h": 224076,
+    "updatedAt": "2026-10-02T16:02:09.355558Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "nobel-peace-prize-winner-2026-139",
+    "ticker": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
+    "question": "Donald Trump",
+    "eventTitle": "Nobel Peace Prize Winner 2026",
+    "prices": "Yes: 0.9% | No: 99.2%",
+    "volume": 5593154,
+    "liquidity": 604181,
+    "endDate": "2027-04-01",
+    "dayChange": "0.05%",
+    "vol24h": 197524,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-tarcisio-de-frietas-win-the-2026-brazilian-presidential-election",
+    "question": "Tarcisio de Freitas",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 14555663,
+    "liquidity": 1208223,
+    "endDate": "2026-10-05",
+    "dayChange": "0.00%",
+    "vol24h": 197000,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-october-15-2026",
+    "question": "October 15",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 8.5% | No: 91.5%",
+    "volume": 452251,
+    "liquidity": 88218,
+    "endDate": "2026-10-16",
+    "dayChange": "-0.50%",
+    "vol24h": 191042,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-september-28-october-4-2026",
+    "ticker": "will-bitcoin-reach-92k-september-28-october-4-2026",
+    "question": "↑ 92,000",
+    "eventTitle": "What price will Bitcoin hit September 28-October 4?",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 272726,
+    "liquidity": 54504,
+    "endDate": "2026-10-05",
+    "dayChange": "-1.90%",
+    "vol24h": 190553,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-october-2026",
+    "ticker": "will-bitcoin-reach-87pt5k-in-october-2026",
+    "question": "↑ 87,500",
+    "eventTitle": "What price will Bitcoin hit in October?",
+    "prices": "Yes: 77.5% | No: 22.5%",
+    "volume": 206013,
+    "liquidity": 93558,
+    "endDate": "2026-11-01",
+    "dayChange": "8.00%",
+    "vol24h": 185562,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-anthropic-have-the-highest-ipo-market-cap-2026-673",
+    "question": "Anthropic",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 56.1% | No: 43.9%",
+    "volume": 1343899,
+    "liquidity": 32239,
+    "endDate": "2027-01-02",
+    "dayChange": "10.05%",
+    "vol24h": 170947,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-before-2027-789-924-249",
+    "question": "December 31",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 2.8% | No: 97.3%",
+    "volume": 40124021,
+    "liquidity": 1135110,
+    "endDate": "2027-01-01",
+    "dayChange": "-0.50%",
+    "vol24h": 167276,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-rand-paul-win-the-2028-republican-presidential-nomination",
+    "question": "Rand Paul",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 19739311,
+    "liquidity": 1393587,
+    "endDate": "2028-11-08",
+    "dayChange": "0.00%",
+    "vol24h": 166768,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "any-of-the-cornell-7-charged-with-a-felony-sex-crime",
+    "ticker": "any-of-the-cornell-7-charged-with-a-felony-sex-crime",
+    "question": "Any of the Cornell 7 charged with a felony sex crime?",
+    "eventTitle": "Any of the Cornell 7 charged with a felony sex crime?",
+    "prices": "Yes: 36.5% | No: 63.5%",
+    "volume": 179964,
+    "liquidity": 48059,
+    "endDate": "2027-02-01",
+    "dayChange": "-10.00%",
+    "vol24h": 164926,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-october-2-2026",
+    "ticker": "bitcoin-above-90k-on-october-2-2026",
+    "question": "90,000",
+    "eventTitle": "Bitcoin above ___ on October 2?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 214829,
+    "liquidity": 30837,
+    "endDate": "2026-10-02",
+    "dayChange": "-0.30%",
+    "vol24h": 158250,
+    "updatedAt": "2026-10-02T16:02:09.387062Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-david-lisnard-win-the-2027-french-presidential-election",
+    "question": "David Lisnard",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 8.0% | No: 92.0%",
+    "volume": 2971740,
+    "liquidity": 298284,
+    "endDate": "2027-04-19",
+    "dayChange": "0.40%",
+    "vol24h": 151079,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-senate-in-2026",
+    "ticker": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+    "question": "Republican Party",
+    "eventTitle": "Which party will win the Senate in 2026?",
+    "prices": "Yes: 35.5% | No: 64.5%",
+    "volume": 2344821,
+    "liquidity": 1280419,
+    "endDate": "2026-11-04",
+    "dayChange": "-2.00%",
+    "vol24h": 148802,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-october-2-2026",
+    "ticker": "bitcoin-above-82k-on-october-2-2026",
+    "question": "82,000",
+    "eventTitle": "Bitcoin above ___ on October 2?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 262606,
+    "liquidity": 22370,
+    "endDate": "2026-10-02",
+    "dayChange": "4.45%",
+    "vol24h": 143869,
+    "updatedAt": "2026-10-02T16:02:09.892904Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-geraldo-alckmin-win-the-2026-brazilian-presidential-election",
+    "question": "Geraldo Alckmin",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 7668827,
+    "liquidity": 638724,
+    "endDate": "2026-10-05",
+    "dayChange": "0.00%",
+    "vol24h": 142804,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "oklahoma-enacts-data-center-moratorium-by-20260929",
+    "ticker": "will-oklahoma-enact-a-data-center-moratorium-by-december-31-2027",
+    "question": "December 31, 2027",
+    "eventTitle": "Oklahoma enacts data center moratorium by...?",
+    "prices": "Yes: 25.5% | No: 74.5%",
+    "volume": 213533,
+    "liquidity": 892460,
+    "endDate": "2028-01-01",
+    "dayChange": "-5.00%",
+    "vol24h": 129175,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | TECH",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-october",
+    "ticker": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
+    "question": "Anthropic",
+    "eventTitle": "Which company has the best AI model end of October?",
+    "prices": "Yes: 37.5% | No: 62.5%",
+    "volume": 402923,
+    "liquidity": 71816,
+    "endDate": "2026-10-31",
+    "dayChange": "8.00%",
+    "vol24h": 125154,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "oklahoma-enacts-data-center-moratorium-by-20260929",
+    "ticker": "will-oklahoma-enact-a-data-center-moratorium-by-june-30-2027",
+    "question": "June 30, 2027",
+    "eventTitle": "Oklahoma enacts data center moratorium by...?",
+    "prices": "Yes: 17.5% | No: 82.5%",
+    "volume": 174681,
+    "liquidity": 857649,
+    "endDate": "2027-07-01",
+    "dayChange": "-3.00%",
+    "vol24h": 121827,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "POLITICS | TECH",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "crude-oil-all-time-high-by",
+    "ticker": "will-crude-oil-reach-a-new-all-time-high-by-december-31",
+    "question": "December 31",
+    "eventTitle": "Crude Oil all time high by...?",
+    "prices": "Yes: 9.5% | No: 90.5%",
+    "volume": 1586905,
+    "liquidity": 126792,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.00%",
+    "vol24h": 76542,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "GEOPOLITICS | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-waymo-have-the-highest-ipo-market-cap-2026-835",
+    "question": "Waymo",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 327150,
+    "liquidity": 83075,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 9000,
+    "updatedAt": "2026-10-02T15:56:58.537409Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-perplexity-ai-have-the-highest-ipo-market-cap-2026-546",
+    "question": "Perplexity AI",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 111137,
+    "liquidity": 93585,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 3000,
+    "updatedAt": "2026-10-02T16:01:00.915204Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-revolut-have-the-highest-ipo-market-cap-2026-963",
+    "question": "Revolut",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 635054,
+    "liquidity": 86645,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 1000,
+    "updatedAt": "2026-10-02T15:58:58.691209Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
