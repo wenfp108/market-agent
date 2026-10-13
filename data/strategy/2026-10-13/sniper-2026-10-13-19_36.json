@@ -1,0 +1,115 @@
+[
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+    "question": "No change",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 79.5% | No: 20.5%",
+    "volume": 9282207,
+    "liquidity": 370892,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 538740,
+    "spread": "1.00%",
+    "sortOrder": 2,
+    "updatedAt": "2026-10-13T19:33:31.694018Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 19.5% | No: 80.5%",
+    "volume": 7869806,
+    "liquidity": 421341,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 305299,
+    "spread": "1.00%",
+    "sortOrder": 3,
+    "updatedAt": "2026-10-13T19:33:31.694018Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 6751511,
+    "liquidity": 484004,
+    "endDate": "2026-10-29",
+    "dayChange": "-0.10%",
+    "vol24h": 234217,
+    "spread": "0.10%",
+    "sortOrder": 1,
+    "updatedAt": "2026-10-13T19:33:31.694018Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 6267321,
+    "liquidity": 1300663,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 330146,
+    "spread": "0.10%",
+    "sortOrder": 0,
+    "updatedAt": "2026-10-13T19:25:31.42674Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 4732652,
+    "liquidity": 467168,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 357388,
+    "spread": "0.10%",
+    "sortOrder": 4,
+    "updatedAt": "2026-10-13T19:33:31.694018Z",
+    "engine": "sniper",
+    "core_topic": "Fed decision in {month}?",
+    "category": "ECONOMY",
+    "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
