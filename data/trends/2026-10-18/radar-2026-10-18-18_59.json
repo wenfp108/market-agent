@@ -1,0 +1,615 @@
+[
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "question": "Flávio Bolsonaro",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 80.0% | No: 20.1%",
+    "volume": 22512254,
+    "liquidity": 661301,
+    "endDate": "2026-10-05",
+    "dayChange": "3.00%",
+    "vol24h": 1011904,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "question": "Luiz Inácio Lula da Silva",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 20.5% | No: 79.5%",
+    "volume": 26274008,
+    "liquidity": 710503,
+    "endDate": "2026-10-05",
+    "dayChange": "-3.00%",
+    "vol24h": 908411,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+    "question": "Benjamin Netanyahu",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 32.5% | No: 67.5%",
+    "volume": 8568848,
+    "liquidity": 358174,
+    "endDate": "2026-10-28",
+    "dayChange": "5.00%",
+    "vol24h": 748097,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second",
+    "ticker": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second",
+    "question": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+    "eventTitle": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 6378754,
+    "liquidity": 1329638,
+    "endDate": "2026-10-16",
+    "dayChange": "0.00%",
+    "vol24h": 508178,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-october-18",
+    "question": "October 18",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 99.5% | No: 0.5%",
+    "volume": 587612,
+    "liquidity": 50428,
+    "endDate": "2026-10-19",
+    "dayChange": "3.65%",
+    "vol24h": 327921,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-iranian-regime-fall-by-the-end-of-2026",
+    "ticker": "will-the-iranian-regime-fall-by-the-end-of-2026",
+    "question": "Will the Iranian regime fall before 2027?",
+    "eventTitle": "Will the Iranian regime fall before 2027?",
+    "prices": "Yes: 4.5% | No: 95.5%",
+    "volume": 27538066,
+    "liquidity": 584497,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.00%",
+    "vol24h": 175631,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-october-18",
+    "question": "October 18",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 99.6% | No: 0.4%",
+    "volume": 690354,
+    "liquidity": 65710,
+    "endDate": "2026-10-19",
+    "dayChange": "1.80%",
+    "vol24h": 164568,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 6390648,
+    "liquidity": 1161304,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 162892,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 15.5% | No: 84.5%",
+    "volume": 74598111,
+    "liquidity": 502405,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 151812,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-other-131",
+    "question": "Other",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 3302702,
+    "liquidity": 205252,
+    "endDate": "2026-11-04",
+    "dayChange": "0.00%",
+    "vol24h": 136668,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 7673707,
+    "liquidity": 861683,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 129911,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 13.5% | No: 86.5%",
+    "volume": 10297458,
+    "liquidity": 1046328,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 119808,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-october-12-18-2026",
+    "ticker": "will-bitcoin-dip-to-80k-october-12-18-2026-from-october-15",
+    "question": "↓ 80,000",
+    "eventTitle": "What price will Bitcoin hit October 12-18?",
+    "prices": "Yes: 19.4% | No: 80.6%",
+    "volume": 119804,
+    "liquidity": 36689,
+    "endDate": "2026-10-19",
+    "dayChange": "2.90%",
+    "vol24h": 103010,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election-second-round-margin-of-victory",
+    "ticker": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
+    "question": "Lula da Silva <4%",
+    "eventTitle": "Brazil Presidential Election Second Round: Margin of Victory",
+    "prices": "Yes: 18.5% | No: 81.5%",
+    "volume": 245236,
+    "liquidity": 137518,
+    "endDate": "2026-10-26",
+    "dayChange": "-2.00%",
+    "vol24h": 99912,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election-second-round-margin-of-victory",
+    "ticker": "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-812",
+    "question": "Flávio Bolsonaro 8-12%",
+    "eventTitle": "Brazil Presidential Election Second Round: Margin of Victory",
+    "prices": "Yes: 7.9% | No: 92.1%",
+    "volume": 710589,
+    "liquidity": 136844,
+    "endDate": "2026-10-26",
+    "dayChange": "-1.20%",
+    "vol24h": 92617,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-october-12-18-2026",
+    "ticker": "will-bitcoin-reach-84k-october-12-18-2026-from-october-14",
+    "question": "↑ 84,000",
+    "eventTitle": "What price will Bitcoin hit October 12-18?",
+    "prices": "Yes: 0.9% | No: 99.2%",
+    "volume": 124045,
+    "liquidity": 38115,
+    "endDate": "2026-10-19",
+    "dayChange": "-2.65%",
+    "vol24h": 91459,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-naftali-bennett-be-the-next-prime-minister-of-israel",
+    "question": "Naftali Bennett",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 13.5% | No: 86.5%",
+    "volume": 3929119,
+    "liquidity": 123456,
+    "endDate": "2026-10-28",
+    "dayChange": "-1.00%",
+    "vol24h": 90798,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-october-31-20260917",
+    "question": "October 31",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 82.5% | No: 17.5%",
+    "volume": 3874499,
+    "liquidity": 444083,
+    "endDate": "2026-10-31",
+    "dayChange": "2.00%",
+    "vol24h": 90031,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-house-in-2026",
+    "ticker": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+    "question": "Democratic Party",
+    "eventTitle": "Which party will win the House in 2026?",
+    "prices": "Yes: 90.5% | No: 9.5%",
+    "volume": 10659017,
+    "liquidity": 2782814,
+    "endDate": "2026-11-04",
+    "dayChange": "0.00%",
+    "vol24h": 89668,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-october-21",
+    "question": "October 21",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 97.5% | No: 2.5%",
+    "volume": 475063,
+    "liquidity": 82891,
+    "endDate": "2026-10-22",
+    "dayChange": "2.00%",
+    "vol24h": 85588,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bab-el-mandeb-strait-effectively-closed-by",
+    "ticker": "bab-el-mandeb-strait-effectively-closed-by-october-31",
+    "question": "October 31",
+    "eventTitle": "Bab el-Mandeb Strait effectively closed by...?",
+    "prices": "Yes: 3.1% | No: 96.9%",
+    "volume": 1432580,
+    "liquidity": 117755,
+    "endDate": "2026-11-01",
+    "dayChange": "-0.95%",
+    "vol24h": 85571,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-october-31",
+    "question": "October 31",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 86.0% | No: 14.0%",
+    "volume": 2438376,
+    "liquidity": 73725,
+    "endDate": "2026-10-31",
+    "dayChange": "0.50%",
+    "vol24h": 83650,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-october-31-20260810151043583",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-october-31-20260810151043583",
+    "question": "Strait of Hormuz traffic returns to normal by October 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by October 31?",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 2839277,
+    "liquidity": 172976,
+    "endDate": "2026-11-01",
+    "dayChange": "0.10%",
+    "vol24h": 81829,
+    "updatedAt": "2026-10-18T18:55:14.217628Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+    "question": "No change",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 86.5% | No: 13.5%",
+    "volume": 13449959,
+    "liquidity": 1056344,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 81197,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-october-12-18-2026",
+    "ticker": "will-ethereum-reach-2600-october-12-18-2026",
+    "question": "↑ 2,600",
+    "eventTitle": "What price will Ethereum hit October 12-18?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 181461,
+    "liquidity": 35322,
+    "endDate": "2026-10-19",
+    "dayChange": "-2.40%",
+    "vol24h": 79727,
+    "updatedAt": "2026-10-18T18:55:14.217628Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 7677872,
+    "liquidity": 1800175,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 79160,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-douard-philippe-win-the-2027-french-presidential-election",
+    "question": "Édouard Philippe",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 19.5% | No: 80.5%",
+    "volume": 2358243,
+    "liquidity": 276310,
+    "endDate": "2027-04-19",
+    "dayChange": "2.00%",
+    "vol24h": 74109,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "will-china-invade-taiwan-before-2027",
+    "ticker": "will-china-invade-taiwan-before-2027",
+    "question": "Will China invade Taiwan by end of 2026?",
+    "eventTitle": "Will China invade Taiwan by end of 2026?",
+    "prices": "Yes: 2.1% | No: 98.0%",
+    "volume": 44273905,
+    "liquidity": 490958,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 73341,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-raphal-glucksmann-win-the-2027-french-presidential-election",
+    "question": "Raphaël Glucksmann",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 4.3% | No: 95.8%",
+    "volume": 2709071,
+    "liquidity": 281280,
+    "endDate": "2027-04-19",
+    "dayChange": "0.40%",
+    "vol24h": 73099,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+    "question": "Gadi Eizenkot",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 45.3% | No: 54.7%",
+    "volume": 3246935,
+    "liquidity": 149871,
+    "endDate": "2026-10-28",
+    "dayChange": "-7.15%",
+    "vol24h": 72286,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-october",
+    "ticker": "will-moonshot-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841122",
+    "question": "Moonshot",
+    "eventTitle": "Which company has the best AI model end of October?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 116193,
+    "liquidity": 35014,
+    "endDate": "2026-10-31",
+    "dayChange": "0.05%",
+    "vol24h": 59837,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-october",
+    "ticker": "will-zptai-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841125",
+    "question": "Z.ai",
+    "eventTitle": "Which company has the best AI model end of October?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 107703,
+    "liquidity": 31308,
+    "endDate": "2026-10-31",
+    "dayChange": "0.00%",
+    "vol24h": 50000,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-october-2026",
+    "ticker": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+    "question": "Alphabet",
+    "eventTitle": "Largest Company end of October 2026?",
+    "prices": "Yes: 0.3% | No: 99.7%",
+    "volume": 124741,
+    "liquidity": 18597,
+    "endDate": "2026-11-01",
+    "dayChange": "0.05%",
+    "vol24h": 20580,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-october-2026",
+    "ticker": "will-apple-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+    "question": "Apple",
+    "eventTitle": "Largest Company end of October 2026?",
+    "prices": "Yes: 25.8% | No: 74.3%",
+    "volume": 103902,
+    "liquidity": 32168,
+    "endDate": "2026-11-01",
+    "dayChange": "8.00%",
+    "vol24h": 16286,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-october-2026",
+    "ticker": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+    "question": "NVIDIA",
+    "eventTitle": "Largest Company end of October 2026?",
+    "prices": "Yes: 74.7% | No: 25.3%",
+    "volume": 160817,
+    "liquidity": 17332,
+    "endDate": "2026-11-01",
+    "dayChange": "-7.20%",
+    "vol24h": 11962,
+    "updatedAt": "2026-10-18T18:57:14.653158Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  }
+]
