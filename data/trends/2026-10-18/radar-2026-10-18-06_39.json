@@ -1,0 +1,612 @@
+[
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election",
+    "question": "Flávio Bolsonaro",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 81.3% | No: 18.8%",
+    "volume": 22353636,
+    "liquidity": 816131,
+    "endDate": "2026-10-05",
+    "dayChange": "4.20%",
+    "vol24h": 934577,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election",
+    "ticker": "will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election",
+    "question": "Luiz Inácio Lula da Silva",
+    "eventTitle": "Brazil Presidential Election",
+    "prices": "Yes: 19.5% | No: 80.5%",
+    "volume": 26103647,
+    "liquidity": 852064,
+    "endDate": "2026-10-05",
+    "dayChange": "-4.00%",
+    "vol24h": 778799,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second",
+    "ticker": "will-the-tesla-roadsters-0-60-time-be-less-than-1-second",
+    "question": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+    "eventTitle": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 6110467,
+    "liquidity": 1656022,
+    "endDate": "2026-10-16",
+    "dayChange": "0.00%",
+    "vol24h": 485826,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-before-2027-789-924-249",
+    "question": "December 31",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 5.1% | No: 95.0%",
+    "volume": 42122801,
+    "liquidity": 479636,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 395330,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-october-31-20260917",
+    "question": "October 31",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 81.5% | No: 18.5%",
+    "volume": 3842269,
+    "liquidity": 510278,
+    "endDate": "2026-10-31",
+    "dayChange": "4.00%",
+    "vol24h": 360439,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+    "question": "Benjamin Netanyahu",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 27.5% | No: 72.5%",
+    "volume": 8084995,
+    "liquidity": 457641,
+    "endDate": "2026-10-28",
+    "dayChange": "1.00%",
+    "vol24h": 297671,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-october-18",
+    "question": "October 18",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 98.4% | No: 1.6%",
+    "volume": 421228,
+    "liquidity": 61423,
+    "endDate": "2026-10-19",
+    "dayChange": "3.05%",
+    "vol24h": 258240,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
+    "ticker": "no-hormuz-agreement-by-nov-2",
+    "question": "No Hormuz Agreement",
+    "eventTitle": "Who wins the Senate pending Hormuz Agreement before the midterms?",
+    "prices": "Yes: 90.6% | No: 9.3%",
+    "volume": 515511,
+    "liquidity": 149931,
+    "endDate": "2026-11-04",
+    "dayChange": "-0.95%",
+    "vol24h": 246942,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 6365498,
+    "liquidity": 1107080,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 244571,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-october-18",
+    "question": "October 18",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 99.0% | No: 1.1%",
+    "volume": 603419,
+    "liquidity": 57738,
+    "endDate": "2026-10-19",
+    "dayChange": "2.90%",
+    "vol24h": 195964,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "nato-x-russia-military-clash-in-2025",
+    "ticker": "nato-x-russia-military-clash-by-december-31-2026-244-538-582",
+    "question": "December 31",
+    "eventTitle": "NATO x Russia military clash by...?",
+    "prices": "Yes: 25.5% | No: 74.5%",
+    "volume": 2930121,
+    "liquidity": 114742,
+    "endDate": "2027-01-01",
+    "dayChange": "2.00%",
+    "vol24h": 183866,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "next-press-secretary-announced-byptptpt",
+    "ticker": "next-white-house-press-secretary-announced-by-october-31-2026",
+    "question": "October 31",
+    "eventTitle": "Next Press Secretary announced by...?",
+    "prices": "Yes: 19.5% | No: 80.5%",
+    "volume": 180981,
+    "liquidity": 96721,
+    "endDate": "2026-11-01",
+    "dayChange": "0.00%",
+    "vol24h": 170549,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election-second-round-margin-of-victory",
+    "ticker": "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-812",
+    "question": "Flávio Bolsonaro 8-12%",
+    "eventTitle": "Brazil Presidential Election Second Round: Margin of Victory",
+    "prices": "Yes: 9.1% | No: 90.9%",
+    "volume": 678843,
+    "liquidity": 128767,
+    "endDate": "2026-10-26",
+    "dayChange": "0.35%",
+    "vol24h": 142807,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-other-131",
+    "question": "Other",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 3302507,
+    "liquidity": 177580,
+    "endDate": "2026-11-04",
+    "dayChange": "0.00%",
+    "vol24h": 137124,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-d-senate-d-house-949",
+    "question": "Democrats Sweep",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 62.5% | No: 37.5%",
+    "volume": 5797705,
+    "liquidity": 3303834,
+    "endDate": "2026-11-04",
+    "dayChange": "0.00%",
+    "vol24h": 120603,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "nato-x-russia-military-clash-in-2025",
+    "ticker": "nato-x-russia-military-clash-by-october-31-2026",
+    "question": "October 31",
+    "eventTitle": "NATO x Russia military clash by...?",
+    "prices": "Yes: 9.0% | No: 91.0%",
+    "volume": 1950878,
+    "liquidity": 54204,
+    "endDate": "2026-11-01",
+    "dayChange": "2.50%",
+    "vol24h": 114425,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-senate-in-2026",
+    "ticker": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+    "question": "Republican Party",
+    "eventTitle": "Which party will win the Senate in 2026?",
+    "prices": "Yes: 37.5% | No: 62.5%",
+    "volume": 3046885,
+    "liquidity": 3639703,
+    "endDate": "2026-11-04",
+    "dayChange": "1.00%",
+    "vol24h": 104176,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-through-the-midterms",
+    "ticker": "us-iran-ceasefire-continues-through-the-midterms",
+    "question": "US-Iran ceasefire continues through the midterms?",
+    "eventTitle": "US-Iran ceasefire continues through the midterms?",
+    "prices": "Yes: 77.5% | No: 22.5%",
+    "volume": 534591,
+    "liquidity": 442546,
+    "endDate": "2026-11-04",
+    "dayChange": "3.00%",
+    "vol24h": 103773,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "brazil-presidential-election-second-round-margin-of-victory",
+    "ticker": "will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
+    "question": "Lula da Silva <4%",
+    "eventTitle": "Brazil Presidential Election Second Round: Margin of Victory",
+    "prices": "Yes: 18.5% | No: 81.5%",
+    "volume": 226951,
+    "liquidity": 93929,
+    "endDate": "2026-10-26",
+    "dayChange": "-2.00%",
+    "vol24h": 86288,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-house-in-2026",
+    "ticker": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+    "question": "Democratic Party",
+    "eventTitle": "Which party will win the House in 2026?",
+    "prices": "Yes: 90.5% | No: 9.5%",
+    "volume": 10617115,
+    "liquidity": 2970337,
+    "endDate": "2026-11-04",
+    "dayChange": "0.00%",
+    "vol24h": 78162,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-october-12-18-2026",
+    "ticker": "will-ethereum-reach-2600-october-12-18-2026",
+    "question": "↑ 2,600",
+    "eventTitle": "What price will Ethereum hit October 12-18?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 164056,
+    "liquidity": 37450,
+    "endDate": "2026-10-19",
+    "dayChange": "-1.25%",
+    "vol24h": 78077,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-r-senate-r-house-537",
+    "question": "Republicans Sweep",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 8.5% | No: 91.5%",
+    "volume": 7708938,
+    "liquidity": 2697930,
+    "endDate": "2026-11-04",
+    "dayChange": "0.00%",
+    "vol24h": 74415,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bab-el-mandeb-strait-effectively-closed-by",
+    "ticker": "bab-el-mandeb-strait-effectively-closed-by-october-31",
+    "question": "October 31",
+    "eventTitle": "Bab el-Mandeb Strait effectively closed by...?",
+    "prices": "Yes: 5.7% | No: 94.3%",
+    "volume": 1406682,
+    "liquidity": 91633,
+    "endDate": "2026-11-01",
+    "dayChange": "0.85%",
+    "vol24h": 73078,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 7578298,
+    "liquidity": 860361,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 71676,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
+    "ticker": "hormuz-agreement-by-nov-2-and-the-republicans-win-the-senate",
+    "question": "Hormuz Agreement; R Senate",
+    "eventTitle": "Who wins the Senate pending Hormuz Agreement before the midterms?",
+    "prices": "Yes: 3.6% | No: 96.4%",
+    "volume": 225081,
+    "liquidity": 352848,
+    "endDate": "2026-11-04",
+    "dayChange": "0.70%",
+    "vol24h": 71466,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-october-21",
+    "question": "October 21",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 96.4% | No: 3.6%",
+    "volume": 419781,
+    "liquidity": 79528,
+    "endDate": "2026-10-22",
+    "dayChange": "4.35%",
+    "vol24h": 68069,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-jb-pritzker-win-the-2028-us-presidential-election",
+    "question": "JB Pritzker",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.6% | No: 99.4%",
+    "volume": 13182986,
+    "liquidity": 424258,
+    "endDate": "2028-11-08",
+    "dayChange": "0.05%",
+    "vol24h": 66460,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+    "question": "No change",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 86.5% | No: 13.5%",
+    "volume": 13398842,
+    "liquidity": 1205562,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 63434,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 7644411,
+    "liquidity": 1763556,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 57094,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-october-22",
+    "question": "October 22",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 93.5% | No: 6.5%",
+    "volume": 158444,
+    "liquidity": 90495,
+    "endDate": "2026-10-23",
+    "dayChange": "4.00%",
+    "vol24h": 56360,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-october-18-2026",
+    "ticker": "bitcoin-above-80k-on-october-18-2026",
+    "question": "80,000",
+    "eventTitle": "Bitcoin above ___ on October 18?",
+    "prices": "Yes: 99.1% | No: 0.9%",
+    "volume": 96588,
+    "liquidity": 45284,
+    "endDate": "2026-10-18",
+    "dayChange": "4.10%",
+    "vol24h": 53853,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-october-12-18-2026",
+    "ticker": "will-bitcoin-reach-84k-october-12-18-2026-from-october-14",
+    "question": "↑ 84,000",
+    "eventTitle": "What price will Bitcoin hit October 12-18?",
+    "prices": "Yes: 3.9% | No: 96.1%",
+    "volume": 72814,
+    "liquidity": 39840,
+    "endDate": "2026-10-19",
+    "dayChange": "-4.10%",
+    "vol24h": 48962,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-october-2026",
+    "ticker": "will-wti-reach-120-in-october-2026",
+    "question": "↑ $120",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in October 2026?",
+    "prices": "Yes: 4.0% | No: 96.0%",
+    "volume": 199867,
+    "liquidity": 54528,
+    "endDate": "2026-11-01",
+    "dayChange": "0.30%",
+    "vol24h": 13882,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-october-2026",
+    "ticker": "will-wti-dip-to-65-in-october-2026",
+    "question": "↓ $65",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in October 2026?",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 108470,
+    "liquidity": 63327,
+    "endDate": "2026-11-01",
+    "dayChange": "-0.20%",
+    "vol24h": 3600,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-october-2026",
+    "ticker": "will-wti-dip-to-70-in-october-2026",
+    "question": "↓ $70",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in October 2026?",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 55086,
+    "liquidity": 52397,
+    "endDate": "2026-11-01",
+    "dayChange": "-0.25%",
+    "vol24h": 2386,
+    "updatedAt": "2026-10-18T06:37:13.589467Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
