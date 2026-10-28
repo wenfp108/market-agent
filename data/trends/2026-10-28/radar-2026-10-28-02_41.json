@@ -1,0 +1,695 @@
+[
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+    "question": "Benjamin Netanyahu",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 51.5% | No: 48.5%",
+    "volume": 24396773,
+    "liquidity": 560388,
+    "endDate": "2026-10-28",
+    "dayChange": "25.00%",
+    "vol24h": 10913084,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "israeli-legislative-election-winner",
+    "ticker": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election",
+    "question": "Likud",
+    "eventTitle": "Israeli Legislative Election Winner",
+    "prices": "Yes: 98.8% | No: 1.3%",
+    "volume": 7122983,
+    "liquidity": 162609,
+    "endDate": "2026-10-28",
+    "dayChange": "68.25%",
+    "vol24h": 5384431,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israeli-legislative-election-winner",
+    "ticker": "will-yashar-win-the-most-seats-in-the-2026-israeli-legislative-election",
+    "question": "Yashar",
+    "eventTitle": "Israeli Legislative Election Winner",
+    "prices": "Yes: 0.3% | No: 99.7%",
+    "volume": 3896123,
+    "liquidity": 192194,
+    "endDate": "2026-10-28",
+    "dayChange": "-69.20%",
+    "vol24h": 2729860,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 3.7% | No: 96.3%",
+    "volume": 19311697,
+    "liquidity": 2052961,
+    "endDate": "2026-10-29",
+    "dayChange": "-2.80%",
+    "vol24h": 2633069,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+    "question": "No change",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 96.0% | No: 4.0%",
+    "volume": 26491080,
+    "liquidity": 2400492,
+    "endDate": "2026-10-29",
+    "dayChange": "2.30%",
+    "vol24h": 2541505,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 12593257,
+    "liquidity": 430025,
+    "endDate": "2026-10-29",
+    "dayChange": "0.10%",
+    "vol24h": 2011597,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-election-likud-of-seats",
+    "ticker": "will-likud-win-30-34-seats-in-the-2026-israeli-legislative-election",
+    "question": "30-34",
+    "eventTitle": "Israel Election: Likud # of seats?",
+    "prices": "Yes: 6.3% | No: 93.7%",
+    "volume": 2158625,
+    "liquidity": 112559,
+    "endDate": "2026-10-28",
+    "dayChange": "-2.55%",
+    "vol24h": 1559406,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israeli-legislative-election-winner",
+    "ticker": "will-together-win-the-most-seats-in-the-2026-israeli-legislative-election",
+    "question": "Together",
+    "eventTitle": "Israeli Legislative Election Winner",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 2336958,
+    "liquidity": 390160,
+    "endDate": "2026-10-28",
+    "dayChange": "-0.20%",
+    "vol24h": 1206457,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+    "question": "Gadi Eizenkot",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 23.9% | No: 76.0%",
+    "volume": 5772385,
+    "liquidity": 147422,
+    "endDate": "2026-10-28",
+    "dayChange": "-30.45%",
+    "vol24h": 1203317,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-election-likud-of-seats",
+    "ticker": "will-likud-win-25-29-seats-in-the-2026-israeli-legislative-election",
+    "question": "25-29",
+    "eventTitle": "Israel Election: Likud # of seats?",
+    "prices": "Yes: 92.5% | No: 7.5%",
+    "volume": 1334038,
+    "liquidity": 54444,
+    "endDate": "2026-10-28",
+    "dayChange": "73.50%",
+    "vol24h": 1001644,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-naftali-bennett-be-the-next-prime-minister-of-israel",
+    "question": "Naftali Bennett",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 6.5% | No: 93.5%",
+    "volume": 5299610,
+    "liquidity": 163287,
+    "endDate": "2026-10-28",
+    "dayChange": "-3.00%",
+    "vol24h": 931782,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-elon-musk-win-the-2028-us-presidential-election",
+    "question": "Elon Musk",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 28277455,
+    "liquidity": 993549,
+    "endDate": "2028-11-08",
+    "dayChange": "0.20%",
+    "vol24h": 692025,
+    "updatedAt": "2026-10-28T02:38:02.302804Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-avigdor-lieberman-be-the-next-prime-minister-of-israel",
+    "question": "Avigdor Lieberman",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 2.5% | No: 97.5%",
+    "volume": 4382998,
+    "liquidity": 119342,
+    "endDate": "2026-10-28",
+    "dayChange": "0.65%",
+    "vol24h": 653107,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-october-20260617190323537",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in October?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 13275244,
+    "liquidity": 1229880,
+    "endDate": "2026-10-29",
+    "dayChange": "0.00%",
+    "vol24h": 622628,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "france-declares-state-of-emergency-byptptpt",
+    "ticker": "france-declares-state-of-emergency-by-december-31-2026",
+    "question": "December 31",
+    "eventTitle": "France declares state of emergency by...?",
+    "prices": "Yes: 6.5% | No: 93.5%",
+    "volume": 2057050,
+    "liquidity": 114880,
+    "endDate": "2027-01-01",
+    "dayChange": "-3.00%",
+    "vol24h": 600840,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israel-election-likud-of-seats",
+    "ticker": "will-likud-win-35-or-more-seats-in-the-2026-israeli-legislative-election",
+    "question": "35+",
+    "eventTitle": "Israel Election: Likud # of seats?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 613752,
+    "liquidity": 51093,
+    "endDate": "2026-10-28",
+    "dayChange": "-0.90%",
+    "vol24h": 463177,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-other-131",
+    "question": "Other",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 5043888,
+    "liquidity": 639898,
+    "endDate": "2026-11-04",
+    "dayChange": "-0.10%",
+    "vol24h": 457494,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-senate-in-2026",
+    "ticker": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+    "question": "Democratic Party",
+    "eventTitle": "Which party will win the Senate in 2026?",
+    "prices": "Yes: 66.5% | No: 33.5%",
+    "volume": 5885852,
+    "liquidity": 838349,
+    "endDate": "2026-11-04",
+    "dayChange": "1.00%",
+    "vol24h": 428961,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-elon-musk-win-the-2028-republican-presidential-nomination",
+    "question": "Elon Musk",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.7% | No: 99.4%",
+    "volume": 31970613,
+    "liquidity": 815111,
+    "endDate": "2028-11-08",
+    "dayChange": "0.50%",
+    "vol24h": 420203,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-election-likud-of-seats",
+    "ticker": "will-likud-win-20-24-seats-in-the-2026-israeli-legislative-election",
+    "question": "20-24",
+    "eventTitle": "Israel Election: Likud # of seats?",
+    "prices": "Yes: 2.1% | No: 98.0%",
+    "volume": 518469,
+    "liquidity": 55966,
+    "endDate": "2026-10-28",
+    "dayChange": "-37.95%",
+    "vol24h": 384448,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-election-any-coalition-wins-a-majority",
+    "ticker": "israel-election-any-coalition-wins-a-majority",
+    "question": "Israel Election: Any Coalition Wins a Majority?",
+    "eventTitle": "Israel Election: Any Coalition Wins a Majority?",
+    "prices": "Yes: 6.0% | No: 94.0%",
+    "volume": 422305,
+    "liquidity": 60152,
+    "endDate": "2026-10-28",
+    "dayChange": "-5.95%",
+    "vol24h": 374350,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-october-31-20260917",
+    "question": "October 31",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 94.5% | No: 5.5%",
+    "volume": 7237731,
+    "liquidity": 167786,
+    "endDate": "2026-10-31",
+    "dayChange": "4.00%",
+    "vol24h": 302590,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-senate-in-2026",
+    "ticker": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+    "question": "Republican Party",
+    "eventTitle": "Which party will win the Senate in 2026?",
+    "prices": "Yes: 33.5% | No: 66.5%",
+    "volume": 4206031,
+    "liquidity": 1066388,
+    "endDate": "2026-11-04",
+    "dayChange": "-1.00%",
+    "vol24h": 288114,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israel-election-likud-of-seats",
+    "ticker": "will-likud-win-fewer-than-20-seats-in-the-2026-israeli-legislative-election",
+    "question": "<20",
+    "eventTitle": "Israel Election: Likud # of seats?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 536338,
+    "liquidity": 78553,
+    "endDate": "2026-10-28",
+    "dayChange": "-28.35%",
+    "vol24h": 285089,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-israel-katz-be-the-next-prime-minister-of-israel",
+    "question": "Israel Katz",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 1.3% | No: 98.8%",
+    "volume": 1497829,
+    "liquidity": 110901,
+    "endDate": "2026-10-28",
+    "dayChange": "0.80%",
+    "vol24h": 249656,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-amir-ohana-be-the-next-prime-minister-of-israel",
+    "question": "Amir Ohana",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 3120360,
+    "liquidity": 215039,
+    "endDate": "2026-10-28",
+    "dayChange": "0.10%",
+    "vol24h": 240597,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-house-in-2026",
+    "ticker": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+    "question": "Democratic Party",
+    "eventTitle": "Which party will win the House in 2026?",
+    "prices": "Yes: 91.5% | No: 8.5%",
+    "volume": 13881607,
+    "liquidity": 4055574,
+    "endDate": "2026-11-04",
+    "dayChange": "0.00%",
+    "vol24h": 238865,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-yossi-cohen-be-the-next-prime-minister-of-israel",
+    "question": "Yossi Cohen",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 4052447,
+    "liquidity": 530755,
+    "endDate": "2026-10-28",
+    "dayChange": "-0.10%",
+    "vol24h": 214786,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-john-thune-win-the-2028-republican-presidential-nomination",
+    "question": "John Thune",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 38610496,
+    "liquidity": 1747216,
+    "endDate": "2028-11-08",
+    "dayChange": "0.00%",
+    "vol24h": 210005,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-r-senate-r-house-537",
+    "question": "Republicans Sweep",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 12483100,
+    "liquidity": 2910600,
+    "endDate": "2026-11-04",
+    "dayChange": "0.00%",
+    "vol24h": 202424,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-october-2026",
+    "ticker": "will-bitcoin-reach-85k-in-october-2026-from-october-7",
+    "question": "↑ 85,000",
+    "eventTitle": "What price will Bitcoin hit in October?",
+    "prices": "Yes: 17.5% | No: 82.5%",
+    "volume": 646790,
+    "liquidity": 68721,
+    "endDate": "2026-11-01",
+    "dayChange": "4.00%",
+    "vol24h": 125758,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-october-2026",
+    "ticker": "will-bitcoin-dip-to-77pt5k-in-october-2026",
+    "question": "↓ 77,500",
+    "eventTitle": "What price will Bitcoin hit in October?",
+    "prices": "Yes: 20.5% | No: 79.5%",
+    "volume": 883846,
+    "liquidity": 109614,
+    "endDate": "2026-11-01",
+    "dayChange": "-25.00%",
+    "vol24h": 124490,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-october-2026",
+    "ticker": "will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
+    "question": "↑ 82,500",
+    "eventTitle": "What price will Bitcoin hit in October?",
+    "prices": "Yes: 54.5% | No: 45.5%",
+    "volume": 221383,
+    "liquidity": 58672,
+    "endDate": "2026-11-01",
+    "dayChange": "12.00%",
+    "vol24h": 93105,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "scotus-accepts-sports-event-contract-case-by-july-31-2026",
+    "ticker": "scotus-accepts-sports-event-contract-case-by-december-31-2026",
+    "question": "December 31",
+    "eventTitle": "SCOTUS accepts sports event contract case by...?     ",
+    "prices": "Yes: 30.0% | No: 70.0%",
+    "volume": 165801,
+    "liquidity": 31961,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.00%",
+    "vol24h": 77156,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "POLITICS | TECH | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-october",
+    "ticker": "will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120",
+    "question": "Google",
+    "eventTitle": "Which company has the best AI model end of October?",
+    "prices": "Yes: 95.3% | No: 4.7%",
+    "volume": 865096,
+    "liquidity": 43554,
+    "endDate": "2026-10-31",
+    "dayChange": "8.40%",
+    "vol24h": 54912,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-october",
+    "ticker": "will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118",
+    "question": "Anthropic",
+    "eventTitle": "Which company has the best AI model end of October?",
+    "prices": "Yes: 3.5% | No: 96.5%",
+    "volume": 909739,
+    "liquidity": 91835,
+    "endDate": "2026-10-31",
+    "dayChange": "-5.20%",
+    "vol24h": 49158,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-by",
+    "ticker": "will-anthropic-ipo-by-october-31-2026-213",
+    "question": "October 31, 2026",
+    "eventTitle": "Anthropic IPO by __?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1480161,
+    "liquidity": 98545,
+    "endDate": "2026-11-01",
+    "dayChange": "-0.10%",
+    "vol24h": 29064,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-october-2026",
+    "ticker": "will-wti-reach-150-in-october-2026",
+    "question": "↑ $150",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in October 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 276918,
+    "liquidity": 124304,
+    "endDate": "2026-11-01",
+    "dayChange": "-0.10%",
+    "vol24h": 16656,
+    "updatedAt": "2026-10-28T02:38:02.302804Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-october-2026",
+    "ticker": "will-wti-reach-120-in-october-2026",
+    "question": "↑ $120",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in October 2026?",
+    "prices": "Yes: 1.6% | No: 98.4%",
+    "volume": 482110,
+    "liquidity": 146908,
+    "endDate": "2026-11-01",
+    "dayChange": "0.35%",
+    "vol24h": 5507,
+    "updatedAt": "2026-10-28T02:40:02.282082Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
