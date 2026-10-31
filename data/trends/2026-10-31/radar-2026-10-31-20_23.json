@@ -1,0 +1,702 @@
+[
+  {
+    "slug": "which-party-will-win-the-house-in-2026",
+    "ticker": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+    "question": "Democratic Party",
+    "eventTitle": "Which party will win the House in 2026?",
+    "prices": "Yes: 94.5% | No: 5.5%",
+    "volume": 18884639,
+    "liquidity": 8933983,
+    "endDate": "2026-11-04",
+    "dayChange": "1.00%",
+    "vol24h": 1501389,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-ia-ks",
+    "question": "IA, KS",
+    "eventTitle": "Which Senate Swing States will Republicans win?",
+    "prices": "Yes: 11.5% | No: 88.5%",
+    "volume": 1426059,
+    "liquidity": 1496091,
+    "endDate": "2026-11-03",
+    "dayChange": "4.00%",
+    "vol24h": 1399323,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "michigan-senate-election-winner",
+    "ticker": "will-the-democrats-win-the-michigan-senate-race-in-2026",
+    "question": "Abdul El-Sayed (D)",
+    "eventTitle": "Michigan Senate Election Winner",
+    "prices": "Yes: 80.5% | No: 19.5%",
+    "volume": 2929526,
+    "liquidity": 426939,
+    "endDate": "2026-11-04",
+    "dayChange": "4.00%",
+    "vol24h": 916964,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "michigan-senate-election-winner",
+    "ticker": "will-the-republicans-win-the-michigan-senate-race-in-2026",
+    "question": "Mike Rogers (R)",
+    "eventTitle": "Michigan Senate Election Winner",
+    "prices": "Yes: 19.5% | No: 80.5%",
+    "volume": 2504135,
+    "liquidity": 430101,
+    "endDate": "2026-11-04",
+    "dayChange": "-3.00%",
+    "vol24h": 878207,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-ia",
+    "question": "IA",
+    "eventTitle": "Which Senate Swing States will Republicans win?",
+    "prices": "Yes: 10.8% | No: 89.3%",
+    "volume": 857933,
+    "liquidity": 1038893,
+    "endDate": "2026-11-03",
+    "dayChange": "1.70%",
+    "vol24h": 843254,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-d-senate-d-house-949",
+    "question": "Democrats Sweep",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 70.5% | No: 29.5%",
+    "volume": 11392018,
+    "liquidity": 5873894,
+    "endDate": "2026-11-04",
+    "dayChange": "0.00%",
+    "vol24h": 618020,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "will-1win-launch-a-token-by",
+    "ticker": "will-1win-launch-a-token-by-october-31-2026",
+    "question": "October 31, 2026",
+    "eventTitle": "Will 1win launch a token by ___?",
+    "prices": "Yes: 99.1% | No: 0.9%",
+    "volume": 620453,
+    "liquidity": 127537,
+    "endDate": "2026-11-01",
+    "dayChange": "86.60%",
+    "vol24h": 606636,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "nebraska-senate-election-winner",
+    "ticker": "will-the-republicans-win-the-nebraska-senate-race-in-2026",
+    "question": "Pete Ricketts (R)",
+    "eventTitle": "Nebraska Senate Election Winner  ",
+    "prices": "Yes: 74.5% | No: 25.5%",
+    "volume": 1157529,
+    "liquidity": 191639,
+    "endDate": "2026-11-04",
+    "dayChange": "7.00%",
+    "vol24h": 468241,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+    "question": "Benjamin Netanyahu",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 43.0% | No: 57.0%",
+    "volume": 30742549,
+    "liquidity": 379523,
+    "endDate": "2026-10-28",
+    "dayChange": "0.50%",
+    "vol24h": 344470,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-house-in-2026",
+    "ticker": "will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
+    "question": "Republican Party",
+    "eventTitle": "Which party will win the House in 2026?",
+    "prices": "Yes: 5.5% | No: 94.5%",
+    "volume": 15529757,
+    "liquidity": 7045107,
+    "endDate": "2026-11-04",
+    "dayChange": "-1.00%",
+    "vol24h": 330665,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "texas-senate-election-winner",
+    "ticker": "will-the-republicans-win-the-texas-senate-race-in-2026",
+    "question": "Ken Paxton (R)",
+    "eventTitle": "Texas Senate Election Winner",
+    "prices": "Yes: 29.5% | No: 70.5%",
+    "volume": 5464154,
+    "liquidity": 1188231,
+    "endDate": "2026-11-04",
+    "dayChange": "1.00%",
+    "vol24h": 329791,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "nebraska-senate-election-winner",
+    "ticker": "will-an-independent-win-the-nebraska-senate-race-in-2026",
+    "question": "Independent",
+    "eventTitle": "Nebraska Senate Election Winner  ",
+    "prices": "Yes: 25.5% | No: 74.5%",
+    "volume": 769043,
+    "liquidity": 232995,
+    "endDate": "2026-11-04",
+    "dayChange": "-7.00%",
+    "vol24h": 304920,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-none",
+    "question": "None",
+    "eventTitle": "Which Senate Swing States will Republicans win?",
+    "prices": "Yes: 22.5% | No: 77.5%",
+    "volume": 375605,
+    "liquidity": 2499807,
+    "endDate": "2026-11-03",
+    "dayChange": "-2.00%",
+    "vol24h": 300871,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-senate-in-2026",
+    "ticker": "will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+    "question": "Republican Party",
+    "eventTitle": "Which party will win the Senate in 2026?",
+    "prices": "Yes: 28.5% | No: 71.5%",
+    "volume": 6372125,
+    "liquidity": 3299252,
+    "endDate": "2026-11-04",
+    "dayChange": "-1.00%",
+    "vol24h": 280727,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-r-senate-r-house-537",
+    "question": "Republicans Sweep",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 4.5% | No: 95.5%",
+    "volume": 15049149,
+    "liquidity": 4295799,
+    "endDate": "2026-11-04",
+    "dayChange": "-1.00%",
+    "vol24h": 271757,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-christine-lagarde-win-the-2027-french-presidential-election",
+    "question": "Christine Lagarde",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 4.7% | No: 95.3%",
+    "volume": 2001764,
+    "liquidity": 95588,
+    "endDate": "2027-04-19",
+    "dayChange": "1.75%",
+    "vol24h": 252865,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-ia-oh",
+    "question": "IA, OH",
+    "eventTitle": "Which Senate Swing States will Republicans win?",
+    "prices": "Yes: 2.1% | No: 98.0%",
+    "volume": 254648,
+    "liquidity": 761914,
+    "endDate": "2026-11-03",
+    "dayChange": "1.95%",
+    "vol24h": 250963,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "california-governor-election-2026",
+    "ticker": "will-steve-hilton-win-the-california-governor-election-in-2026",
+    "question": "Steve Hilton",
+    "eventTitle": "California Governor Election Winner",
+    "prices": "Yes: 1.6% | No: 98.5%",
+    "volume": 4294921,
+    "liquidity": 731278,
+    "endDate": "2026-11-04",
+    "dayChange": "-0.90%",
+    "vol24h": 234776,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-oh",
+    "question": "OH",
+    "eventTitle": "Which Senate Swing States will Republicans win?",
+    "prices": "Yes: 1.7% | No: 98.4%",
+    "volume": 236808,
+    "liquidity": 1251892,
+    "endDate": "2026-11-03",
+    "dayChange": "0.75%",
+    "vol24h": 233233,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-david-lisnard-win-the-2027-french-presidential-election",
+    "question": "David Lisnard",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 17.2% | No: 82.8%",
+    "volume": 6012312,
+    "liquidity": 245828,
+    "endDate": "2027-04-19",
+    "dayChange": "1.00%",
+    "vol24h": 215383,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-party-will-win-the-senate-in-2026",
+    "ticker": "will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+    "question": "Democratic Party",
+    "eventTitle": "Which party will win the Senate in 2026?",
+    "prices": "Yes: 71.5% | No: 28.5%",
+    "volume": 7071522,
+    "liquidity": 3253513,
+    "endDate": "2026-11-04",
+    "dayChange": "1.00%",
+    "vol24h": 213717,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696",
+    "question": "October 31",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 1.3% | No: 98.7%",
+    "volume": 6930466,
+    "liquidity": 77898,
+    "endDate": "2026-11-01",
+    "dayChange": "-3.65%",
+    "vol24h": 209607,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "texas-senate-election-winner",
+    "ticker": "will-the-democrats-win-the-texas-senate-race-in-2026",
+    "question": "James Talarico (D)",
+    "eventTitle": "Texas Senate Election Winner",
+    "prices": "Yes: 70.5% | No: 29.5%",
+    "volume": 3789263,
+    "liquidity": 1087616,
+    "endDate": "2026-11-04",
+    "dayChange": "-1.00%",
+    "vol24h": 201088,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-november-8",
+    "question": "November 8",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 71.5% | No: 28.5%",
+    "volume": 1039956,
+    "liquidity": 89321,
+    "endDate": "2026-11-09",
+    "dayChange": "-4.00%",
+    "vol24h": 191149,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-tx",
+    "question": "TX",
+    "eventTitle": "Which Senate Swing States will Republicans win?",
+    "prices": "Yes: 0.9% | No: 99.2%",
+    "volume": 191296,
+    "liquidity": 1180958,
+    "endDate": "2026-11-03",
+    "dayChange": "0.40%",
+    "vol24h": 185685,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-me",
+    "question": "ME",
+    "eventTitle": "Which Senate Swing States will Republicans win?",
+    "prices": "Yes: 1.8% | No: 98.2%",
+    "volume": 185866,
+    "liquidity": 1901546,
+    "endDate": "2026-11-03",
+    "dayChange": "0.15%",
+    "vol24h": 180745,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "florida-governor-winner-2026",
+    "ticker": "will-the-republicans-win-the-florida-governor-race-in-2026",
+    "question": "Byron Donalds (R) ",
+    "eventTitle": "Florida Governor Election Winner",
+    "prices": "Yes: 65.5% | No: 34.5%",
+    "volume": 539938,
+    "liquidity": 245315,
+    "endDate": "2026-11-04",
+    "dayChange": "-2.00%",
+    "vol24h": 165774,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "florida-governor-winner-2026",
+    "ticker": "will-the-democrats-win-the-florida-governor-race-in-2026",
+    "question": "David Jolly (D)",
+    "eventTitle": "Florida Governor Election Winner",
+    "prices": "Yes: 34.5% | No: 65.5%",
+    "volume": 510317,
+    "liquidity": 300132,
+    "endDate": "2026-11-04",
+    "dayChange": "2.00%",
+    "vol24h": 162739,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-october-2026",
+    "ticker": "will-bitcoin-dip-to-75k-in-october-2026",
+    "question": "↓ 75,000",
+    "eventTitle": "What price will Bitcoin hit in October?",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 1334398,
+    "liquidity": 118379,
+    "endDate": "2026-11-01",
+    "dayChange": "-14.60%",
+    "vol24h": 162340,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-ak-ks-tx",
+    "question": "AK, KS, TX",
+    "eventTitle": "Which Senate Swing States will Republicans win?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 159343,
+    "liquidity": 1210926,
+    "endDate": "2026-11-03",
+    "dayChange": "0.15%",
+    "vol24h": 158849,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "question": "Strait of Hormuz traffic returns to normal by December 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by December 31?",
+    "prices": "Yes: 11.5% | No: 88.5%",
+    "volume": 16056106,
+    "liquidity": 323156,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 149289,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-october-26-november-1-2026",
+    "ticker": "will-ethereum-reach-2400-october-26-november-1-2026",
+    "question": "↑ 2,400",
+    "eventTitle": "What price will Ethereum hit October 26-November 1?",
+    "prices": "Yes: 2.9% | No: 97.0%",
+    "volume": 192671,
+    "liquidity": 39658,
+    "endDate": "2026-11-02",
+    "dayChange": "-0.10%",
+    "vol24h": 113899,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 1.6% | No: 98.5%",
+    "volume": 1336584,
+    "liquidity": 182041,
+    "endDate": "2026-12-09",
+    "dayChange": "0.00%",
+    "vol24h": 80137,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 70.5% | No: 29.5%",
+    "volume": 2353928,
+    "liquidity": 683282,
+    "endDate": "2026-12-09",
+    "dayChange": "1.00%",
+    "vol24h": 73143,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-2026",
+    "ticker": "will-mistral-have-the-best-ai-model-at-the-end-of-december-2026",
+    "question": "Mistral",
+    "eventTitle": "Which company has best AI model end of 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 285295,
+    "liquidity": 129416,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.10%",
+    "vol24h": 45841,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-2026",
+    "ticker": "will-bytedance-have-the-best-ai-model-at-the-end-of-december-2026",
+    "question": "ByteDance",
+    "eventTitle": "Which company has best AI model end of 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 186071,
+    "liquidity": 113793,
+    "endDate": "2026-12-31",
+    "dayChange": "-0.10%",
+    "vol24h": 35371,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-databricks-have-the-highest-ipo-market-cap-2026-418",
+    "question": "Databricks",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 660688,
+    "liquidity": 58768,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 32000,
+    "updatedAt": "2026-10-31T20:20:16.572805Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-discord-have-the-highest-ipo-market-cap-2026-121",
+    "question": "Discord",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 233999,
+    "liquidity": 53260,
+    "endDate": "2027-01-02",
+    "dayChange": "0.00%",
+    "vol24h": 30050,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-company-has-best-ai-model-end-of-2026",
+    "ticker": "will-zai-have-the-best-ai-model-at-the-end-of-december-2026",
+    "question": "Z.ai",
+    "eventTitle": "Which company has best AI model end of 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 227220,
+    "liquidity": 94193,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 29924,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-openai-have-the-highest-ipo-market-cap-2026-734",
+    "question": "OpenAI",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 612464,
+    "liquidity": 107433,
+    "endDate": "2026-12-31",
+    "dayChange": "0.00%",
+    "vol24h": 5115,
+    "updatedAt": "2026-10-31T20:22:15.846287Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
