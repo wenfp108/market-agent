@@ -1,0 +1,692 @@
+[
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-d-senate-d-house-949",
+    "question": "Democrats Sweep",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 20156787,
+    "liquidity": 2051944,
+    "endDate": "2026-11-04",
+    "dayChange": "24.45%",
+    "vol24h": 4377308,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-r-senate-r-house-537",
+    "question": "Republicans Sweep",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 26226830,
+    "liquidity": 1851294,
+    "endDate": "2026-11-04",
+    "dayChange": "-4.45%",
+    "vol24h": 4120769,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-none",
+    "question": "None",
+    "eventTitle": "Which Senate Swing States will Republicans win? (Build Your Map)",
+    "prices": "Yes: 93.7% | No: 6.3%",
+    "volume": 9697431,
+    "liquidity": 177198,
+    "endDate": "2026-11-03",
+    "dayChange": "60.15%",
+    "vol24h": 3521631,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-r-senate-d-house-444",
+    "question": "R Senate, D House",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 10578461,
+    "liquidity": 1800930,
+    "endDate": "2026-11-04",
+    "dayChange": "-19.45%",
+    "vol24h": 2752817,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "mississippi-senate-election-winner",
+    "ticker": "will-the-republicans-win-the-mississippi-senate-race-in-2026",
+    "question": "Cindy Hyde-Smith (R)",
+    "eventTitle": "Mississippi Senate Election Winner",
+    "prices": "Yes: 7.7% | No: 92.3%",
+    "volume": 2561710,
+    "liquidity": 142603,
+    "endDate": "2026-11-04",
+    "dayChange": "-80.80%",
+    "vol24h": 1914404,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "alaska-senate-election-winner",
+    "ticker": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
+    "question": "Mary Peltola (D)",
+    "eventTitle": "Alaska Senate Election Winner",
+    "prices": "Yes: 93.7% | No: 6.3%",
+    "volume": 3058243,
+    "liquidity": 73731,
+    "endDate": "2026-11-04",
+    "dayChange": "24.15%",
+    "vol24h": 1490357,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "mississippi-senate-election-winner",
+    "ticker": "will-the-democrats-win-the-mississippi-senate-race-in-2026",
+    "question": "Scott Colom (D)",
+    "eventTitle": "Mississippi Senate Election Winner",
+    "prices": "Yes: 92.5% | No: 7.5%",
+    "volume": 1780255,
+    "liquidity": 72270,
+    "endDate": "2026-11-04",
+    "dayChange": "81.00%",
+    "vol24h": 1439135,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "balance-of-power-2026-midterms",
+    "ticker": "2026-balance-of-power-d-senate-r-house-692",
+    "question": "D Senate, R House",
+    "eventTitle": "Balance of Power: 2026 Midterms",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 11876556,
+    "liquidity": 1447053,
+    "endDate": "2026-11-04",
+    "dayChange": "-0.60%",
+    "vol24h": 1237481,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-before-2027-789-924-249",
+    "question": "December 31",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 1.9% | No: 98.0%",
+    "volume": 44648770,
+    "liquidity": 1729716,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.20%",
+    "vol24h": 1192985,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-ia",
+    "question": "IA",
+    "eventTitle": "Which Senate Swing States will Republicans win? (Build Your Map)",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 3501032,
+    "liquidity": 114712,
+    "endDate": "2026-11-03",
+    "dayChange": "-9.90%",
+    "vol24h": 1013384,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-ak",
+    "question": "AK",
+    "eventTitle": "Which Senate Swing States will Republicans win? (Build Your Map)",
+    "prices": "Yes: 6.6% | No: 93.5%",
+    "volume": 1410659,
+    "liquidity": 22972,
+    "endDate": "2026-11-03",
+    "dayChange": "4.55%",
+    "vol24h": 907334,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "alaska-senate-election-winner",
+    "ticker": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+    "question": "Sen. Dan Sullivan (R)",
+    "eventTitle": "Alaska Senate Election Winner",
+    "prices": "Yes: 6.5% | No: 93.5%",
+    "volume": 1963365,
+    "liquidity": 117940,
+    "endDate": "2026-11-04",
+    "dayChange": "-23.00%",
+    "vol24h": 816054,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-october-31-20260917",
+    "question": "October 31",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 11027699,
+    "liquidity": 1316704,
+    "endDate": "2026-10-31",
+    "dayChange": "15.20%",
+    "vol24h": 809467,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-john-mcentee-win-the-2028-republican-presidential-nomination",
+    "question": "John McEntee",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 1354535,
+    "liquidity": 127716,
+    "endDate": "2028-11-07",
+    "dayChange": "0.10%",
+    "vol24h": 723211,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-ia-ks",
+    "question": "IA, KS",
+    "eventTitle": "Which Senate Swing States will Republicans win? (Build Your Map)",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 3335763,
+    "liquidity": 237684,
+    "endDate": "2026-11-03",
+    "dayChange": "-5.45%",
+    "vol24h": 698489,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+    "question": "Benjamin Netanyahu",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 28.8% | No: 71.2%",
+    "volume": 33135934,
+    "liquidity": 377991,
+    "endDate": "2026-10-28",
+    "dayChange": "-4.40%",
+    "vol24h": 678707,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 11.5% | No: 88.5%",
+    "volume": 77541366,
+    "liquidity": 372535,
+    "endDate": "2027-01-01",
+    "dayChange": "-6.00%",
+    "vol24h": 675255,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "los-angeles-mayoral-election-117",
+    "ticker": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876",
+    "question": "Nithya Raman",
+    "eventTitle": "Los Angeles Mayoral Election",
+    "prices": "Yes: 98.3% | No: 1.7%",
+    "volume": 4380632,
+    "liquidity": 53059,
+    "endDate": "2026-06-03",
+    "dayChange": "57.35%",
+    "vol24h": 629603,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-zohran-mamdani-win-the-2028-us-presidential-election",
+    "question": "Zohran Mamdani",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 23161028,
+    "liquidity": 898412,
+    "endDate": "2028-11-08",
+    "dayChange": "0.05%",
+    "vol24h": 578505,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-john-n-kennedy-win-the-2028-republican-presidential-nomination",
+    "question": "John N. Kennedy",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 2090353,
+    "liquidity": 159138,
+    "endDate": "2028-11-08",
+    "dayChange": "0.10%",
+    "vol24h": 508986,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-joe-kent-win-the-2028-republican-presidential-nomination",
+    "question": "Joe Kent",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 9533894,
+    "liquidity": 274423,
+    "endDate": "2028-11-08",
+    "dayChange": "0.40%",
+    "vol24h": 501276,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-candace-owens-win-the-2028-republican-presidential-nomination",
+    "question": "Candace Owens",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 1552820,
+    "liquidity": 266306,
+    "endDate": "2028-11-08",
+    "dayChange": "0.00%",
+    "vol24h": 500503,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-november-2",
+    "question": "November 2",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 2458239,
+    "liquidity": 735809,
+    "endDate": "2026-11-03",
+    "dayChange": "14.50%",
+    "vol24h": 485325,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-jalen-brunson-win-the-2028-us-presidential-election",
+    "question": "Jalen Brunson",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 3294407,
+    "liquidity": 1537271,
+    "endDate": "2028-11-08",
+    "dayChange": "0.00%",
+    "vol24h": 480780,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-adam-hamilton-win-the-2028-democratic-presidential-nomination",
+    "question": "Adam Hamilton",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 765490,
+    "liquidity": 450980,
+    "endDate": "2028-11-07",
+    "dayChange": "-0.20%",
+    "vol24h": 415872,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-matt-gaetz-win-the-2028-republican-presidential-nomination",
+    "question": "Matt Gaetz",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 20985291,
+    "liquidity": 755942,
+    "endDate": "2028-11-08",
+    "dayChange": "0.10%",
+    "vol24h": 366917,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "los-angeles-mayoral-election-117",
+    "ticker": "will-karen-bass-win-the-2026-los-angeles-mayoral-election",
+    "question": "Karen Bass",
+    "eventTitle": "Los Angeles Mayoral Election",
+    "prices": "Yes: 1.8% | No: 98.2%",
+    "volume": 2402069,
+    "liquidity": 67317,
+    "endDate": "2026-06-03",
+    "dayChange": "-57.70%",
+    "vol24h": 365696,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-stephen-smith-win-the-2028-us-presidential-election",
+    "question": "Stephen Smith",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 34131835,
+    "liquidity": 863442,
+    "endDate": "2028-11-08",
+    "dayChange": "0.00%",
+    "vol24h": 345032,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-tom-cotton-win-the-2028-us-presidential-election",
+    "question": "Tom Cotton",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 2014363,
+    "liquidity": 1179302,
+    "endDate": "2028-11-08",
+    "dayChange": "0.10%",
+    "vol24h": 340202,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-roy-cooper-win-the-2028-democratic-presidential-nomination-286",
+    "question": "Roy Cooper",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.7% | No: 99.4%",
+    "volume": 32462310,
+    "liquidity": 972844,
+    "endDate": "2028-11-08",
+    "dayChange": "-0.30%",
+    "vol24h": 331366,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "putin-out-before-2027",
+    "ticker": "putin-out-before-2027-346",
+    "question": "December 31, 2026",
+    "eventTitle": "Putin out as President of Russia by...?",
+    "prices": "Yes: 1.8% | No: 98.3%",
+    "volume": 27452084,
+    "liquidity": 571436,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 247749,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-november-4-2026",
+    "ticker": "bitcoin-above-80k-on-november-4-2026",
+    "question": "80,000",
+    "eventTitle": "Bitcoin above ___ on November 4?",
+    "prices": "Yes: 97.3% | No: 2.7%",
+    "volume": 225079,
+    "liquidity": 25000,
+    "endDate": "2026-11-04",
+    "dayChange": "86.80%",
+    "vol24h": 215644,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-november-4-2026",
+    "ticker": "bitcoin-above-78k-on-november-4-2026",
+    "question": "78,000",
+    "eventTitle": "Bitcoin above ___ on November 4?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 250941,
+    "liquidity": 24019,
+    "endDate": "2026-11-04",
+    "dayChange": "54.45%",
+    "vol24h": 191532,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-up-or-down-on-november-4-2026",
+    "ticker": "bitcoin-up-or-down-on-november-4-2026",
+    "question": "Bitcoin Up or Down on November 4?",
+    "eventTitle": "Bitcoin Up or Down on November 4?",
+    "prices": "Up: 100.0% | Down: 0.1%",
+    "volume": 132752,
+    "liquidity": 42096,
+    "endDate": "2026-11-04",
+    "dayChange": "50.45%",
+    "vol24h": 132666,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "question": "Strait of Hormuz traffic returns to normal by December 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by December 31?",
+    "prices": "Yes: 11.5% | No: 88.5%",
+    "volume": 16487666,
+    "liquidity": 325263,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 121274,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-november-2026",
+    "ticker": "will-wti-reach-150-in-november-2026",
+    "question": "↑ $150",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in November 2026?",
+    "prices": "Yes: 1.4% | No: 98.7%",
+    "volume": 198745,
+    "liquidity": 73019,
+    "endDate": "2026-12-01",
+    "dayChange": "-0.90%",
+    "vol24h": 49384,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-november-2026",
+    "ticker": "will-wti-reach-160-in-november-2026",
+    "question": "↑ $160",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in November 2026?",
+    "prices": "Yes: 1.1% | No: 98.9%",
+    "volume": 185970,
+    "liquidity": 63698,
+    "endDate": "2026-12-01",
+    "dayChange": "-0.15%",
+    "vol24h": 49291,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-november-2026",
+    "ticker": "will-wti-reach-130-in-november-2026",
+    "question": "↑ $130",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in November 2026?",
+    "prices": "Yes: 4.5% | No: 95.5%",
+    "volume": 145423,
+    "liquidity": 38416,
+    "endDate": "2026-12-01",
+    "dayChange": "-0.65%",
+    "vol24h": 14609,
+    "updatedAt": "2026-11-04T16:37:25.642632Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
