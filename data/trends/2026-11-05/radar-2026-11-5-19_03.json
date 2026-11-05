@@ -1,0 +1,652 @@
+[
+  {
+    "slug": "alaska-senate-election-winner",
+    "ticker": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
+    "question": "Mary Peltola (D)",
+    "eventTitle": "Alaska Senate Election Winner",
+    "prices": "Yes: 96.0% | No: 4.0%",
+    "volume": 4072127,
+    "liquidity": 152781,
+    "endDate": "2026-11-04",
+    "dayChange": "3.15%",
+    "vol24h": 901179,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-october-31-20260917",
+    "question": "October 31",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 11837949,
+    "liquidity": 755489,
+    "endDate": "2026-10-31",
+    "dayChange": "0.00%",
+    "vol24h": 771891,
+    "updatedAt": "2026-11-05T18:58:08.612534Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 64.5% | No: 35.5%",
+    "volume": 3843387,
+    "liquidity": 197796,
+    "endDate": "2026-12-09",
+    "dayChange": "-13.00%",
+    "vol24h": 669610,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "us-iran-ceasefire-continues-throughptptpt",
+    "ticker": "us-x-iran-ceasefire-continues-through-november-2",
+    "question": "November 2",
+    "eventTitle": "US-Iran ceasefire continues through...?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 3130109,
+    "liquidity": 632909,
+    "endDate": "2026-11-03",
+    "dayChange": "0.00%",
+    "vol24h": 569455,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-none",
+    "question": "None",
+    "eventTitle": "Which Senate Swing States will Republicans win? (Build Your Map)",
+    "prices": "Yes: 96.9% | No: 3.1%",
+    "volume": 10339360,
+    "liquidity": 149972,
+    "endDate": "2026-11-03",
+    "dayChange": "3.85%",
+    "vol24h": 547603,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+    "question": "Benjamin Netanyahu",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 25.9% | No: 74.1%",
+    "volume": 33678350,
+    "liquidity": 357896,
+    "endDate": "2026-10-28",
+    "dayChange": "-1.90%",
+    "vol24h": 474563,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+    "question": "Jon Ossoff",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 28.1% | No: 71.9%",
+    "volume": 14515156,
+    "liquidity": 389327,
+    "endDate": "2028-11-08",
+    "dayChange": "4.60%",
+    "vol24h": 438375,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "mississippi-senate-election-winner",
+    "ticker": "will-the-democrats-win-the-mississippi-senate-race-in-2026",
+    "question": "Scott Colom (D)",
+    "eventTitle": "Mississippi Senate Election Winner",
+    "prices": "Yes: 97.3% | No: 2.8%",
+    "volume": 2349875,
+    "liquidity": 191508,
+    "endDate": "2026-11-04",
+    "dayChange": "3.45%",
+    "vol24h": 414043,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "mississippi-senate-election-winner",
+    "ticker": "will-the-republicans-win-the-mississippi-senate-race-in-2026",
+    "question": "Cindy Hyde-Smith (R)",
+    "eventTitle": "Mississippi Senate Election Winner",
+    "prices": "Yes: 2.9% | No: 97.2%",
+    "volume": 3015646,
+    "liquidity": 291803,
+    "endDate": "2026-11-04",
+    "dayChange": "-3.50%",
+    "vol24h": 377948,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 1.4% | No: 98.7%",
+    "volume": 2862016,
+    "liquidity": 170105,
+    "endDate": "2026-12-09",
+    "dayChange": "0.90%",
+    "vol24h": 371530,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "alaska-senate-election-winner",
+    "ticker": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+    "question": "Sen. Dan Sullivan (R)",
+    "eventTitle": "Alaska Senate Election Winner",
+    "prices": "Yes: 4.2% | No: 95.9%",
+    "volume": 2394293,
+    "liquidity": 155522,
+    "endDate": "2026-11-04",
+    "dayChange": "-3.25%",
+    "vol24h": 370842,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-rick-scott-win-the-2028-republican-presidential-nomination",
+    "question": "Rick Scott",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1233731,
+    "liquidity": 852393,
+    "endDate": "2028-11-08",
+    "dayChange": "0.05%",
+    "vol24h": 355635,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 2552260,
+    "liquidity": 150856,
+    "endDate": "2026-12-09",
+    "dayChange": "0.25%",
+    "vol24h": 343387,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-hakeem-jeffries-win-the-2028-democratic-presidential-nomination",
+    "question": "Hakeem Jeffries",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 2606211,
+    "liquidity": 461941,
+    "endDate": "2028-11-08",
+    "dayChange": "0.00%",
+    "vol24h": 341317,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+    "question": "No change",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 32.5% | No: 67.5%",
+    "volume": 3395124,
+    "liquidity": 207542,
+    "endDate": "2026-12-09",
+    "dayChange": "11.00%",
+    "vol24h": 319314,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "trump-out-as-president-before-2027",
+    "ticker": "trump-out-as-president-before-2027",
+    "question": "Trump out as President before 2027?",
+    "eventTitle": "Trump out as President before 2027?",
+    "prices": "Yes: 3.8% | No: 96.2%",
+    "volume": 14213632,
+    "liquidity": 288819,
+    "endDate": "2027-01-01",
+    "dayChange": "0.55%",
+    "vol24h": 301164,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-joe-kent-win-the-2028-republican-presidential-nomination",
+    "question": "Joe Kent",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 1.4% | No: 98.6%",
+    "volume": 9849314,
+    "liquidity": 233004,
+    "endDate": "2028-11-08",
+    "dayChange": "0.75%",
+    "vol24h": 293776,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-jd-vance-win-the-2028-us-presidential-election",
+    "question": "JD Vance",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 19.1% | No: 81.0%",
+    "volume": 18547750,
+    "liquidity": 405119,
+    "endDate": "2028-11-08",
+    "dayChange": "2.00%",
+    "vol24h": 267374,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
+    "ticker": "billionaire-one-time-wealth-tax-passes-in-california-election-2026",
+    "question": "Billionaire one-time wealth tax passes in California election 2026?",
+    "eventTitle": "Billionaire one-time wealth tax passes in California election 2026?",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 5074163,
+    "liquidity": 29036,
+    "endDate": "2026-11-04",
+    "dayChange": "-0.20%",
+    "vol24h": 249948,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 11.5% | No: 88.5%",
+    "volume": 77962916,
+    "liquidity": 295751,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 246491,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+    "ticker": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+    "question": "Pete Hegseth out as Secretary of Defense by December 31?",
+    "eventTitle": "Pete Hegseth out as Secretary of Defense by December 31?",
+    "prices": "Yes: 49.5% | No: 50.5%",
+    "volume": 1471850,
+    "liquidity": 122798,
+    "endDate": "2027-01-01",
+    "dayChange": "5.00%",
+    "vol24h": 242803,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-james-talarico-win-the-2028-us-presidential-election",
+    "question": "James Talarico",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 1.8% | No: 98.3%",
+    "volume": 8517620,
+    "liquidity": 630315,
+    "endDate": "2028-11-08",
+    "dayChange": "0.00%",
+    "vol24h": 236100,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-kamala-harris-win-the-2028-democratic-presidential-nomination-641",
+    "question": "Kamala Harris",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 4.5% | No: 95.5%",
+    "volume": 14723409,
+    "liquidity": 272178,
+    "endDate": "2028-11-08",
+    "dayChange": "-0.20%",
+    "vol24h": 234508,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-gadi-eizenkot-be-the-next-prime-minister-of-israel",
+    "question": "Gadi Eizenkot",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 61.8% | No: 38.3%",
+    "volume": 8980737,
+    "liquidity": 135766,
+    "endDate": "2026-10-28",
+    "dayChange": "2.65%",
+    "vol24h": 223099,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-yossi-cohen-be-the-next-prime-minister-of-israel",
+    "question": "Yossi Cohen",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 0.2% | No: 99.8%",
+    "volume": 4563038,
+    "liquidity": 279229,
+    "endDate": "2026-10-28",
+    "dayChange": "-0.45%",
+    "vol24h": 217264,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "putin-out-before-2027",
+    "ticker": "putin-out-before-2027-346",
+    "question": "December 31, 2026",
+    "eventTitle": "Putin out as President of Russia by...?",
+    "prices": "Yes: 1.8% | No: 98.2%",
+    "volume": 27660706,
+    "liquidity": 413433,
+    "endDate": "2027-01-01",
+    "dayChange": "0.10%",
+    "vol24h": 205295,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-jd-vance-win-the-2028-republican-presidential-nomination",
+    "question": "J.D. Vance",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 34.8% | No: 65.3%",
+    "volume": 16675061,
+    "liquidity": 354691,
+    "endDate": "2028-11-08",
+    "dayChange": "3.40%",
+    "vol24h": 204718,
+    "updatedAt": "2026-11-05T19:03:22.362313Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-7",
+    "question": "November 7",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 95.5% | No: 4.5%",
+    "volume": 628873,
+    "liquidity": 58704,
+    "endDate": "2026-11-08",
+    "dayChange": "6.50%",
+    "vol24h": 191916,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+    "ticker": "pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+    "question": "Pete Hegseth out as Secretary of Defense by November 30?",
+    "eventTitle": "Pete Hegseth out as Secretary of Defense by November 30?",
+    "prices": "Yes: 31.5% | No: 68.5%",
+    "volume": 359345,
+    "liquidity": 94655,
+    "endDate": "2026-12-01",
+    "dayChange": "-2.50%",
+    "vol24h": 183275,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-jon-ossoff-win-the-2028-us-presidential-election",
+    "question": "Jon Ossoff",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 20.3% | No: 79.8%",
+    "volume": 6585531,
+    "liquidity": 352428,
+    "endDate": "2028-11-08",
+    "dayChange": "2.25%",
+    "vol24h": 169239,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+    "question": "↓ 70,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 53.5% | No: 46.5%",
+    "volume": 1625455,
+    "liquidity": 94335,
+    "endDate": "2027-01-01",
+    "dayChange": "22.00%",
+    "vol24h": 157389,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "ticker": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
+    "question": "Alphabet",
+    "eventTitle": "Largest Company end of December 2026?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 1060476,
+    "liquidity": 150113,
+    "endDate": "2027-01-01",
+    "dayChange": "-0.25%",
+    "vol24h": 135363,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-november-2026",
+    "ticker": "will-bitcoin-dip-to-75k-in-november-2026",
+    "question": "↓ 75,000",
+    "eventTitle": "What price will Bitcoin hit in November?",
+    "prices": "Yes: 86.5% | No: 13.5%",
+    "volume": 362122,
+    "liquidity": 85986,
+    "endDate": "2026-12-01",
+    "dayChange": "38.00%",
+    "vol24h": 123548,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "will-satoshi-move-any-bitcoin-in-2026",
+    "ticker": "will-satoshi-move-any-bitcoin-in-2026",
+    "question": "Will Satoshi move any Bitcoin in 2026?",
+    "eventTitle": "Will Satoshi move any Bitcoin in 2026?",
+    "prices": "Yes: 2.5% | No: 97.5%",
+    "volume": 5585236,
+    "liquidity": 103784,
+    "endDate": "2027-01-01",
+    "dayChange": "-0.40%",
+    "vol24h": 108293,
+    "updatedAt": "2026-11-05T18:54:08.621016Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "crude-oil-all-time-high-by",
+    "ticker": "will-crude-oil-reach-a-new-all-time-high-by-december-31",
+    "question": "December 31",
+    "eventTitle": "Crude Oil all time high by...?",
+    "prices": "Yes: 8.5% | No: 91.5%",
+    "volume": 2495475,
+    "liquidity": 104862,
+    "endDate": "2027-01-01",
+    "dayChange": "-0.50%",
+    "vol24h": 59111,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "GEOPOLITICS | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "ticker": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+    "question": "NVIDIA",
+    "eventTitle": "Largest Company end of December 2026?",
+    "prices": "Yes: 26.5% | No: 73.5%",
+    "volume": 1707197,
+    "liquidity": 105687,
+    "endDate": "2027-01-01",
+    "dayChange": "-15.00%",
+    "vol24h": 41189,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "ticker": "will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-481",
+    "question": "Microsoft",
+    "eventTitle": "Largest Company end of December 2026?",
+    "prices": "Yes: 1.5% | No: 98.6%",
+    "volume": 1243456,
+    "liquidity": 77651,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 26782,
+    "updatedAt": "2026-11-05T19:02:09.382936Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  }
+]
