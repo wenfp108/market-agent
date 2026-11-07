@@ -1,0 +1,688 @@
+[
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-rick-scott-win-the-2028-republican-presidential-nomination",
+    "question": "Rick Scott",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 2009928,
+    "liquidity": 242299,
+    "endDate": "2028-11-08",
+    "dayChange": "0.05%",
+    "vol24h": 775074,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-7",
+    "question": "November 7",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 98.9% | No: 1.1%",
+    "volume": 1588580,
+    "liquidity": 125937,
+    "endDate": "2026-11-08",
+    "dayChange": "3.30%",
+    "vol24h": 652521,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-iran-effective-ceasefire-continues-throughptptpt-20261103",
+    "ticker": "us-x-iran-effective-ceasefire-continues-through-november-6-20261103",
+    "question": "November 6",
+    "eventTitle": "US-Iran effective ceasefire continues through...?",
+    "prices": "Yes: 98.5% | No: 1.5%",
+    "volume": 760588,
+    "liquidity": 50691,
+    "endDate": "2026-11-07",
+    "dayChange": "0.50%",
+    "vol24h": 491636,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-james-talarico-win-the-2028-us-presidential-election",
+    "question": "James Talarico",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 8962105,
+    "liquidity": 382318,
+    "endDate": "2028-11-08",
+    "dayChange": "-0.80%",
+    "vol24h": 377495,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "alaska-senate-election-winner",
+    "ticker": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
+    "question": "Mary Peltola (D)",
+    "eventTitle": "Alaska Senate Election Winner",
+    "prices": "Yes: 98.2% | No: 1.8%",
+    "volume": 4740929,
+    "liquidity": 340527,
+    "endDate": "2026-11-04",
+    "dayChange": "-0.35%",
+    "vol24h": 362129,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-elissa-slotkin-win-the-2028-democratic-presidential-nomination",
+    "question": "Elissa Slotkin",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 2111305,
+    "liquidity": 715144,
+    "endDate": "2028-11-08",
+    "dayChange": "0.10%",
+    "vol24h": 290009,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "alaska-senate-election-winner",
+    "ticker": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+    "question": "Sen. Dan Sullivan (R)",
+    "eventTitle": "Alaska Senate Election Winner",
+    "prices": "Yes: 1.7% | No: 98.4%",
+    "volume": 2894516,
+    "liquidity": 339451,
+    "endDate": "2026-11-04",
+    "dayChange": "0.20%",
+    "vol24h": 288207,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "new-zealand-legislative-election-winner",
+    "ticker": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+    "question": "National Party",
+    "eventTitle": "New Zealand legislative election winner?",
+    "prices": "Yes: 98.6% | No: 1.4%",
+    "volume": 397674,
+    "liquidity": 36852,
+    "endDate": "2026-11-08",
+    "dayChange": "36.60%",
+    "vol24h": 288037,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-december-31-415",
+    "question": "December 31",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 56.5% | No: 43.5%",
+    "volume": 2052553,
+    "liquidity": 105501,
+    "endDate": "2026-12-31",
+    "dayChange": "10.00%",
+    "vol24h": 248403,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "new-zealand-legislative-election-winner",
+    "ticker": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+    "question": "Labour Party",
+    "eventTitle": "New Zealand legislative election winner?",
+    "prices": "Yes: 1.3% | No: 98.7%",
+    "volume": 293692,
+    "liquidity": 45770,
+    "endDate": "2026-11-08",
+    "dayChange": "-36.20%",
+    "vol24h": 212031,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 10.5% | No: 89.5%",
+    "volume": 78341406,
+    "liquidity": 411627,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.00%",
+    "vol24h": 201285,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-ron-desantis-win-the-2028-republican-presidential-nomination",
+    "question": "Ron DeSantis",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 10.3% | No: 89.8%",
+    "volume": 16634893,
+    "liquidity": 219288,
+    "endDate": "2028-11-08",
+    "dayChange": "-3.20%",
+    "vol24h": 200737,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-before-2027-789-924-249",
+    "question": "December 31",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 2.4% | No: 97.7%",
+    "volume": 45337823,
+    "liquidity": 1719104,
+    "endDate": "2027-01-01",
+    "dayChange": "0.15%",
+    "vol24h": 190263,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-15",
+    "question": "November 15",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 82.5% | No: 17.5%",
+    "volume": 1375414,
+    "liquidity": 95666,
+    "endDate": "2026-11-16",
+    "dayChange": "5.00%",
+    "vol24h": 175327,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
+    "question": "Gavin Newsom",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 10.8% | No: 89.3%",
+    "volume": 28392576,
+    "liquidity": 589231,
+    "endDate": "2028-11-08",
+    "dayChange": "-1.50%",
+    "vol24h": 171504,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-november-30-2026",
+    "question": "November 30",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 18.5% | No: 81.5%",
+    "volume": 1695844,
+    "liquidity": 125445,
+    "endDate": "2026-12-01",
+    "dayChange": "-2.00%",
+    "vol24h": 157093,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+    "ticker": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+    "question": "Pete Hegseth out as Secretary of Defense by December 31?",
+    "eventTitle": "Pete Hegseth out as Secretary of Defense by December 31?",
+    "prices": "Yes: 33.5% | No: 66.5%",
+    "volume": 1893705,
+    "liquidity": 117395,
+    "endDate": "2027-01-01",
+    "dayChange": "-2.00%",
+    "vol24h": 154987,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-benjamin-netanyahu-be-the-next-prime-minister-of-israel",
+    "question": "Benjamin Netanyahu",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 20.9% | No: 79.0%",
+    "volume": 34135959,
+    "liquidity": 276167,
+    "endDate": "2026-10-28",
+    "dayChange": "0.65%",
+    "vol24h": 125042,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-4",
+    "question": "November 4",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 674226,
+    "liquidity": 67312,
+    "endDate": "2026-11-05",
+    "dayChange": "0.20%",
+    "vol24h": 124574,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "mississippi-senate-election-winner",
+    "ticker": "will-the-democrats-win-the-mississippi-senate-race-in-2026",
+    "question": "Scott Colom (D)",
+    "eventTitle": "Mississippi Senate Election Winner",
+    "prices": "Yes: 98.9% | No: 1.1%",
+    "volume": 2714531,
+    "liquidity": 76709,
+    "endDate": "2026-11-04",
+    "dayChange": "0.35%",
+    "vol24h": 121356,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-john-mcentee-win-the-2028-republican-presidential-nomination",
+    "question": "John McEntee",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 3.6% | No: 96.4%",
+    "volume": 1567198,
+    "liquidity": 237855,
+    "endDate": "2028-11-07",
+    "dayChange": "1.05%",
+    "vol24h": 115248,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-jon-ossoff-win-the-2028-democratic-presidential-nomination-885",
+    "question": "Jon Ossoff",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 27.0% | No: 73.0%",
+    "volume": 14701851,
+    "liquidity": 837186,
+    "endDate": "2028-11-08",
+    "dayChange": "-0.30%",
+    "vol24h": 107978,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-6",
+    "question": "November 6",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 99.8% | No: 0.3%",
+    "volume": 636731,
+    "liquidity": 85406,
+    "endDate": "2026-11-07",
+    "dayChange": "0.55%",
+    "vol24h": 104521,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-dominique-de-villepin-win-the-2027-french-presidential-election",
+    "question": "Dominique de Villepin",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 1.9% | No: 98.0%",
+    "volume": 3527919,
+    "liquidity": 237805,
+    "endDate": "2027-04-19",
+    "dayChange": "-0.30%",
+    "vol24h": 96461,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+    "ticker": "will-avigdor-lieberman-be-the-next-prime-minister-of-israel",
+    "question": "Avigdor Lieberman",
+    "eventTitle": "Prime Minister of Israel after the next election?",
+    "prices": "Yes: 8.0% | No: 92.0%",
+    "volume": 5278863,
+    "liquidity": 79494,
+    "endDate": "2026-10-28",
+    "dayChange": "0.30%",
+    "vol24h": 90972,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-jean-luc-mlenchon-win-the-2027-french-presidential-election",
+    "question": "Jean-Luc Mélenchon",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 13.5% | No: 86.5%",
+    "volume": 3363038,
+    "liquidity": 793548,
+    "endDate": "2027-04-19",
+    "dayChange": "1.00%",
+    "vol24h": 90958,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "mississippi-senate-election-winner",
+    "ticker": "will-the-republicans-win-the-mississippi-senate-race-in-2026",
+    "question": "Cindy Hyde-Smith (R)",
+    "eventTitle": "Mississippi Senate Election Winner",
+    "prices": "Yes: 1.1% | No: 98.9%",
+    "volume": 3431144,
+    "liquidity": 99285,
+    "endDate": "2026-11-04",
+    "dayChange": "-0.30%",
+    "vol24h": 90303,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "who-will-leave-trump-administration-before-2027",
+    "ticker": "will-pete-hegseth-leave-the-trump-administration-before-2027",
+    "question": "Pete Hegseth",
+    "eventTitle": "Who will leave Trump Administration before 2027?",
+    "prices": "Yes: 32.5% | No: 67.5%",
+    "volume": 296361,
+    "liquidity": 78742,
+    "endDate": "2027-01-01",
+    "dayChange": "-3.00%",
+    "vol24h": 88697,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-jon-ossoff-win-the-2028-us-presidential-election",
+    "question": "Jon Ossoff",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 17.4% | No: 82.5%",
+    "volume": 6862741,
+    "liquidity": 615515,
+    "endDate": "2028-11-08",
+    "dayChange": "-2.00%",
+    "vol24h": 87817,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-sarah-huckabee-sanders-win-the-2028-republican-presidential-nomination",
+    "question": "Sarah Huckabee Sanders",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 36784394,
+    "liquidity": 433842,
+    "endDate": "2028-11-08",
+    "dayChange": "0.20%",
+    "vol24h": 87209,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "puffpaw-fdv-above-one-day-after-launch",
+    "ticker": "puffpaw-fdv-above-100m-one-day-after-launch",
+    "question": "$100M",
+    "eventTitle": "Puffpaw FDV above ___ one day after launch?",
+    "prices": "Yes: 78.5% | No: 21.5%",
+    "volume": 1855263,
+    "liquidity": 23031,
+    "endDate": "2027-01-01",
+    "dayChange": "35.00%",
+    "vol24h": 78779,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.6% | No: 99.4%",
+    "volume": 2751982,
+    "liquidity": 303986,
+    "endDate": "2026-12-09",
+    "dayChange": "0.05%",
+    "vol24h": 57996,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-november-2-8-2026",
+    "ticker": "will-bitcoin-dip-to-74k-november-2-8-2026",
+    "question": "↓ 74,000",
+    "eventTitle": "What price will Bitcoin hit November 2-8?",
+    "prices": "Yes: 16.4% | No: 83.7%",
+    "volume": 200293,
+    "liquidity": 43128,
+    "endDate": "2026-11-09",
+    "dayChange": "-5.90%",
+    "vol24h": 57345,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 2067393,
+    "liquidity": 381783,
+    "endDate": "2026-12-09",
+    "dayChange": "0.00%",
+    "vol24h": 54559,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-november-2-8-2026",
+    "ticker": "will-bitcoin-dip-to-72k-november-2-8-2026",
+    "question": "↓ 72,000",
+    "eventTitle": "What price will Bitcoin hit November 2-8?",
+    "prices": "Yes: 2.7% | No: 97.3%",
+    "volume": 177735,
+    "liquidity": 51594,
+    "endDate": "2026-11-09",
+    "dayChange": "-2.65%",
+    "vol24h": 47233,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-november-2026",
+    "ticker": "will-wti-reach-160-in-november-2026",
+    "question": "↑ $160",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in November 2026?",
+    "prices": "Yes: 0.7% | No: 99.4%",
+    "volume": 265079,
+    "liquidity": 144311,
+    "endDate": "2026-12-01",
+    "dayChange": "-0.40%",
+    "vol24h": 44638,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 76.5% | No: 23.5%",
+    "volume": 5032312,
+    "liquidity": 751555,
+    "endDate": "2026-12-09",
+    "dayChange": "-1.00%",
+    "vol24h": 41925,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-2pt0t-and-2pt25t-at-market-close-on-ipo-day",
+    "question": "$2.0–$2.25T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 6.4% | No: 93.6%",
+    "volume": 865365,
+    "liquidity": 86924,
+    "endDate": "2028-01-01",
+    "dayChange": "-1.95%",
+    "vol24h": 25092,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-wti-hit-in-november-2026",
+    "ticker": "will-wti-reach-150-in-november-2026",
+    "question": "↑ $150",
+    "eventTitle": "What will WTI Crude Oil (WTI) hit in November 2026?",
+    "prices": "Yes: 1.0% | No: 99.0%",
+    "volume": 252960,
+    "liquidity": 146484,
+    "endDate": "2026-12-01",
+    "dayChange": "-0.35%",
+    "vol24h": 13933,
+    "updatedAt": "2026-11-07T19:42:36.4962Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
