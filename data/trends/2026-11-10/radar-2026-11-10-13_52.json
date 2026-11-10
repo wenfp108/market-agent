@@ -1,0 +1,708 @@
+[
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+    "question": "No change",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 2.6% | No: 97.4%",
+    "volume": 5435764,
+    "liquidity": 369852,
+    "endDate": "2026-12-09",
+    "dayChange": "-19.85%",
+    "vol24h": 1801051,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 83.5% | No: 16.5%",
+    "volume": 6238555,
+    "liquidity": 234664,
+    "endDate": "2026-12-09",
+    "dayChange": "7.00%",
+    "vol24h": 1294318,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 11.7% | No: 88.3%",
+    "volume": 3139847,
+    "liquidity": 157025,
+    "endDate": "2026-12-09",
+    "dayChange": "11.00%",
+    "vol24h": 1062322,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-shawn-fain-win-the-2028-democratic-presidential-nomination",
+    "question": "Shawn Fain",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 805047,
+    "liquidity": 116432,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 805047,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 3545838,
+    "liquidity": 407839,
+    "endDate": "2026-12-09",
+    "dayChange": "-0.20%",
+    "vol24h": 546549,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 3298978,
+    "liquidity": 221110,
+    "endDate": "2026-12-09",
+    "dayChange": "-0.40%",
+    "vol24h": 521032,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-november-15-2026",
+    "question": "November 15",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 4.8% | No: 95.2%",
+    "volume": 2227099,
+    "liquidity": 172257,
+    "endDate": "2026-11-16",
+    "dayChange": "-2.25%",
+    "vol24h": 475252,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+    "question": "Strait of Hormuz traffic returns to normal by December 31?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by December 31?",
+    "prices": "Yes: 8.5% | No: 91.5%",
+    "volume": 17570385,
+    "liquidity": 226192,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.00%",
+    "vol24h": 470501,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | ECONOMY | GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-november-30-2026",
+    "question": "November 30",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 16.5% | No: 83.5%",
+    "volume": 2622916,
+    "liquidity": 190023,
+    "endDate": "2026-12-01",
+    "dayChange": "-6.00%",
+    "vol24h": 459296,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-teddy-riner-win-the-2027-french-presidential-election",
+    "question": "Teddy Riner",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 2.9% | No: 97.2%",
+    "volume": 379445,
+    "liquidity": 326854,
+    "endDate": "2027-04-19",
+    "dayChange": "0.00%",
+    "vol24h": 381135,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "jensen-huang-announced-resignation-or-removal-by-december-31",
+    "ticker": "jensen-huang-announced-resignation-or-removal-by-december-31",
+    "question": "December 31, 2026",
+    "eventTitle": "Jensen Huang announced resignation or removal by...?",
+    "prices": "Yes: 13.5% | No: 86.5%",
+    "volume": 581728,
+    "liquidity": 89523,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.00%",
+    "vol24h": 357482,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "TECH | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-chris-van-hollen-win-the-2028-democratic-presidential-nomination",
+    "question": "Chris Van Hollen",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 2931093,
+    "liquidity": 345747,
+    "endDate": "2028-11-08",
+    "dayChange": "-0.30%",
+    "vol24h": 347680,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-david-lisnard-win-the-2027-french-presidential-election",
+    "question": "David Lisnard",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 13.1% | No: 87.0%",
+    "volume": 7257888,
+    "liquidity": 369649,
+    "endDate": "2027-04-19",
+    "dayChange": "-1.90%",
+    "vol24h": 343024,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "houthis-enter-saudi-arabia-byptptpt",
+    "ticker": "will-the-houthis-enter-saudi-arabia-by-october-31",
+    "question": "October 31",
+    "eventTitle": "Houthis enter Saudi Arabia by...?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 658874,
+    "liquidity": 592270,
+    "endDate": "2026-11-01",
+    "dayChange": "-61.60%",
+    "vol24h": 341049,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157-255-857",
+    "question": "December 31",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 38.9% | No: 61.2%",
+    "volume": 6001816,
+    "liquidity": 281294,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.80%",
+    "vol24h": 278984,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-15",
+    "question": "November 15",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 95.3% | No: 4.7%",
+    "volume": 2239465,
+    "liquidity": 170990,
+    "endDate": "2026-11-16",
+    "dayChange": "2.85%",
+    "vol24h": 268523,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-donald-trump-win-the-2028-us-presidential-election",
+    "question": "Donald Trump",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 1.4% | No: 98.7%",
+    "volume": 11269051,
+    "liquidity": 543902,
+    "endDate": "2028-11-08",
+    "dayChange": "0.00%",
+    "vol24h": 263648,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "strait-of-hormuz-traffic-returns-to-normal-by-november-30-20260810151158765",
+    "ticker": "strait-of-hormuz-traffic-returns-to-normal-by-november-30-20260810151158765",
+    "question": "Strait of Hormuz traffic returns to normal by November 30?",
+    "eventTitle": "Strait of Hormuz traffic returns to normal by November 30?",
+    "prices": "Yes: 3.0% | No: 97.0%",
+    "volume": 1913083,
+    "liquidity": 246733,
+    "endDate": "2026-12-01",
+    "dayChange": "-0.85%",
+    "vol24h": 262127,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "another-fed-rate-hike-in-2026",
+    "ticker": "another-fed-rate-hike-in-2026",
+    "question": "Another Fed rate hike in 2026?",
+    "eventTitle": "Another Fed rate hike in 2026?",
+    "prices": "Yes: 95.5% | No: 4.5%",
+    "volume": 1852166,
+    "liquidity": 117435,
+    "endDate": "2026-12-10",
+    "dayChange": "20.00%",
+    "vol24h": 257334,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-elissa-slotkin-win-the-2028-us-presidential-election",
+    "question": "Elissa Slotkin",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1235927,
+    "liquidity": 981165,
+    "endDate": "2028-11-08",
+    "dayChange": "0.05%",
+    "vol24h": 234141,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+    "ticker": "pete-hegseth-out-as-secretary-of-defense-by-december-31",
+    "question": "Pete Hegseth out as Secretary of Defense by December 31?",
+    "eventTitle": "Pete Hegseth out as Secretary of Defense by December 31?",
+    "prices": "Yes: 30.5% | No: 69.5%",
+    "volume": 2403249,
+    "liquidity": 101466,
+    "endDate": "2027-01-01",
+    "dayChange": "-15.00%",
+    "vol24h": 227593,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "us-iran-final-nuclear-deal-by-20260621201254412",
+    "ticker": "us-iran-final-nuclear-deal-by-december-31-2026-191",
+    "question": "December 31",
+    "eventTitle": "US-Iran Final Nuclear Deal by…?",
+    "prices": "Yes: 13.5% | No: 86.5%",
+    "volume": 4343015,
+    "liquidity": 107375,
+    "endDate": "2027-01-01",
+    "dayChange": "4.00%",
+    "vol24h": 219109,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 8.5% | No: 91.5%",
+    "volume": 79262043,
+    "liquidity": 408352,
+    "endDate": "2027-01-01",
+    "dayChange": "-2.00%",
+    "vol24h": 204078,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-by",
+    "ticker": "will-anthropic-ipo-by-december-31-2026-546-128-719",
+    "question": "December 31, 2026",
+    "eventTitle": "Anthropic IPO by __?",
+    "prices": "Yes: 96.7% | No: 3.3%",
+    "volume": 1924352,
+    "liquidity": 51703,
+    "endDate": "2027-01-01",
+    "dayChange": "10.15%",
+    "vol24h": 175234,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "next-us-iran-senior-diplomatic-meeting-byptptpt",
+    "ticker": "next-us-iran-senior-diplomatic-meeting-by-november-30-2026",
+    "question": "November 30, 2026",
+    "eventTitle": "Next US-Iran senior diplomatic meeting by...?",
+    "prices": "Yes: 20.0% | No: 80.0%",
+    "volume": 574878,
+    "liquidity": 61710,
+    "endDate": "2026-12-01",
+    "dayChange": "-6.00%",
+    "vol24h": 168633,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "next-senate-majority-leader-485",
+    "ticker": "will-chuck-schumer-be-the-next-senate-majority-leader",
+    "question": "Chuck Schumer",
+    "eventTitle": "Next Senate Majority Leader?",
+    "prices": "Yes: 89.5% | No: 10.5%",
+    "volume": 408947,
+    "liquidity": 79195,
+    "endDate": "2026-11-04",
+    "dayChange": "-3.00%",
+    "vol24h": 168403,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "alaska-senate-election-winner",
+    "ticker": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+    "question": "Sen. Dan Sullivan (R)",
+    "eventTitle": "Alaska Senate Election Winner",
+    "prices": "Yes: 1.1% | No: 99.0%",
+    "volume": 3157197,
+    "liquidity": 216955,
+    "endDate": "2026-11-04",
+    "dayChange": "-0.60%",
+    "vol24h": 157779,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-30",
+    "question": "November 30",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 85.5% | No: 14.5%",
+    "volume": 1299082,
+    "liquidity": 73025,
+    "endDate": "2026-11-30",
+    "dayChange": "7.00%",
+    "vol24h": 130387,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "us-iran-hormuz-agreement-byptptpt-20260803235957575",
+    "ticker": "us-iran-hormuz-agreement-by-november-30",
+    "question": "November 30",
+    "eventTitle": "US-Iran Hormuz Agreement by...?",
+    "prices": "Yes: 16.5% | No: 83.5%",
+    "volume": 801273,
+    "liquidity": 57800,
+    "endDate": "2026-12-01",
+    "dayChange": "-3.00%",
+    "vol24h": 128376,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "us-iran-final-nuclear-deal-by-20260621201254412",
+    "ticker": "us-iran-final-nuclear-deal-by-november-30-2026",
+    "question": "November 30",
+    "eventTitle": "US-Iran Final Nuclear Deal by…?",
+    "prices": "Yes: 4.0% | No: 96.0%",
+    "volume": 626065,
+    "liquidity": 98871,
+    "endDate": "2026-12-01",
+    "dayChange": "0.05%",
+    "vol24h": 127532,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "jensen-huang-divorce-in-2026",
+    "ticker": "jensen-huang-divorce-in-2026",
+    "question": "December 31, 2026",
+    "eventTitle": "Jensen Huang divorce by...?",
+    "prices": "Yes: 9.5% | No: 90.5%",
+    "volume": 221234,
+    "liquidity": 47189,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 110427,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "TECH | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "clarity-act-signed-into-law-in-2026",
+    "ticker": "clarity-act-signed-into-law-in-2026",
+    "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+    "eventTitle": "Clarity Act (H.R.3633) signed into law in 2026?",
+    "prices": "Yes: 1.6% | No: 98.5%",
+    "volume": 25123208,
+    "liquidity": 157238,
+    "endDate": "2027-01-01",
+    "dayChange": "-0.90%",
+    "vol24h": 86329,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "POLITICS | CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-november-10-2026",
+    "ticker": "bitcoin-above-78k-on-november-10-2026",
+    "question": "78,000",
+    "eventTitle": "Bitcoin above ___ on November 10?",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 100790,
+    "liquidity": 41365,
+    "endDate": "2026-11-10",
+    "dayChange": "-3.10%",
+    "vol24h": 83834,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-before-2027",
+    "ticker": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+    "question": "↓ 1,750",
+    "eventTitle": "What price will Ethereum hit in 2026?",
+    "prices": "Yes: 29.5% | No: 70.5%",
+    "volume": 969385,
+    "liquidity": 36213,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 80952,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-spacex-have-the-highest-ipo-market-cap-2026-516",
+    "question": "SpaceX",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 95.5% | No: 4.5%",
+    "volume": 1436691,
+    "liquidity": 86271,
+    "endDate": "2027-01-02",
+    "dayChange": "7.00%",
+    "vol24h": 70989,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "which-company-has-the-best-ai-model-end-of-november",
+    "ticker": "will-anthropic-have-the-best-ai-model-at-the-end-of-november-2026",
+    "question": "Anthropic",
+    "eventTitle": "Which company has the best AI model end of November?",
+    "prices": "Yes: 22.5% | No: 77.5%",
+    "volume": 210488,
+    "liquidity": 45288,
+    "endDate": "2026-12-01",
+    "dayChange": "-0.50%",
+    "vol24h": 55529,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-2pt0t-and-2pt25t-at-market-close-on-ipo-day",
+    "question": "$2.0–$2.25T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 2.3% | No: 97.7%",
+    "volume": 919370,
+    "liquidity": 114081,
+    "endDate": "2028-01-01",
+    "dayChange": "-3.70%",
+    "vol24h": 41217,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-anthropic-have-the-highest-ipo-market-cap-2026-673",
+    "question": "Anthropic",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 4.0% | No: 96.0%",
+    "volume": 1679310,
+    "liquidity": 78269,
+    "endDate": "2027-01-02",
+    "dayChange": "-5.45%",
+    "vol24h": 39612,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "ticker": "will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31-872",
+    "question": "Alphabet",
+    "eventTitle": "Largest Company end of December 2026?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 1119324,
+    "liquidity": 131431,
+    "endDate": "2027-01-01",
+    "dayChange": "-0.25%",
+    "vol24h": 20636,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "ticker": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+    "question": "SpaceX",
+    "eventTitle": "Largest Company end of December 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1120391,
+    "liquidity": 143772,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 11791,
+    "updatedAt": "2026-11-10T13:52:14.236578Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
