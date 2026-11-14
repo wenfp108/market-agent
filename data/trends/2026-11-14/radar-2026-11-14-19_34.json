@@ -1,0 +1,583 @@
+[
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-james-fishback-win-the-2028-us-presidential-election",
+    "question": "James Fishback",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1086333,
+    "liquidity": 835920,
+    "endDate": "2028-11-07",
+    "dayChange": "0.10%",
+    "vol24h": 370933,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+    "question": "No change",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 3.6% | No: 96.4%",
+    "volume": 8221044,
+    "liquidity": 401519,
+    "endDate": "2026-12-09",
+    "dayChange": "1.15%",
+    "vol24h": 361841,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 9.3% | No: 90.8%",
+    "volume": 6439102,
+    "liquidity": 358721,
+    "endDate": "2026-12-09",
+    "dayChange": "-0.50%",
+    "vol24h": 348894,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-15",
+    "question": "November 15",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 97.7% | No: 2.3%",
+    "volume": 3383201,
+    "liquidity": 80748,
+    "endDate": "2026-11-16",
+    "dayChange": "1.55%",
+    "vol24h": 320987,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "jensen-huang-rejoins-nvidia-byptptpt",
+    "ticker": "will-jensen-huang-rejoin-nvidia-by-december-31-2026",
+    "question": "December 31, 2026",
+    "eventTitle": "Jensen Huang rejoins NVIDIA by...?",
+    "prices": "Yes: 13.1% | No: 87.0%",
+    "volume": 313716,
+    "liquidity": 43870,
+    "endDate": "2027-01-01",
+    "dayChange": "5.60%",
+    "vol24h": 291348,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-jd-vance-win-the-2028-republican-presidential-nomination",
+    "question": "J.D. Vance",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 36.8% | No: 63.2%",
+    "volume": 17377856,
+    "liquidity": 391863,
+    "endDate": "2028-11-08",
+    "dayChange": "4.70%",
+    "vol24h": 287649,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-chris-van-hollen-win-the-2028-democratic-presidential-nomination",
+    "question": "Chris Van Hollen",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.9% | No: 99.1%",
+    "volume": 3440248,
+    "liquidity": 234886,
+    "endDate": "2028-11-08",
+    "dayChange": "0.40%",
+    "vol24h": 248863,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "alaska-senate-election-winner",
+    "ticker": "will-mary-peltola-win-the-alaska-senate-race-in-2026",
+    "question": "Mary Peltola (D)",
+    "eventTitle": "Alaska Senate Election Winner",
+    "prices": "Yes: 99.8% | No: 0.3%",
+    "volume": 5781654,
+    "liquidity": 343866,
+    "endDate": "2026-11-04",
+    "dayChange": "0.10%",
+    "vol24h": 217116,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-november-2026",
+    "ticker": "will-bitcoin-dip-to-55k-in-november-2026",
+    "question": "↓ 55,000",
+    "eventTitle": "What price will Bitcoin hit in November?",
+    "prices": "Yes: 14.5% | No: 85.5%",
+    "volume": 454264,
+    "liquidity": 65841,
+    "endDate": "2026-12-01",
+    "dayChange": "9.70%",
+    "vol24h": 188118,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-november-9-15-2026",
+    "ticker": "will-bitcoin-dip-to-64k-november-9-15-2026",
+    "question": "↓ 64,000",
+    "eventTitle": "What price will Bitcoin hit November 9-15?",
+    "prices": "Yes: 50.0% | No: 50.0%",
+    "volume": 367790,
+    "liquidity": 47502,
+    "endDate": "2026-11-16",
+    "dayChange": "48.00%",
+    "vol24h": 174446,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "presidential-election-winner-2028",
+    "ticker": "will-jd-vance-win-the-2028-us-presidential-election",
+    "question": "JD Vance",
+    "eventTitle": "Presidential Election Winner 2028",
+    "prices": "Yes: 15.3% | No: 84.7%",
+    "volume": 19351171,
+    "liquidity": 584956,
+    "endDate": "2028-11-08",
+    "dayChange": "2.40%",
+    "vol24h": 169637,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "faa-outage-attributed-to-iran",
+    "ticker": "faa-outage-attributed-to-iran",
+    "question": "FAA outage attributed to Iran?",
+    "eventTitle": "FAA outage attributed to Iran?",
+    "prices": "Yes: 1.0% | No: 99.0%",
+    "volume": 162937,
+    "liquidity": 88401,
+    "endDate": "2026-12-01",
+    "dayChange": "0.00%",
+    "vol24h": 162937,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS | TECH | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-in-november-2026",
+    "ticker": "will-ethereum-dip-to-1800-in-november-2026",
+    "question": "↓ 1,800",
+    "eventTitle": "What price will Ethereum hit in November?",
+    "prices": "Yes: 87.0% | No: 13.0%",
+    "volume": 232874,
+    "liquidity": 66778,
+    "endDate": "2026-12-01",
+    "dayChange": "42.50%",
+    "vol24h": 150734,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "jensen-huang-rejoins-nvidia-byptptpt",
+    "ticker": "will-jensen-huang-rejoin-nvidia-by-november-30-2026",
+    "question": "November 30, 2026",
+    "eventTitle": "Jensen Huang rejoins NVIDIA by...?",
+    "prices": "Yes: 5.6% | No: 94.4%",
+    "volume": 237440,
+    "liquidity": 24438,
+    "endDate": "2026-12-01",
+    "dayChange": "2.55%",
+    "vol24h": 146999,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+    "ticker": "2026-senate-map-r-none",
+    "question": "None",
+    "eventTitle": "Which Senate Swing States will Republicans win? (Build Your Map)",
+    "prices": "Yes: 99.7% | No: 0.3%",
+    "volume": 11063555,
+    "liquidity": 210137,
+    "endDate": "2026-11-03",
+    "dayChange": "0.25%",
+    "vol24h": 144646,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-teddy-riner-win-the-2027-french-presidential-election",
+    "question": "Teddy Riner",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 1.9% | No: 98.0%",
+    "volume": 938411,
+    "liquidity": 207591,
+    "endDate": "2027-04-19",
+    "dayChange": "0.30%",
+    "vol24h": 140764,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-november-2026",
+    "ticker": "will-bitcoin-dip-to-62pt5k-in-november-2026",
+    "question": "↓ 62,500",
+    "eventTitle": "What price will Bitcoin hit in November?",
+    "prices": "Yes: 61.5% | No: 38.5%",
+    "volume": 423364,
+    "liquidity": 80266,
+    "endDate": "2026-12-01",
+    "dayChange": "37.00%",
+    "vol24h": 136495,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-january-20260729233815502",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-january-2027-meeting-20260729233815503",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in January?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 709851,
+    "liquidity": 105391,
+    "endDate": "2027-01-28",
+    "dayChange": "0.00%",
+    "vol24h": 136379,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "alaska-senate-election-winner",
+    "ticker": "will-dan-sullivan-win-the-alaska-senate-race-in-2026",
+    "question": "Sen. Dan Sullivan (R)",
+    "eventTitle": "Alaska Senate Election Winner",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 3620440,
+    "liquidity": 408222,
+    "endDate": "2026-11-04",
+    "dayChange": "-0.30%",
+    "vol24h": 129556,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "faa-outage-attributed-to-hack",
+    "ticker": "faa-outage-attributed-to-hack",
+    "question": "FAA outage attributed to hack?",
+    "eventTitle": "FAA outage attributed to hack?",
+    "prices": "Yes: 1.6% | No: 98.5%",
+    "volume": 124408,
+    "liquidity": 77391,
+    "endDate": "2026-12-01",
+    "dayChange": "0.00%",
+    "vol24h": 125187,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS | TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.4% | No: 99.7%",
+    "volume": 5713363,
+    "liquidity": 304842,
+    "endDate": "2026-12-09",
+    "dayChange": "-0.25%",
+    "vol24h": 116443,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+    "ticker": "us-announces-end-of-iranian-blockade-by-november-15-2026",
+    "question": "November 15",
+    "eventTitle": "US announces end of Iranian blockade by...?",
+    "prices": "Yes: 0.8% | No: 99.3%",
+    "volume": 2724270,
+    "liquidity": 118746,
+    "endDate": "2026-11-16",
+    "dayChange": "-0.90%",
+    "vol24h": 115559,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-before-2027",
+    "ticker": "will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+    "question": "↓ 1,750",
+    "eventTitle": "What price will Ethereum hit in 2026?",
+    "prices": "Yes: 76.0% | No: 24.0%",
+    "volume": 1160931,
+    "liquidity": 57853,
+    "endDate": "2027-01-01",
+    "dayChange": "29.00%",
+    "vol24h": 114012,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-on-november-14-2026",
+    "ticker": "will-bitcoin-dip-to-64k-on-november-14-2026",
+    "question": "↓ 64,000",
+    "eventTitle": "What price will Bitcoin hit on November 14?",
+    "prices": "Yes: 25.2% | No: 74.8%",
+    "volume": 111421,
+    "liquidity": 22407,
+    "endDate": "2026-11-15",
+    "dayChange": "0.00%",
+    "vol24h": 111421,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-november-9-15-2026",
+    "ticker": "will-bitcoin-dip-to-62k-november-9-15-2026",
+    "question": "↓ 62,000",
+    "eventTitle": "What price will Bitcoin hit November 9-15?",
+    "prices": "Yes: 19.3% | No: 80.8%",
+    "volume": 269297,
+    "liquidity": 42539,
+    "endDate": "2026-11-16",
+    "dayChange": "18.30%",
+    "vol24h": 110233,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-david-lisnard-win-the-2027-french-presidential-election",
+    "question": "David Lisnard",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 17.6% | No: 82.4%",
+    "volume": 7978495,
+    "liquidity": 436642,
+    "endDate": "2027-04-19",
+    "dayChange": "0.75%",
+    "vol24h": 109333,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-marine-le-pen-win-the-2027-french-presidential-election",
+    "question": "Marine Le Pen",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 47.3% | No: 52.6%",
+    "volume": 5628884,
+    "liquidity": 553573,
+    "endDate": "2027-04-19",
+    "dayChange": "-0.20%",
+    "vol24h": 108817,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-13",
+    "question": "November 13",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 99.8% | No: 0.2%",
+    "volume": 291911,
+    "liquidity": 67512,
+    "endDate": "2026-11-14",
+    "dayChange": "0.15%",
+    "vol24h": 106522,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 4877115,
+    "liquidity": 290649,
+    "endDate": "2026-12-09",
+    "dayChange": "-0.10%",
+    "vol24h": 104799,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-robert-f-kennedy-jr-win-the-2028-republican-presidential-nomination",
+    "question": "Robert F. Kennedy Jr.",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 17163301,
+    "liquidity": 269049,
+    "endDate": "2028-11-08",
+    "dayChange": "0.10%",
+    "vol24h": 104120,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
+    "question": "<$1.25T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 25.7% | No: 74.3%",
+    "volume": 990050,
+    "liquidity": 101508,
+    "endDate": "2028-01-01",
+    "dayChange": "4.15%",
+    "vol24h": 27086,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-1pt25t-and-1pt5t-at-market-close-on-ipo-day",
+    "question": "$1.25–$1.5T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 42.5% | No: 57.5%",
+    "volume": 607711,
+    "liquidity": 69081,
+    "endDate": "2028-01-01",
+    "dayChange": "-1.55%",
+    "vol24h": 16012,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropic-not-ipo-by-december-31-2027-539",
+    "question": "No IPO by December 31, 2027",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 430468,
+    "liquidity": 90168,
+    "endDate": "2028-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 1454,
+    "updatedAt": "2026-11-14T19:33:55.996365Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
