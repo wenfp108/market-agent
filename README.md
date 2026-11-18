@@ -67,8 +67,8 @@ Central-Bank Issues [poly] 标签
 | 仓库 | 用途 |
 |------|------|
 | [market-agent](https://github.com/wenfp108/market-agent) | 本仓库。数据采集 |
-| [Central-Bank](https://github.com/wenfp108/Central-Bank) | 原始数据存储 + Issues 指令中心 |
-| [Refinery-Engine](https://github.com/wenfp108/refinery-erngine) | 数据清洗 + AI 审计 |
+| Central-Bank（私有仓库） | 原始数据存储 + Issues 指令中心 |
+| [Refinery-Engine](https://github.com/wenfp108/refinery-engine) | 数据清洗 + AI 审计 |
 
 ## 板块分类
 
