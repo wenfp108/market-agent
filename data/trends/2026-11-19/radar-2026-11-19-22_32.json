@@ -1,0 +1,690 @@
+[
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-less-than-1pt25t-at-market-close-on-ipo-day",
+    "question": "<$1.25T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 6434027,
+    "liquidity": 150311,
+    "endDate": "2028-01-01",
+    "dayChange": "-37.50%",
+    "vol24h": 3898933,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-above",
+    "ticker": "anthropic-ipo-closing-market-cap-above-1pt1t",
+    "question": "$1.1T",
+    "eventTitle": "Anthropic IPO closing market cap above ___ ?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 2974300,
+    "liquidity": 292554,
+    "endDate": "2028-01-01",
+    "dayChange": "16.85%",
+    "vol24h": 2974297,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+    "question": "No change",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 2.9% | No: 97.0%",
+    "volume": 11308838,
+    "liquidity": 569863,
+    "endDate": "2026-12-09",
+    "dayChange": "0.75%",
+    "vol24h": 1195700,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-1pt25t-and-1pt5t-at-market-close-on-ipo-day",
+    "question": "$1.25–$1.5T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 2033691,
+    "liquidity": 105759,
+    "endDate": "2028-01-01",
+    "dayChange": "52.90%",
+    "vol24h": 1105362,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-1pt5t-and-1pt75t-at-market-close-on-ipo-day",
+    "question": "$1.5–$1.75T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 2393970,
+    "liquidity": 144211,
+    "endDate": "2028-01-01",
+    "dayChange": "-11.05%",
+    "vol24h": 1002386,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 7284248,
+    "liquidity": 243091,
+    "endDate": "2026-12-09",
+    "dayChange": "-0.10%",
+    "vol24h": 944594,
+    "updatedAt": "2026-11-19T22:29:01.439437Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-1pt75t-and-2pt0t-at-market-close-on-ipo-day",
+    "question": "$1.75–$2.0T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 2386657,
+    "liquidity": 369193,
+    "endDate": "2028-01-01",
+    "dayChange": "-2.60%",
+    "vol24h": 753284,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "jensen-huang-rejoins-nvidia-byptptpt",
+    "ticker": "will-jensen-huang-rejoin-nvidia-by-december-31-2026",
+    "question": "December 31, 2026",
+    "eventTitle": "Jensen Huang rejoins NVIDIA by...?",
+    "prices": "Yes: 5.1% | No: 94.8%",
+    "volume": 3299301,
+    "liquidity": 178882,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.90%",
+    "vol24h": 553810,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-2pt0t-and-2pt25t-at-market-close-on-ipo-day",
+    "question": "$2.0–$2.25T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 2073274,
+    "liquidity": 403812,
+    "endDate": "2028-01-01",
+    "dayChange": "-1.30%",
+    "vol24h": 436249,
+    "updatedAt": "2026-11-19T22:21:02.753333Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-above",
+    "ticker": "anthropic-ipo-closing-market-cap-above-1pt25t",
+    "question": "$1.25T",
+    "eventTitle": "Anthropic IPO closing market cap above ___ ?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 435086,
+    "liquidity": 30655,
+    "endDate": "2028-01-01",
+    "dayChange": "38.45%",
+    "vol24h": 396023,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-above",
+    "ticker": "anthropic-ipo-closing-market-cap-above-1pt2t",
+    "question": "$1.2T",
+    "eventTitle": "Anthropic IPO closing market cap above ___ ?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 365821,
+    "liquidity": 36146,
+    "endDate": "2028-01-01",
+    "dayChange": "34.95%",
+    "vol24h": 365821,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-above",
+    "ticker": "anthropic-ipo-closing-market-cap-above-1pt5t",
+    "question": "$1.5T",
+    "eventTitle": "Anthropic IPO closing market cap above ___ ?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 419608,
+    "liquidity": 50332,
+    "endDate": "2028-01-01",
+    "dayChange": "-16.00%",
+    "vol24h": 338934,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-anthropics-valuation-hit-by-december-31",
+    "ticker": "will-anthropics-valuation-hit-high-1pt5t-by-december-31-797",
+    "question": "↑$1.5T",
+    "eventTitle": "Will Anthropic’s valuation hit __ by December 31?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 999321,
+    "liquidity": 95387,
+    "endDate": "2027-01-05",
+    "dayChange": "22.35%",
+    "vol24h": 334854,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-22",
+    "question": "November 22",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 93.5% | No: 6.5%",
+    "volume": 1790231,
+    "liquidity": 60273,
+    "endDate": "2026-11-23",
+    "dayChange": "-1.00%",
+    "vol24h": 316950,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-3pt0t-or-greater-at-market-close-on-ipo-day",
+    "question": "$3.0T+",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 920839,
+    "liquidity": 207732,
+    "endDate": "2028-01-01",
+    "dayChange": "-0.10%",
+    "vol24h": 299506,
+    "updatedAt": "2026-11-19T22:21:02.753333Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-price-above-ipo-price-on-first-day",
+    "ticker": "anthropic-ipo-closing-price-above-ipo-price-on-first-day",
+    "question": "Anthropic IPO: Closing Price above IPO Price on First Day?",
+    "eventTitle": "Anthropic IPO: Closing Price above IPO Price on First Day?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 368886,
+    "liquidity": 221184,
+    "endDate": "2028-01-01",
+    "dayChange": "5.40%",
+    "vol24h": 291130,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-2pt25t-and-2pt5t-at-market-close-on-ipo-day",
+    "question": "$2.25–$2.5T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 1297778,
+    "liquidity": 133315,
+    "endDate": "2028-01-01",
+    "dayChange": "-0.30%",
+    "vol24h": 273932,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-above",
+    "ticker": "anthropic-ipo-closing-market-cap-above-1pt75t",
+    "question": "$1.75T",
+    "eventTitle": "Anthropic IPO closing market cap above ___ ?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 287925,
+    "liquidity": 62983,
+    "endDate": "2028-01-01",
+    "dayChange": "-4.90%",
+    "vol24h": 247251,
+    "updatedAt": "2026-11-19T22:27:01.702858Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-scott-colom-win-the-2028-democratic-presidential-nomination",
+    "question": "Scott Colom",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1131991,
+    "liquidity": 1263760,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 237348,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-2pt5t-and-2pt75t-at-market-close-on-ipo-day",
+    "question": "$2.5–$2.75T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 833783,
+    "liquidity": 189077,
+    "endDate": "2028-01-01",
+    "dayChange": "-0.25%",
+    "vol24h": 220626,
+    "updatedAt": "2026-11-19T22:21:02.753333Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-higher-strikes",
+    "ticker": "will-anthropics-market-cap-be-between-2pt75t-and-3pt0t-at-market-close-on-ipo-day",
+    "question": "$2.75–$3.0T",
+    "eventTitle": "Anthropic IPO Closing Market Cap",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 764964,
+    "liquidity": 182624,
+    "endDate": "2028-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 208580,
+    "updatedAt": "2026-11-19T22:21:02.753333Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-reach-1000000-by-december-31-2026-946",
+    "question": "↑ 1,000,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 3922115,
+    "liquidity": 368030,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 201503,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-above",
+    "ticker": "anthropic-ipo-closing-market-cap-above-1pt0t",
+    "question": "$1.0T",
+    "eventTitle": "Anthropic IPO closing market cap above ___ ?",
+    "prices": "Yes: 100.0% | No: 0.1%",
+    "volume": 209331,
+    "liquidity": 50351,
+    "endDate": "2028-01-01",
+    "dayChange": "2.65%",
+    "vol24h": 198617,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-bruno-retailleau-win-the-2027-french-presidential-election",
+    "question": "Bruno Retailleau",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 4432181,
+    "liquidity": 371216,
+    "endDate": "2027-04-19",
+    "dayChange": "0.20%",
+    "vol24h": 192820,
+    "updatedAt": "2026-11-19T22:27:01.702858Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-dominique-de-villepin-win-the-2027-french-presidential-election",
+    "question": "Dominique de Villepin",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 1.9% | No: 98.0%",
+    "volume": 4132152,
+    "liquidity": 241731,
+    "endDate": "2027-04-19",
+    "dayChange": "1.10%",
+    "vol24h": 188516,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-spacex-have-the-highest-ipo-market-cap-2026-516",
+    "question": "SpaceX",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 99.2% | No: 0.9%",
+    "volume": 1702512,
+    "liquidity": 187272,
+    "endDate": "2027-01-02",
+    "dayChange": "4.20%",
+    "vol24h": 187095,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-20",
+    "question": "November 20",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 98.3% | No: 1.8%",
+    "volume": 623927,
+    "liquidity": 64396,
+    "endDate": "2026-11-21",
+    "dayChange": "0.05%",
+    "vol24h": 185800,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 5.9% | No: 94.2%",
+    "volume": 7837543,
+    "liquidity": 386333,
+    "endDate": "2026-12-09",
+    "dayChange": "-0.45%",
+    "vol24h": 185593,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 6693294,
+    "liquidity": 768354,
+    "endDate": "2026-12-09",
+    "dayChange": "-0.10%",
+    "vol24h": 180786,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "anthropic-ipo-closing-market-cap-979",
+    "ticker": "will-anthropics-market-cap-be-between-0pt9t-and-1pt2t-at-market-close-on-ipo-day-by-december-31-2027",
+    "question": "0.9–1.2T",
+    "eventTitle": "Anthropic IPO Closing Market Cap (Middle Brackets)",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 364013,
+    "liquidity": 16020,
+    "endDate": "2028-01-01",
+    "dayChange": "-24.20%",
+    "vol24h": 179413,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "jensen-huang-rejoins-nvidia-byptptpt",
+    "ticker": "will-jensen-huang-rejoin-nvidia-by-november-30-2026",
+    "question": "November 30, 2026",
+    "eventTitle": "Jensen Huang rejoins NVIDIA by...?",
+    "prices": "Yes: 1.4% | No: 98.7%",
+    "volume": 2621941,
+    "liquidity": 239122,
+    "endDate": "2026-12-01",
+    "dayChange": "-1.10%",
+    "vol24h": 175407,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "trump-out-as-president-before-2027",
+    "ticker": "trump-out-as-president-before-2027",
+    "question": "Trump out as President before 2027?",
+    "eventTitle": "Trump out as President before 2027?",
+    "prices": "Yes: 2.4% | No: 97.7%",
+    "volume": 15218372,
+    "liquidity": 306855,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 174581,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "POLITICS | GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-david-lisnard-win-the-2027-french-presidential-election",
+    "question": "David Lisnard",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 18.1% | No: 82.0%",
+    "volume": 8349359,
+    "liquidity": 488699,
+    "endDate": "2027-04-19",
+    "dayChange": "0.40%",
+    "vol24h": 171099,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "jensen-huang-divorce-in-2026",
+    "ticker": "jensen-huang-divorce-in-2026",
+    "question": "December 31, 2026",
+    "eventTitle": "Jensen Huang divorce by...?",
+    "prices": "Yes: 8.5% | No: 91.5%",
+    "volume": 1095167,
+    "liquidity": 126615,
+    "endDate": "2027-01-01",
+    "dayChange": "-1.00%",
+    "vol24h": 106012,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "TECH | FINANCE",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+    "question": "↓ 60,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 81.5% | No: 18.5%",
+    "volume": 2662046,
+    "liquidity": 110127,
+    "endDate": "2027-01-01",
+    "dayChange": "6.00%",
+    "vol24h": 97834,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-anthropic-have-the-highest-ipo-market-cap-2026-673",
+    "question": "Anthropic",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.3% | No: 99.8%",
+    "volume": 1885203,
+    "liquidity": 237138,
+    "endDate": "2027-01-02",
+    "dayChange": "-3.40%",
+    "vol24h": 95186,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-dip-to-35000-by-december-31-2026-744-877-748-219-467-465-646-211-122-947-537-552-555-361-972-954-635-887-657-996-643",
+    "question": "↓ 35,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 3.0% | No: 97.0%",
+    "volume": 4028517,
+    "liquidity": 94101,
+    "endDate": "2027-01-01",
+    "dayChange": "0.25%",
+    "vol24h": 90723,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-ipo-by-market-cap-in-2026-287",
+    "ticker": "will-discord-have-the-highest-ipo-market-cap-2026-121",
+    "question": "Discord",
+    "eventTitle": "Largest IPO by market cap in 2026?",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 245999,
+    "liquidity": 90959,
+    "endDate": "2027-01-02",
+    "dayChange": "0.00%",
+    "vol24h": 1000,
+    "updatedAt": "2026-11-19T22:31:01.978347Z",
+    "category": "FINANCE | CLIMATE-SCIENCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
