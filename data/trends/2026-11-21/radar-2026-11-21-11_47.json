@@ -1,0 +1,584 @@
+[
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+    "question": "25 bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 8615763,
+    "liquidity": 251701,
+    "endDate": "2026-12-09",
+    "dayChange": "0.15%",
+    "vol24h": 1227614,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+    "question": "No change",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 8.2% | No: 91.8%",
+    "volume": 12521048,
+    "liquidity": 476981,
+    "endDate": "2026-12-09",
+    "dayChange": "4.35%",
+    "vol24h": 943145,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+    "question": "↓ 55,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 69.5% | No: 30.5%",
+    "volume": 9289137,
+    "liquidity": 76493,
+    "endDate": "2027-01-01",
+    "dayChange": "27.00%",
+    "vol24h": 691543,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+    "question": "25 bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 89.5% | No: 10.5%",
+    "volume": 10950621,
+    "liquidity": 580678,
+    "endDate": "2026-12-09",
+    "dayChange": "-3.00%",
+    "vol24h": 689586,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-22",
+    "question": "November 22",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 96.5% | No: 3.5%",
+    "volume": 2607641,
+    "liquidity": 72554,
+    "endDate": "2026-11-23",
+    "dayChange": "2.05%",
+    "vol24h": 661319,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+    "question": "50+ bps increase",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 1.8% | No: 98.2%",
+    "volume": 8589767,
+    "liquidity": 512453,
+    "endDate": "2026-12-09",
+    "dayChange": "-2.05%",
+    "vol24h": 444739,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-20",
+    "question": "November 20",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 99.7% | No: 0.4%",
+    "volume": 1153277,
+    "liquidity": 100646,
+    "endDate": "2026-11-21",
+    "dayChange": "1.15%",
+    "vol24h": 402206,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-vivek-ramaswamy-win-the-2028-republican-presidential-nomination",
+    "question": "Vivek Ramaswamy",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 100.0%",
+    "volume": 16890428,
+    "liquidity": 529898,
+    "endDate": "2028-11-08",
+    "dayChange": "-0.10%",
+    "vol24h": 374489,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-china-invade-taiwan-before-2027",
+    "ticker": "will-china-invade-taiwan-before-2027",
+    "question": "Will China invade Taiwan by end of 2026?",
+    "eventTitle": "Will China invade Taiwan by end of 2026?",
+    "prices": "Yes: 2.1% | No: 98.0%",
+    "volume": 47320645,
+    "liquidity": 246119,
+    "endDate": "2027-01-01",
+    "dayChange": "0.50%",
+    "vol24h": 363675,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+    "question": "↓ 50,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 44.4% | No: 55.6%",
+    "volume": 6723476,
+    "liquidity": 93316,
+    "endDate": "2027-01-01",
+    "dayChange": "19.40%",
+    "vol24h": 302791,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "fed-decision-in-december-20260729232808632",
+    "ticker": "will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+    "question": "50+ bps decrease",
+    "eventTitle": "Fed Decision in December?",
+    "prices": "Yes: 0.5% | No: 99.5%",
+    "volume": 7811428,
+    "liquidity": 183361,
+    "endDate": "2026-12-09",
+    "dayChange": "0.40%",
+    "vol24h": 271775,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "ECONOMY",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-roy-cooper-win-the-2028-democratic-presidential-nomination-286",
+    "question": "Roy Cooper",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 32884146,
+    "liquidity": 1013483,
+    "endDate": "2028-11-08",
+    "dayChange": "-0.20%",
+    "vol24h": 253444,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-ethereum-hit-before-2027",
+    "ticker": "will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+    "question": "↓ 1,500",
+    "eventTitle": "What price will Ethereum hit in 2026?",
+    "prices": "Yes: 64.7% | No: 35.3%",
+    "volume": 3819717,
+    "liquidity": 60396,
+    "endDate": "2027-01-01",
+    "dayChange": "22.20%",
+    "vol24h": 250550,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "ai-bubble-burst-by",
+    "ticker": "ai-industry-downturn-by-december-31-2026-857",
+    "question": "December 31, 2026",
+    "eventTitle": "AI bubble burst by...?",
+    "prices": "Yes: 69.7% | No: 30.3%",
+    "volume": 3424345,
+    "liquidity": 37770,
+    "endDate": "2027-01-01",
+    "dayChange": "60.40%",
+    "vol24h": 249610,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "TECH | FINANCE",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-november-2026",
+    "ticker": "will-bitcoin-dip-to-55k-in-november-2026",
+    "question": "↓ 55,000",
+    "eventTitle": "What price will Bitcoin hit in November?",
+    "prices": "Yes: 56.3% | No: 43.8%",
+    "volume": 919901,
+    "liquidity": 58990,
+    "endDate": "2026-12-01",
+    "dayChange": "35.80%",
+    "vol24h": 226037,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+    "question": "↓ 45,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 22.1% | No: 77.8%",
+    "volume": 10489827,
+    "liquidity": 118023,
+    "endDate": "2027-01-01",
+    "dayChange": "10.90%",
+    "vol24h": 222807,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "republican-presidential-nominee-2028",
+    "ticker": "will-marco-rubio-win-the-2028-republican-presidential-nomination",
+    "question": "Marco Rubio",
+    "eventTitle": "Republican Presidential Nominee 2028",
+    "prices": "Yes: 22.9% | No: 77.0%",
+    "volume": 12093624,
+    "liquidity": 270427,
+    "endDate": "2028-11-08",
+    "dayChange": "0.05%",
+    "vol24h": 222295,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "democratic-presidential-nominee-2028",
+    "ticker": "will-rob-sand-win-the-2028-democratic-presidential-nomination",
+    "question": "Rob Sand",
+    "eventTitle": "Democratic Presidential Nominee 2028",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1287020,
+    "liquidity": 560239,
+    "endDate": "2028-11-07",
+    "dayChange": "0.00%",
+    "vol24h": 215735,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "jensen-huang-rejoins-nvidia-byptptpt",
+    "ticker": "will-jensen-huang-rejoin-nvidia-by-december-31-2026",
+    "question": "December 31, 2026",
+    "eventTitle": "Jensen Huang rejoins NVIDIA by...?",
+    "prices": "Yes: 5.5% | No: 94.5%",
+    "volume": 3611228,
+    "liquidity": 183487,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 211815,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-confirm-that-aliens-exist-before-2027",
+    "ticker": "will-the-us-confirm-that-aliens-exist-before-2027-789-924-249",
+    "question": "December 31",
+    "eventTitle": "Will the US confirm that aliens exist by...?",
+    "prices": "Yes: 1.8% | No: 98.3%",
+    "volume": 47159576,
+    "liquidity": 2550849,
+    "endDate": "2027-01-01",
+    "dayChange": "0.10%",
+    "vol24h": 211731,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "POLITICS",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "next-french-presidential-election",
+    "ticker": "will-dominique-de-villepin-win-the-2027-french-presidential-election",
+    "question": "Dominique de Villepin",
+    "eventTitle": "Next French Presidential Election",
+    "prices": "Yes: 2.8% | No: 97.3%",
+    "volume": 4360384,
+    "liquidity": 299452,
+    "endDate": "2027-04-19",
+    "dayChange": "0.20%",
+    "vol24h": 193496,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "POLITICS | WORLD",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "jensen-huang-rejoins-nvidia-byptptpt",
+    "ticker": "will-jensen-huang-rejoin-nvidia-by-november-30-2026",
+    "question": "November 30, 2026",
+    "eventTitle": "Jensen Huang rejoins NVIDIA by...?",
+    "prices": "Yes: 1.9% | No: 98.0%",
+    "volume": 3002610,
+    "liquidity": 192243,
+    "endDate": "2026-12-01",
+    "dayChange": "0.70%",
+    "vol24h": 186471,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "TECH",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "will-the-us-invade-iran-before-2027",
+    "ticker": "will-the-us-invade-iran-before-2027",
+    "question": "Will the U.S. invade Iran before 2027?",
+    "eventTitle": "Will the U.S. invade Iran before 2027?",
+    "prices": "Yes: 7.5% | No: 92.5%",
+    "volume": 80958786,
+    "liquidity": 349202,
+    "endDate": "2027-01-01",
+    "dayChange": "1.00%",
+    "vol24h": 186204,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "POLITICS | GEOPOLITICS | WORLD",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+    "ticker": "israel-x-iran-ceasefire-continues-through-november-30",
+    "question": "November 30",
+    "eventTitle": "Israel x Iran ceasefire continues through...?",
+    "prices": "Yes: 84.5% | No: 15.5%",
+    "volume": 2204748,
+    "liquidity": 63603,
+    "endDate": "2026-11-30",
+    "dayChange": "-2.00%",
+    "vol24h": 185623,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "GEOPOLITICS",
+    "strategy_tags": [
+      "RAW_MARKET"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-november-16-22-2026",
+    "ticker": "will-bitcoin-dip-to-52k-november-16-22-2026",
+    "question": "↓ 52,000",
+    "eventTitle": "What price will Bitcoin hit November 16-22?",
+    "prices": "Yes: 6.9% | No: 93.1%",
+    "volume": 265147,
+    "liquidity": 53789,
+    "endDate": "2026-11-23",
+    "dayChange": "5.60%",
+    "vol24h": 178506,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-november-16-22-2026",
+    "ticker": "will-bitcoin-dip-to-50k-november-16-22-2026",
+    "question": "↓ 50,000",
+    "eventTitle": "What price will Bitcoin hit November 16-22?",
+    "prices": "Yes: 2.5% | No: 97.5%",
+    "volume": 210771,
+    "liquidity": 62944,
+    "endDate": "2026-11-23",
+    "dayChange": "1.45%",
+    "vol24h": 162042,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-in-november-2026",
+    "ticker": "will-bitcoin-dip-to-47pt5k-in-november-2026",
+    "question": "↓ 47,500",
+    "eventTitle": "What price will Bitcoin hit in November?",
+    "prices": "Yes: 15.7% | No: 84.4%",
+    "volume": 134753,
+    "liquidity": 57316,
+    "endDate": "2026-12-01",
+    "dayChange": "11.25%",
+    "vol24h": 154567,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959",
+    "question": "↓ 40,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 13.4% | No: 86.6%",
+    "volume": 3334192,
+    "liquidity": 85495,
+    "endDate": "2027-01-01",
+    "dayChange": "6.75%",
+    "vol24h": 150997,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "REFLEXIVITY_TREND"
+    ]
+  },
+  {
+    "slug": "bitcoin-above-on-november-21-2026",
+    "ticker": "bitcoin-above-56k-on-november-21-2026",
+    "question": "56,000",
+    "eventTitle": "Bitcoin above ___ on November 21?",
+    "prices": "Yes: 95.0% | No: 5.1%",
+    "volume": 172737,
+    "liquidity": 50082,
+    "endDate": "2026-11-21",
+    "dayChange": "-3.40%",
+    "vol24h": 146385,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "what-price-will-bitcoin-hit-before-2027",
+    "ticker": "will-bitcoin-reach-120000-by-december-31-2026-625-425-562",
+    "question": "↑ 120,000",
+    "eventTitle": "What price will Bitcoin hit in 2026?",
+    "prices": "Yes: 1.3% | No: 98.7%",
+    "volume": 2675603,
+    "liquidity": 138239,
+    "endDate": "2027-01-01",
+    "dayChange": "-0.15%",
+    "vol24h": 146374,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "CRYPTO",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "how-many-fed-rate-cuts-in-2026",
+    "ticker": "will-no-fed-rate-cuts-happen-in-2026",
+    "question": "0 (0 bps)",
+    "eventTitle": "How many Fed rate cuts in 2026?",
+    "prices": "Yes: 98.3% | No: 1.7%",
+    "volume": 9778991,
+    "liquidity": 168478,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 40171,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "ECONOMY | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "largest-company-end-of-december-2026",
+    "ticker": "will-spacex-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+    "question": "SpaceX",
+    "eventTitle": "Largest Company end of December 2026?",
+    "prices": "Yes: 0.1% | No: 99.9%",
+    "volume": 1306540,
+    "liquidity": 249912,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 39442,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "ECONOMY | TECH | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  },
+  {
+    "slug": "how-many-fed-rate-cuts-in-2026",
+    "ticker": "will-1-fed-rate-cut-happen-in-2026",
+    "question": "1 (25 bps)",
+    "eventTitle": "How many Fed rate cuts in 2026?",
+    "prices": "Yes: 0.4% | No: 99.6%",
+    "volume": 3856359,
+    "liquidity": 205456,
+    "endDate": "2027-01-01",
+    "dayChange": "0.00%",
+    "vol24h": 15907,
+    "updatedAt": "2026-11-21T11:47:13.49387Z",
+    "category": "ECONOMY | FINANCE",
+    "strategy_tags": [
+      "TAIL_RISK",
+      "HIGH_CERTAINTY"
+    ]
+  }
+]
